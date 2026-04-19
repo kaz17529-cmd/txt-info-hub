@@ -55,6 +55,15 @@
         "id": 6
     },
     {
+        "title": "【先ヨミ】TOMORROW X TOGETHER『7TH YEAR: A Moment of Stillness in the Thorns』21.5万枚でアルバム首位独走中 - Billboard JAPAN",
+        "date": "2026-04-16",
+        "category": "Comeback",
+        "desc": "メディア: Billboard JAPAN",
+        "importance": "high",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0tSXF5NWF1cndrRTBydXNLcDQtd1N5U3BnWTNlaXhWaWd2RkdUZmlSNEZiaHd1Y0kwMkt1LXN5UmEwdzBxQm1UVHoyalMyTm1MaGI0QVpjOUZ3ak1BYVA4dmU0VQ?oc=5",
+        "id": 7
+    },
+    {
         "title": "【公式】応援活動スタイルに関する実態調査アンケート実施のご案内",
         "date": "2026-04-16",
         "category": "News",
@@ -62,7 +71,16 @@
         "importance": "medium",
         "url": "https://txt-official.jp/news/4c6e75c9483f",
         "badge": "OFFICIAL",
-        "id": 7
+        "id": 8
+    },
+    {
+        "title": "TOMORROW X TOGETHERのデビュー7周年記念コンサート、全国でライブビューイング実施 - Yahoo!ニュース",
+        "date": "2026-04-15",
+        "category": "Live",
+        "desc": "メディア: Yahoo!ニュース",
+        "importance": "medium",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9LeHh6MWFhTV9YdjRXNXg5cmVlNDZuR3BlV2YwR3pJUmV4MFMyQW9oQjktcWlDd1NHdHJnalhLai14dzNLWkxoSEJVQS1nemZNbFQwR3dnRllqMnF1LU1kcktLSkRFOFVVV0h3MjRZbVNUVDhtRjB5dW9UNWNmTmM?oc=5",
+        "id": 9
     },
     {
         "title": "【公式】『2026 TXT MOA CON IN JAPAN』ライブビューイング開催決定！5月24日(日) 愛知公演を全国の映画館で生中継！",
@@ -72,7 +90,7 @@
         "importance": "high",
         "url": "https://txt-official.jp/news/93d861ee5e65",
         "badge": "OFFICIAL",
-        "id": 8
+        "id": 10
     },
     {
         "title": "【公式】TOMORROW X TOGETHER 8th Mini Album『7TH YEAR: A Moment of Stillness in the Thorns』収録曲「Stick With You」の応援方法公開！",
@@ -82,7 +100,7 @@
         "importance": "medium",
         "url": "https://txt-official.jp/news/56fcb30d86b5",
         "badge": "OFFICIAL",
-        "id": 9
+        "id": 11
     },
     {
         "title": "【公式】TOMORROW X TOGETHER 8th Mini Album『7TH YEAR: A Moment of Stillness in the Thorns』OFFICIAL MERCHANDISE 予約販売決定！",
@@ -92,7 +110,7 @@
         "importance": "high",
         "url": "https://txt-official.jp/news/be0cd39869d2",
         "badge": "OFFICIAL",
-        "id": 10
+        "id": 12
     },
     {
         "title": "【公式】TOMORROW X TOGETHER『7TH YEAR: A Moment of Stillness in the Thorns (CUSHION OF THORNS Ver.)』予約販売開始！",
@@ -102,7 +120,7 @@
         "importance": "high",
         "url": "https://txt-official.jp/news/e97d59ff863f",
         "badge": "OFFICIAL",
-        "id": 11
+        "id": 13
     },
     {
         "title": "TOMORROW X TOGETHER 8th Mini Album『7TH YEAR: A Moment of Stillness in the Thorns』発売記念「ラッキードローイベント」開催決定！【オンライン対象外】 - タワーレコード オンライン",
@@ -111,7 +129,7 @@
         "desc": "メディア: タワーレコード オンライン",
         "importance": "medium",
         "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5RR2s4N1E0WUxoZnMwMzNjZ2ptNWhEM2JWUm5vSWVrSmxBYzdOazFDR3RCakJFTDlNeXdhRlJTTWZYMDhiZnh5OGxubTctUjA5azRiUmxMZFpQd2xhT2QtZEUySQ?oc=5",
-        "id": 12
+        "id": 14
     },
     {
         "title": "【公式】【4/15修正】TOMORROW X TOGETHER 8th Mini Album『7TH YEAR: A Moment of Stillness in the Thorns』デジタルキャンペーン実施決定！",
@@ -121,7 +139,7 @@
         "importance": "high",
         "url": "https://txt-official.jp/news/c99e4bbf81de",
         "badge": "OFFICIAL",
-        "id": 13
+        "id": 15
     },
     {
         "title": "【公式】TOMORROW X TOGETHER 8th Mini Album『7TH YEAR: A Moment of Stillness in the Thorns』発売記念CDショップ「ラッキードローイベント」開催決定！",
@@ -131,7 +149,7 @@
         "importance": "high",
         "url": "https://txt-official.jp/news/b2c90395d3dc",
         "badge": "OFFICIAL",
-        "id": 14
+        "id": 16
     },
     {
         "title": "【公式】TOMORROW X TOGETHER 8th Mini Album『7TH YEAR: A Moment of Stillness in the Thorns』発売記念CDショップ企画実施決定！",
@@ -141,7 +159,7 @@
         "importance": "high",
         "url": "https://txt-official.jp/news/81e2de373a97",
         "badge": "OFFICIAL",
-        "id": 15
+        "id": 17
     },
     {
         "title": "【公式】【受付開始】『2026 TXT MOA CON IN JAPAN』4月7日(火)13:00よりプレミアムシートアップグレード抽選受付スタート！",
@@ -151,24 +169,6 @@
         "importance": "high",
         "url": "https://txt-official.jp/news/4262430d6b17",
         "badge": "OFFICIAL",
-        "id": 16
-    },
-    {
-        "title": "【韓流】TXT、新アルバムタイトル曲は「STICK WITH YOU」（日刊スポーツ） - Yahoo!ニュース",
-        "date": "2026-04-06",
-        "category": "Comeback",
-        "desc": "メディア: Yahoo!ニュース",
-        "importance": "high",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9LbkNzYmYwSWEtTzBiMmhLbFBlMW96dGJ2WmNqaUhJQ01jRmp5UXF3bmk2RHFWUnVwRHhJbkV5MGd2a1BZY25DcVpXWjJYSkpxUXhRb2JNd2EyNndJV0NETGlIMWY0ajBlb1BlZkF5YWRaTFFaNW9RWGR3a2JCcTg?oc=5",
-        "id": 17
-    },
-    {
-        "title": "TOMORROW X TOGETHERのヨンジュンとスビン、ぎこちなさをBTSのRMのアドバイスで解消 | - Numero TOKYO",
-        "date": "2026-04-03",
-        "category": "News",
-        "desc": "メディア: Numero TOKYO",
-        "importance": "medium",
-        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBweUtxZTM5MlpEWlI1bElzTDF2cFBSVzZjeFVCZ1hGQWVUal9uMW1uOV9hejlSSEQ5ZjBkTUpybTJWUV9fVThIRkk5MEtzTXllSl9zdkZ6dTVWTzFBdThhY213?oc=5",
         "id": 18
     },
     {
