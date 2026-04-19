@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TXT Info Hub | Tomorrow X Together Latest Updates</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600;800&family=Noto+Sans+JP:wght@300;400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+<body>
+    <div class="background-effects">
+        <div class="glow glow-1"></div>
+        <div class="glow glow-2"></div>
+    </div>
+
+    <header class="header">
+        <div class="container">
+            <h1 class="logo">TXT <span>HUB</span></h1>
+            <p class="subtitle">Tomorrow X Together Global Updates Tracker</p>
+            <nav class="main-nav">
+                <a href="index.html" class="nav-link active"><i class="fa-solid fa-newspaper"></i> NEWS / INFO</a>
+                <a href="videos.html" class="nav-link"><i class="fa-brands fa-youtube" style="color: #ff0000;"></i> LATEST VIDEOS</a>
+            </nav>
+        </div>
+    </header>
+
+    <main class="container">
+        <section class="filters" id="filters">
+            <button class="filter-btn active" data-filter="all">All</button>
+            <button class="filter-btn" data-filter="comeback"><i class="fa-solid fa-compact-disc"></i> Comeback</button>
+            <button class="filter-btn" data-filter="live"><i class="fa-solid fa-microphone-lines"></i> Live</button>
+            <button class="filter-btn" data-filter="news"><i class="fa-regular fa-newspaper"></i> News</button>
+            <button class="filter-btn" data-filter="rumor"><i class="fa-solid fa-user-secret"></i> Rumors</button>
+        </section>
+
+        <section class="grid-container" id="info-grid">
+            <!-- Cards will be populated here by JavaScript -->
+        </section>
+    </main>
+
+    <footer class="footer">
+        <div class="container">
+            <p>&copy; 2026 TXT Info Hub Mockup. This is an unofficial fan-made concept.</p>
+        </div>
+    </footer>
+
+    <script src="auth.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>

@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Videos | TXT Info Hub</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600;800&family=Noto+Sans+JP:wght@300;400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+<body>
+    <div class="background-effects">
+        <div class="glow glow-1"></div>
+        <div class="glow glow-2"></div>
+    </div>
+
+    <header class="header">
+        <div class="container">
+            <h1 class="logo">TXT <span>HUB</span></h1>
+            <p class="subtitle">Tomorrow X Together Global Updates Tracker</p>
+            <nav class="main-nav">
+                <a href="index.html" class="nav-link"><i class="fa-solid fa-newspaper"></i> NEWS / INFO</a>
+                <a href="videos.html" class="nav-link active"><i class="fa-brands fa-youtube" style="color: #ff0000;"></i> LATEST VIDEOS</a>
+            </nav>
+        </div>
+    </header>
+
+    <main class="container">
+        <div style="text-align: center; margin-bottom: 2rem;">
+            <p style="color: var(--text-muted);">世界中のTXT関連動画を新着順に表示しています (最大100件)</p>
+        </div>
+
+        <section class="grid-container" id="video-grid">
+            <!-- Video cards will be populated here by JavaScript -->
+            <div style="grid-column: 1 / -1; text-align: center; padding: 3rem;">
+                <i class="fa-solid fa-circle-notch fa-spin fa-3x" style="color: var(--text-muted);"></i>
+            </div>
+        </section>
+    </main>
+
+    <footer class="footer">
+        <div class="container">
+            <p>&copy; 2026 TXT Info Hub Mockup. This is an unofficial fan-made concept.</p>
+        </div>
+    </footer>
+
+    <script src="auth.js"></script>
+    <script src="videos.js"></script>
+</body>
+</html>

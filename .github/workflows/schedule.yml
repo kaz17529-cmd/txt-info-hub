@@ -1,0 +1,36 @@
+name: Daily TXT Scraper
+
+on:
+  schedule:
+    # 毎日 UTC 22:00 = JST 日本時間 朝7:00 に実行される設定
+    - cron: '0 22 * * *'
+  # 手動実行のトリガー
+  workflow_dispatch:
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          
+      - name: Run Scraper
+        run: |
+          python scraper.py
+          python video_scraper.py
+          
+      - name: Commit and Push changes
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add data.json videos.json
+          git diff --quiet && git diff --staged --quiet || (git commit -m "auto-update: latest news & videos" && git push)
