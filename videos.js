@@ -40,6 +40,26 @@ const renderVideos = (videos) => {
     });
 }
 
+const parseRelativeTime = (str) => {
+    if (!str) return 0;
+    const now = new Date().getTime();
+    
+    // Extract the number
+    const match = str.match(/\d+/);
+    if (!match) return 0; // fallback
+    const val = parseInt(match[0], 10);
+    
+    if (str.includes('秒')) return now - val * 1000;
+    if (str.includes('分')) return now - val * 60 * 1000;
+    if (str.includes('時間')) return now - val * 60 * 60 * 1000;
+    if (str.includes('日')) return now - val * 24 * 60 * 60 * 1000;
+    if (str.includes('週間')) return now - val * 7 * 24 * 60 * 60 * 1000;
+    if (str.includes('か月') || str.includes('ヶ月')) return now - val * 30 * 24 * 60 * 60 * 1000;
+    if (str.includes('年')) return now - val * 365 * 24 * 60 * 60 * 1000;
+    
+    return 0; // fallback
+};
+
 const fetchVideos = async () => {
     try {
         const response = await fetch('videos.json');
@@ -47,7 +67,14 @@ const fetchVideos = async () => {
             throw new Error('ネットワークエラー');
         }
         const data = await response.json();
-        // 念のため逆順ソートはスクレイパー側で保証されているはずですが、ここではそのまま出力します
+        
+        // 動画を新しい順（降順）にソート
+        data.sort((a, b) => {
+            const timeA = parseRelativeTime(a.published_time);
+            const timeB = parseRelativeTime(b.published_time);
+            return timeB - timeA;
+        });
+
         renderVideos(data);
     } catch (error) {
         console.error('動画取得エラー:', error);
