@@ -26,7 +26,7 @@ const renderCards = (data) => {
     data.forEach((item, index) => {
         const card = document.createElement('article');
         card.className = 'info-card';
-        card.setAttribute('data-category', item.category);
+        card.setAttribute('data-category', item.category.toLowerCase());
         
         // 少しずつアニメーション遅延をつける
         card.style.animationDelay = `${index * 0.1}s`;
@@ -39,7 +39,7 @@ const renderCards = (data) => {
         card.innerHTML = `
             ${importanceBadge}
             <div class="card-meta">
-                <span class="badge ${item.category}">${getCategoryLabel(item.category)}</span>
+                <span class="badge ${item.category.toLowerCase()}">${getCategoryLabel(item.category.toLowerCase())}</span>
                 <span class="card-date">${item.date}</span>
             </div>
             <h2 class="card-title">${item.title}</h2>
@@ -91,7 +91,7 @@ filterBtns.forEach(btn => {
         if(filterValue === 'all') {
             renderCards(currentData);
         } else {
-            const filteredData = currentData.filter(item => item.category === filterValue);
+            const filteredData = currentData.filter(item => item.category.toLowerCase() === filterValue);
             renderCards(filteredData);
         }
     });
