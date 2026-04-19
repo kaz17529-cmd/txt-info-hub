@@ -60,6 +60,14 @@ const fetchData = async () => {
         if (!response.ok) {
             throw new Error('ネットワークエラーが発生しました');
         }
+        
+        const lastModified = response.headers.get('Last-Modified');
+        const updateTimeDiv = document.getElementById('last-updated');
+        if (lastModified && updateTimeDiv) {
+            const date = new Date(lastModified);
+            updateTimeDiv.innerHTML = `<i class="fa-solid fa-clock-rotate-left"></i> 最終更新: ${date.toLocaleString('ja-JP')}`;
+        }
+
         currentData = await response.json();
         // 日付が新しい順（降順）にソート
         currentData.sort((a, b) => new Date(b.date) - new Date(a.date));

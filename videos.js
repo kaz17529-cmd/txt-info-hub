@@ -66,6 +66,14 @@ const fetchVideos = async () => {
         if (!response.ok) {
             throw new Error('ネットワークエラー');
         }
+
+        const lastModified = response.headers.get('Last-Modified');
+        const updateTimeDiv = document.getElementById('last-updated');
+        if (lastModified && updateTimeDiv) {
+            const date = new Date(lastModified);
+            updateTimeDiv.innerHTML = `<i class="fa-solid fa-clock-rotate-left"></i> 最終更新: ${date.toLocaleString('ja-JP')}`;
+        }
+
         const data = await response.json();
         
         // 動画を新しい順（降順）にソート
