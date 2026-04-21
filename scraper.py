@@ -49,81 +49,100 @@ def get_official_news():
     return results
 
 def main():
-    # 1. Google News RSSからの取得
-    query = quote('"Tomorrow X Together" OR "TOMORROW X TOGETHER" OR TXT OR "トゥモローバイトゥゲザー"')
-    url = f"https://news.google.com/rss/search?q={query}&hl=ja&gl=JP&ceid=JP:ja"
-    
-    print(f"Fetching news from Google News RSS...")
     news_items = []
-    try:
-        req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0'})
-        with urllib.request.urlopen(req) as response:
-            xml_data = response.read()
+    
+    # 1. 各国のGoogle News RSSからの取得
+    locales = [
+        # 日本
+        {"hl": "ja", "gl": "JP", "ceid": "JP:ja", "query": '"Tomorrow X Together" OR "TOMORROW X TOGETHER" OR TXT OR "トゥモローバイトゥゲザー"'},
+        # 韓国
+        {"hl": "ko", "gl": "KR", "ceid": "KR:ko", "query": '"Tomorrow X Together" OR "투모로우바이투게더" OR TXT'},
+        # グローバル (英語)
+        {"hl": "en-US", "gl": "US", "ceid": "US:en", "query": '"Tomorrow X Together" OR TXT OR "Tomorrow by Together"'}
+    ]
+    
+    for loc in locales:
+        print(f"Fetching news from {loc['gl']}...")
+        query = quote(loc["query"])
+        url = f"https://news.google.com/rss/search?q={query}&hl={loc['hl']}&gl={loc['gl']}&ceid={loc['ceid']}"
         
-        root = ET.fromstring(xml_data)
-        
-        # ニュースアイテムの解析 (最大10個)
-        for idx, item in enumerate(root.findall('.//item')):
-            if idx >= 10:
-                break
-                
-            title = item.find('title').text
-            pubDate_str = item.find('pubDate').text
-            source = item.find('source').text if item.find('source') is not None else ""
-            link = item.find('link').text
+        try:
+            req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0'})
+            with urllib.request.urlopen(req) as response:
+                xml_data = response.read()
             
-            # 日付文字列のパース (例: Thu, 19 Apr 2026 12:00:00 GMT)
-            try:
-                pubDate_obj = datetime.datetime.strptime(pubDate_str, "%a, %d %b %Y %H:%M:%S %Z")
-                date_str = pubDate_obj.strftime("%Y-%m-%d")
-            except:
-                date_str = datetime.datetime.now().strftime("%Y-%m-%d")
-                
-            desc = f"メディア: {source}"
+            root = ET.fromstring(xml_data)
             
-            # カテゴリと重要度の判定
-            category = "News"
-            importance = "medium"
-            
-            title_lower = title.lower()
-            if any(word in title_lower for word in ["カムバック", "comeback", "アルバム", "mv", "リリース"]):
-                category = "Comeback"
-                importance = "high"
-            elif any(word in title_lower for word in ["ライブ", "ツアー", "コンサート", "公演", "ライブ", "ドーム"]):
-                category = "Live"
-            elif any(word in title_lower for word in ["噂", "rumor", "話題", "考察", "sns"]):
-                category = "Rumor"
-                importance = "low"
+            # 各言語最大15個程度取得
+            for idx, item in enumerate(root.findall('.//item')):
+                if idx >= 15:
+                    break
+                    
+                title = item.find('title').text
+                pubDate_str = item.find('pubDate').text
+                source = item.find('source').text if item.find('source') is not None else ""
+                link = item.find('link').text
                 
-            news_items.append({
-                "title": title,
-                "date": date_str,
-                "category": category,
-                "desc": desc,
-                "importance": importance,
-                "url": link
-            })
-    except Exception as e:
-        print(f"Error fetching data: {e}")
+                # 日付パース
+                try:
+                    pubDate_obj = datetime.datetime.strptime(pubDate_str, "%a, %d %b %Y %H:%M:%S %Z")
+                    date_str = pubDate_obj.strftime("%Y-%m-%d")
+                except:
+                    date_str = datetime.datetime.now().strftime("%Y-%m-%d")
+                    
+                desc = f"メディア({loc['gl']}): {source}"
+                
+                category = "News"
+                importance = "medium"
+                title_lower = title.lower()
+                
+                # 言語横断のキーワードで判定
+                if any(word in title_lower for word in ["カムバック", "comeback", "アルバム", "mv", "リリース", "컴백", "앨범", "뮤직비디오"]):
+                    category = "Comeback"
+                    importance = "high"
+                elif any(word in title_lower for word in ["ライブ", "ツアー", "コンサート", "公演", "ドーム", "live", "tour", "concert", "라이브", "투어", "콘서트", "공연", "콘서트"]):
+                    category = "Live"
+                elif any(word in title_lower for word in ["噂", "rumor", "話題", "考察", "sns", "루머", "이슈", "비하인드"]):
+                    category = "Rumor"
+                    importance = "low"
+                    
+                news_items.append({
+                    "title": title,
+                    "date": date_str,
+                    "category": category,
+                    "desc": desc,
+                    "importance": importance,
+                    "url": link
+                })
+        except Exception as e:
+            print(f"Error fetching data from {loc['gl']}: {e}")
 
     # 2. 公式サイトからの取得を追加
     print("Fetching news from Official Site...")
     official_items = get_official_news()
     news_items.extend(official_items)
     
+    # URLの重複排除
+    seen_urls = set()
+    unique_news = []
+    for item in news_items:
+        if item["url"] not in seen_urls:
+            seen_urls.add(item["url"])
+            unique_news.append(item)
+    
     # 日付で降順にソート (新しい順)
-    news_items.sort(key=lambda x: x["date"], reverse=True)
+    unique_news.sort(key=lambda x: x["date"], reverse=True)
     
     # IDを振り直す
-    for idx, item in enumerate(news_items):
+    for idx, item in enumerate(unique_news):
         item["id"] = idx + 1
 
-    # JSONファイルに出力
+    # JSONに出力
     output_file = 'data.json'
     with open(output_file, 'w', encoding='utf-8') as f:
-        json.dump(news_items, f, ensure_ascii=False, indent=4)
+        json.dump(unique_news, f, ensure_ascii=False, indent=4)
         
-    print(f"Successfully scraped {len(news_items)} items and updated {output_file}.")
+    print(f"Successfully scraped {len(unique_news)} items and updated {output_file}.")
 
 if __name__ == "__main__":
     main()

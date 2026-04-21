@@ -63,7 +63,7 @@ def get_youtube_results(query, max_results=100):
     return videos
 
 if __name__ == "__main__":
-    search_keywords = "TXT OR Tomorrow X Together OR トゥモローバイトゥゲザー"
+    search_keywords = "TXT OR Tomorrow X Together OR トゥモローバイトゥゲザー OR 투모로우바이투게더"
     # 動画を最大100件取得
     videos = get_youtube_results(search_keywords, 100)
     
