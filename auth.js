@@ -1,6 +1,6 @@
 document.addEventListener('DOMContentLoaded', () => {
-    // セッションにパスワードが保存されていれば認証スキップ（タブを切るまで有効）
-    if (sessionStorage.getItem('txtHubAuth') === 'true') {
+    // ブラウザにパスワードが保存されていれば認証スキップ（次回以降も有効）
+    if (localStorage.getItem('txtHubAuth') === 'true') {
         return;
     }
 
@@ -32,7 +32,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const checkPassword = () => {
         if (input.value === '0304') {
             // パスワード正解
-            sessionStorage.setItem('txtHubAuth', 'true');
+            localStorage.setItem('txtHubAuth', 'true');
             overlay.style.opacity = '0';
             document.body.classList.remove('locked');
             
