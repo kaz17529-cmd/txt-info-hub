@@ -1,12 +1,75 @@
 [
     {
-        "title": "TOMORROW X TOGETHER YEONJUN、7月10日に 2nd Mini Album‘NO LABELS: PART 02’をリリース！ - UNIVERSAL MUSIC JAPAN",
-        "date": "2026-06-16",
+        "title": "TXTのヨンジュン、セカンドEP『NO LABELS：PART 02』を7月にリリース | チバテレ＋プラス - 千葉テレビ放送株式会社",
+        "date": "2026-06-17",
         "category": "Comeback",
-        "desc": "メディア(JP): UNIVERSAL MUSIC JAPAN",
+        "desc": "メディア(JP): 千葉テレビ放送株式会社",
         "importance": "high",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9GOXMycTBxbzNaamxCREtCa0FDTlNCNzhVZW40b3FfUTAyRURCYWR6VnctWFJ1cWU0WE5aUzNmbmswY1kybm5wQXl0UGZzRUxtOG9HWkFtaExFcGxteU1JQ0JIako?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5MbmpHaHprblJINERQbEFyblVXM1hzNUtOaEhrQTdQcDZhNFR1X05LLTZGYnBXRlhCcDRrTHVSRnZVUjRhMmd3NU9FQm1fVUVmMUpjc0NDUzd2NVowYWZB0gFkQVVfeXFMTVhydThzeDJ3TWJGNnhMano4LWs3N2JjNlhORjZXaHI1ODdCMTFTemxTVzczWkwweW5Sc2lRalF6NDRtM082TmFQTEZiSFlRTjI5TVBvMTV6aDBxVEYxMDFNMWcteQ?oc=5",
         "id": 1
+    },
+    {
+        "title": "Mrs. GREEN APPLE×TOMORROW X TOGETHERら豪華アーティストが集結！ 『CEREMONY』で見せた“音楽の祝祭”【オフィシャルレポ vol.1】 - CanCam.jp",
+        "date": "2026-06-17",
+        "category": "News",
+        "desc": "メディア(JP): CanCam.jp",
+        "importance": "medium",
+        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1sN015eC1zalpsdDlqdDZIc29nVlVFak11cVhrTXc2U3dXdkt2MWlLQXVLcTRlWTNDQzUxWGlWUWRIN1hRUWpjZXZn?oc=5",
+        "id": 2
+    },
+    {
+        "title": "TOMORROW X TOGETHERヨンジュン、7月10日に2ndミニアルバムをリリース。ソロでの多彩な活躍が光る - Yahoo!ニュース",
+        "date": "2026-06-17",
+        "category": "Comeback",
+        "desc": "メディア(JP): Yahoo!ニュース",
+        "importance": "high",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBXalhyZ2JINHhHRTJBVllia21CYjR6TUpCUng0TXlQWkRlaVlrc01SS1dJVjA2V1lsS0FtTm45UUxRakFDeGtWRHlnRWxMODFjRzVudkV5aUdIRm5hX1JzSjU5NmxLQThhVmFJYlZiVWFhMlJhaEkzTUdSdG9NWnc?oc=5",
+        "id": 3
+    },
+    {
+        "title": "YEONJUN of TOMORROW X TOGETHER to Show a ‘More Personal Side’ of Himself on 2nd Solo Album - Billboard",
+        "date": "2026-06-17",
+        "category": "News",
+        "desc": "メディア(US): Billboard",
+        "importance": "medium",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTHdSYWgyUk42NHp2ZDVITElPaXQ3elJIQTJGcXg4MG1aSlRydnhRYjBaN1lhTk0yNGRLbldMQTgzOVNBd3l2VGg2UmwwNUhOcXg4UE5hUzdNRnNtRnNlN2RsZ2c4YU9FMXU4MkpqaXFzNUxNSHFmVlhFVHRoWFRaSFJ5SVZqVTZFY2RaNmZrMko0WFhUeHA4bjcwOEptNm52X21ISHpmMDFZN2ZmWEVoamxaUQ?oc=5",
+        "id": 4
+    },
+    {
+        "title": "Google Explains Why URLs Blocked By Robots.txt Can Still Be Indexed - Search Engine Journal",
+        "date": "2026-06-17",
+        "category": "News",
+        "desc": "メディア(US): Search Engine Journal",
+        "importance": "medium",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZDRlY05qbDUyZW9BVEhBSFlDZ2Y1SEZnUlFkS0JzOUt1MFJsVi1IZWVwckE4djh3bkFpSnVCcEhsWDBWMF9jNkYxTFBybVlPUkU5YS1LTGdFS3psdEJKWktyYnd6c0xTcUItZHUzVElUWDkwVC1UcmItNWNycF9leUNmOWdkOGpMT0J2YkZ1TG0tXzA4dHhaakxZVHBOajFkblZSZmR5V3dFaHR0VXBpNg?oc=5",
+        "id": 5
+    },
+    {
+        "title": "Google's Mueller Says llms.txt Won't Guide LLM Recommendations - Let's Data Science",
+        "date": "2026-06-17",
+        "category": "News",
+        "desc": "メディア(US): Let's Data Science",
+        "importance": "medium",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNcEMtT25BN0ljOHBOY3MyU1RPWk9vNzFWa0ozZ0tSMUktQS1kb2FXaWZZOW1OUThaUDdyeGJDcjhRNlprbW5paUZRSC1Pd1MwTUNaamw5aVhYNVB4Z05JeVJ6cmdTQmRleFFSQk9kWGpTRFJLak9obW1NbF9lVk5JZnNqdEotVzc1NlRSb3JwMzdqR3kwbFpLZWtaZ09IV3VoYUhF?oc=5",
+        "id": 6
+    },
+    {
+        "title": "Tomorrow X Together's Yeonjun to make solo comeback in July - ABS-CBN",
+        "date": "2026-06-17",
+        "category": "Comeback",
+        "desc": "メディア(US): ABS-CBN",
+        "importance": "high",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPamZSNUhCcW1ZaC1MZDBwbUtzbjkyN2lLY2tFT0hETnRIS1I3ZGwtdGU1WU9MRjU2YnVMUS1EUzBzRzJkaUJBczRsSzJTQ0pCNkpUZndmRFlvZnVuRHBjeE1KYmpDY1NDZm5Bc2wyMU81aGgtUEV2dzlvLTVoQW9LWGRyVWZ0NXlHblRZaFpLYXJ2S2xPdEhaYXlVVjdhV1NqTDJxQUZhUzdjS1JaVXc4MHFKUnpYZ2RmRkN1SUExRFpXY1U0TE9vblhMNGtqVUd0RDZ3SE9uRGo?oc=5",
+        "id": 7
+    },
+    {
+        "title": "Google’s Updated Guidance Now Says It’s “Fine” To Use LLMs.txt For AI SEO - Search Engine Journal",
+        "date": "2026-06-17",
+        "category": "News",
+        "desc": "メディア(US): Search Engine Journal",
+        "importance": "medium",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNdHVKRFg2U01UdDdPSXB0eDV2RzFtZlRnRllUVWdqZmZBc1hmQnRYeUxoT1A1VzVUamZHQk16X1BLMDV2cTlDTmlzZi0zbHItd0tIeWRiSlVESUtxUE9ZcDZ2S2NBMFJORTE2SXRLTGhMYXJhSGNaQ3JGRnhJNUxPdlpmOHJ2VHczRDVTNTBhSU1FMFQ4YTJN?oc=5",
+        "id": 8
     },
     {
         "title": "YEONJUN (ヨンジュン/TOMORROW X TOGETHER) 'NO LABELS: PART 02' 限定特典付きで発売！「応募抽選用シリアルナンバー」&タワレコ特典「フォトカード(形態別/2種ランダム)」 - タワーレコード オンライン",
@@ -14,8 +77,8 @@
         "category": "News",
         "desc": "メディア(JP): タワーレコード オンライン",
         "importance": "medium",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9FWVJnSl9wNEhBNnlTWGpaczlCQkdHR3BNTlZZbXN5MVBkaEM1cVliWGhhU2liSlVsNThmV2RIYzZNaGlHOTJ6SWV2eXU2OFM5MnRpN0ZxdkFKWWUwZjVjQ1V5d0Q4QXpTeVFKeg?oc=5",
-        "id": 2
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBZdHRrOXAtaTVJbkplTkVyY1dRMW13aXhQbE1Dc3duZVdVNW50NE80TjlsbDktT1Rvem03am1wN1RJZ3R1d0RUOWlLVWk5ME9pNDBBTzMwRTg0dzdrWU9OZHpmSkVidHBuSUZhdU1R?oc=5",
+        "id": 9
     },
     {
         "title": "TXT ヨンジュン、7月10日に2ndミニアルバム「NO LABELS：PART 02」でソロカムバック！（Kstyle） - Yahoo!ニュース",
@@ -24,16 +87,16 @@
         "desc": "メディア(JP): Yahoo!ニュース",
         "importance": "high",
         "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1zWmFuOUlpdGRTbkxLX0dRcnA4cmNfRWRyX1FZOEZOc0oxWmIta09URjJYaFBQSDRuSXFSV29qUDZYUFQyTE9UTmFyU1d5MExEVk16eXVGU0ktbW9pUk05bHhDYTRYWnVhUWVCNk9DVm5ZVDZHWHBiSW1zZ0xVckE?oc=5",
-        "id": 3
+        "id": 10
     },
     {
-        "title": "TOMORROW X TOGETHER YEONJUN、2ndミニアルバム『NO LABELS: PART 02』リリース　告知映像公開も - Real Sound｜リアルサウンド",
+        "title": "TOMORROW X TOGETHER YEONJUN、7月10日に 2nd Mini Album‘NO LABELS: PART 02’をリリース！ - UNIVERSAL MUSIC JAPAN",
         "date": "2026-06-16",
         "category": "Comeback",
-        "desc": "メディア(JP): Real Sound｜リアルサウンド",
+        "desc": "メディア(JP): UNIVERSAL MUSIC JAPAN",
         "importance": "high",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1pYzFJa2h5M2ZMd2VhUU5YOGJia1VOWHU2M2lWdFViSVdGbnJ1VzlNUUZqLUE4RkdHV3VSa2RhSXFNVE5kOFUybTlOM0h2Q2E3Z3BTOVRuRnRuQdIBX0FVX3lxTFB4UE10R1RpR1VTcnM3WG1nRm9TVm1tNzh0aExnU3JZS1RqTGZnODY1TzF6UC1KTDYzcmhPN0ZrTFk5LUxYM01oaXRldmlFVlFhbjZ0UzVST1Izem1lbTNn?oc=5",
-        "id": 4
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9GOXMycTBxbzNaamxCREtCa0FDTlNCNzhVZW40b3FfUTAyRURCYWR6VnctWFJ1cWU0WE5aUzNmbmswY1kybm5wQXl0UGZzRUxtOG9HWkFtaExFcGxteU1JQ0JIako?oc=5",
+        "id": 11
     },
     {
         "title": "TOMORROW X TOGETHER・YEONJUN、2ndミニアルバム『NO LABELS: PART 02』リリース決定！告知映像も公開 - THE FIRST TIMES",
@@ -42,25 +105,25 @@
         "desc": "メディア(JP): THE FIRST TIMES",
         "importance": "high",
         "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1RYldaSWhKSXBSTHVjTVc0blBva054NW1QMEo3a091UHJQd1NCbUc2NkI3ZVNZQmhkMVhSazJQT2VGOTlJVnBfd2pxZTA0SlZUUmVDczV6Njc?oc=5",
-        "id": 5
+        "id": 12
     },
     {
-        "title": "BTS・TXTの弟分CORTISが日本コンビニ商品をユニークに紹介！“山岡家ラーメン”やココナッツサブレ登場に反響「面白すぎ」「結構コア」 - THE FIRST TIMES",
+        "title": "TOMORROW X TOGETHER YEONJUN、2ndミニアルバム『NO LABELS: PART 02』リリース　告知映像公開も - Real Sound｜リアルサウンド",
         "date": "2026-06-16",
-        "category": "News",
-        "desc": "メディア(JP): THE FIRST TIMES",
-        "importance": "medium",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1Hd1llNEhYa0RKMkNUWWxlbmlGczBOaHYxRlViOXdCaTRhb055Q19XWGNjSURWSjlOc012RTlQWGdsWVhQRzV0blotOWRPVzJDSGhMVWpYeUU?oc=5",
-        "id": 6
+        "category": "Comeback",
+        "desc": "メディア(JP): Real Sound｜リアルサウンド",
+        "importance": "high",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1pYzFJa2h5M2ZMd2VhUU5YOGJia1VOWHU2M2lWdFViSVdGbnJ1VzlNUUZqLUE4RkdHV3VSa2RhSXFNVE5kOFUybTlOM0h2Q2E3Z3BTOVRuRnRuQdIBX0FVX3lxTFB4UE10R1RpR1VTcnM3WG1nRm9TVm1tNzh0aExnU3JZS1RqTGZnODY1TzF6UC1KTDYzcmhPN0ZrTFk5LUxYM01oaXRldmlFVlFhbjZ0UzVST1Izem1lbTNn?oc=5",
+        "id": 13
     },
     {
-        "title": "TXTヨンジュンの“メロ男すぎる”ソロ予告に反響、美肌際立つ上半身ショットに「骨と筋肉のバランス神」の声 - THE FIRST TIMES",
+        "title": "TXTヨンジュンの“メロ男すぎる”ソロ予告に反響、美肌際立つ上半身ショットに「骨と筋肉のバランス神」の声（THE FIRST TIMES） - Yahoo!ニュース",
         "date": "2026-06-16",
         "category": "News",
-        "desc": "メディア(JP): THE FIRST TIMES",
+        "desc": "メディア(JP): Yahoo!ニュース",
         "importance": "medium",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9RRWxiLV9sT3BPblpzXzJlR1hMS01fQ1lCLUVPZnpWX1VZQTFMang2d1U0Qnl0N01wNkhfaC1UY3IzcDJsaHRQbFNxeXpNdEpDdnJmZi1Pb1A?oc=5",
-        "id": 7
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0xaDFWVXNmcVlhdEE4Z1BHN2xUTGZ2eF9FbDBJTExIOXBDMnd6RUZCbERHcHlCN25tWFhzQWIxaktMSFdXUzJvQzAyRFRUdi00R3BidXUtR29WcWxuLS03M0k4VHFYTmRqdjZ4NVIwMnVMOFlfSk01c2NENUtTMU0?oc=5",
+        "id": 14
     },
     {
         "title": "TXT 연준, 솔로 컴백…7월 ‘NO LABELS: PART 02’ 발매 - 문화일보",
@@ -69,16 +132,7 @@
         "desc": "メディア(KR): 문화일보",
         "importance": "high",
         "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4tQURsWXNLTVRUOTNPZ3NxQW51UU0xblV5Mjd3ZDdpbzVOZ1JYWVlTYjNSZ0NUQTVLVk9VYUpYQXd6ME5aTzlSOE5fWlVJS0ZZ?oc=5",
-        "id": 8
-    },
-    {
-        "title": "TXT 연준, 솔로로 돌아온다 - v.daum.net",
-        "date": "2026-06-16",
-        "category": "News",
-        "desc": "メディア(KR): v.daum.net",
-        "importance": "medium",
-        "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9hUDZxQlFLcUJqeTdjNTVFUElLVjlsRjk2dndNelBqVnRwY1Y3RVZlbGNtZ1p3Y0JoY09JYXNxX1dXcWNtQ1E?oc=5",
-        "id": 9
+        "id": 15
     },
     {
         "title": "TXT 연준, 솔로 2집 ‘NO LABELS: PART 02’ 발표...8개월 만 컴백 - ppss.kr",
@@ -87,7 +141,7 @@
         "desc": "メディア(KR): ppss.kr",
         "importance": "high",
         "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBzRDh2U1V1YTRYTDFIZ05sSGl2T1NWaFdJRGI4c1V4VWdFOFR3ZUJWZDVwUWlvTm1wTmI2MVJfVHdYRWF6S3p3SjVyVnFVdy1QTnZ3eVphbzVuTjV4OGs0NjRmSVY?oc=5",
-        "id": 10
+        "id": 16
     },
     {
         "title": "[NOTICE] YEONJUN 'NO LABELS: PART 02’ Autographed Instant Photo Giveaway Event - Weverse",
@@ -96,16 +150,7 @@
         "desc": "メディア(US): Weverse",
         "importance": "medium",
         "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE0xTkN3ZmEyWXVaU0tLS0NJNGhFM1VpS0JxejlTQ3k1ZmZrYW1oUkQwWGJHRmdSb3hST1lWUGNTRkJKWXJZa0ZFcEZ0Yw?oc=5",
-        "id": 11
-    },
-    {
-        "title": "Google: LLMS.txt Files Won't Help Or Hurt Your Search Rankings - Search Engine Roundtable",
-        "date": "2026-06-16",
-        "category": "News",
-        "desc": "メディア(US): Search Engine Roundtable",
-        "importance": "medium",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9haWVLLW12cW9RdW0tZ201S05ncDZPZmlkSXBIQkRsZVotbmxMNUV1eW5mQlhHTHR4c3Qzak0xZERfN05BVXlNXzU0R3M4b2NpVHBMbTMzTnhZTGhISDBlRGI2eXJCV0FJUnV1UHMzWEJIYTR1V3JuYXMybw?oc=5",
-        "id": 12
+        "id": 17
     },
     {
         "title": "TXT’s Yeonjun Is Returning With A Second Solo Mini Album - Forbes",
@@ -114,52 +159,16 @@
         "desc": "メディア(US): Forbes",
         "importance": "medium",
         "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMmFjMnZpb2VjNXNCWnVsUW1GZk80czFKZ0lCYi1tSHdrSEo4dVJ2YkNVXzV3MzVjaWxsc1lkTUJFZVVKeTJYNXViS0J5enpzd1Iya2NYRXNKV2d5N2pNMmZjX3RnOWstX1kwaDhpVmZSUWJsZERlbzdvTldnMDAwM3NhaVJGMzl0OTNLMjBaTm10TnBtWS1ia2t4dVB4WS1BNXE1RmZkZ3d6eWlVM1ZF?oc=5",
-        "id": 13
-    },
-    {
-        "title": "Google Just Cleared Up the LLMS.txt Confusion - ALM Corp",
-        "date": "2026-06-16",
-        "category": "News",
-        "desc": "メディア(US): ALM Corp",
-        "importance": "medium",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBtajVEWEpzdUgtdGN0QTh5TXF6T1h2VXhKWDJQaUZTOEdPdVJyRDh2VVhfdzJjU3RHNm81Y05aTVMzVERzRm1xZm8yTTQtT19xNkJ6c0xSVGc0ODZPdWZ3UEVhZmtiUE95ODRLWg?oc=5",
-        "id": 14
-    },
-    {
-        "title": "TXT’s Yeonjun announces second solo album - The Music Universe",
-        "date": "2026-06-16",
-        "category": "News",
-        "desc": "メディア(US): The Music Universe",
-        "importance": "medium",
-        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1ueF96WW05b2V2eDUtUFBRdVZRMXZ3bnRDSkotVVFrVWFCTkVyMnJwTHRjZzdBOWtpSXZCbi1BSTBSd1BUcE1PYVdnR0lxczRRblNZLUwxNURlMGx6RXhHbGk0TEJaRTRab1E3Uk8xei1YSGFRYjkxcEZn?oc=5",
-        "id": 15
-    },
-    {
-        "title": "TXT’s Yeonjun Is Returning With A Second Solo Mini Album - Yahoo",
-        "date": "2026-06-16",
-        "category": "News",
-        "desc": "メディア(US): Yahoo",
-        "importance": "medium",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxONmRtNkVtb25TSDJrVnVjM3N4QXQ2bjkwdFk2cW8tM1FNbVdETG1jenl4blR4MWVadEpZVHpOaGFpaXRBd2pBcnV6UW5EWmRXVGc3aUFHNlRvT05PcEw2QkE1YWE4ZTJtenQyNFJTVGZKUXkyaFBzNGN2UVZwX2pNUFVCb2xMT0lmTl9GdFppZ1RHWHA4VWlnWkJwVzQxdkN5?oc=5",
-        "id": 16
-    },
-    {
-        "title": "TOMORROW X TOGETHER's YEONJUN announces new solo album No Labels: Part 02 - Contactmusic.com",
-        "date": "2026-06-16",
-        "category": "News",
-        "desc": "メディア(US): Contactmusic.com",
-        "importance": "medium",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRWRhNjczUU1TTE9tbWF2U1RNS3NlalVpcUlpSUYtbkxRaUg2NXlVdzZ3SkRVN1lTWUlzMWNWVThNRDBUWmlSLXdLc3d4STJzR0w2d3ViR3ExZHB0dWFWQmRSWklRRVhGZmJiYW1TaFlmZzM1aF9RaHNycU9SWUhSdXlzQUFIcVUwMTgycURyZ1lUMVUyTEZzVGUxZmczTlowSUJfRkFVNlJIMTk4NE9FWVNfWnBBd1NWNjJv?oc=5",
-        "id": 17
-    },
-    {
-        "title": "Tomorrow X Together's Yeonjun to make solo comeback in July - ABS-CBN",
-        "date": "2026-06-16",
-        "category": "Comeback",
-        "desc": "メディア(US): ABS-CBN",
-        "importance": "high",
-        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPamZSNUhCcW1ZaC1MZDBwbUtzbjkyN2lLY2tFT0hETnRIS1I3ZGwtdGU1WU9MRjU2YnVMUS1EUzBzRzJkaUJBczRsSzJTQ0pCNkpUZndmRFlvZnVuRHBjeE1KYmpDY1NDZm5Bc2wyMU81aGgtUEV2dzlvLTVoQW9LWGRyVWZ0NXlHblRZaFpLYXJ2S2xPdEhaYXlVVjdhV1NqTDJxQUZhUzdjS1JaVXc4MHFKUnpYZ2RmRkN1SUExRFpXY1U0TE9vblhMNGtqVUd0RDZ3SE9uRGo?oc=5",
         "id": 18
+    },
+    {
+        "title": "Google: LLMS.txt Files Won't Help Or Hurt Your Search Rankings - Search Engine Roundtable",
+        "date": "2026-06-16",
+        "category": "News",
+        "desc": "メディア(US): Search Engine Roundtable",
+        "importance": "medium",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9haWVLLW12cW9RdW0tZ201S05ncDZPZmlkSXBIQkRsZVotbmxMNUV1eW5mQlhHTHR4c3Qzak0xZERfN05BVXlNXzU0R3M4b2NpVHBMbTMzTnhZTGhISDBlRGI2eXJCV0FJUnV1UHMzWEJIYTR1V3JuYXMybw?oc=5",
+        "id": 19
     },
     {
         "title": "TXT’s Yeonjun sets date for solo comeback - The Korea Herald",
@@ -168,51 +177,42 @@
         "desc": "メディア(US): The Korea Herald",
         "importance": "high",
         "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBVbHpQVENqM3FqQTNTeVJnWWFvaWlUcXZWMlhEbEo0cWR4WXI1UnV1czZ6OUQybWVtSUI0dmlBdmdvejVlR1pwbVoyWVhoMUpBYVl6TENDVQ?oc=5",
-        "id": 19
-    },
-    {
-        "title": "97% Of LLMS.txt Files Got No Requests, Ahrefs Data Shows - Search Engine Journal",
-        "date": "2026-06-16",
-        "category": "News",
-        "desc": "メディア(US): Search Engine Journal",
-        "importance": "medium",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUnVfMmVLZE9lYU8xMWtQVUtRN2JmZW54SVdwTkdkNGk5dVphV3N4WnpWQ0hSNmJ0U2ttT2tiMUtPMzVCZDdNS0ItSTgteGJOSURPMlV6QUltcVd0eHVZRmY0NDBZbVNxZ25CbEpEcXNwSVZjZmhjWHZDYmlkLVFhaFZycXV2WndVUXFVZnFxbnB5UHQ5NEFxbnI0cHdhQTg?oc=5",
         "id": 20
     },
     {
-        "title": "TXT's Yeonjun to release 2nd solo album in July - The Korea Times",
+        "title": "TOMORROW X TOGETHER's YEONJUN announces new solo album No Labels: Part 02 - Contactmusic.com",
         "date": "2026-06-16",
         "category": "News",
-        "desc": "メディア(US): The Korea Times",
+        "desc": "メディア(US): Contactmusic.com",
         "importance": "medium",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQLVJuRzQzNVotc1JIUjREYVdLSnNxeFN4MDRCZzdNRTFGQ0lFMHE5emdpWjlSOFdFOVFIbU54akJxb01aLXZabnhnNkJuRlRaNVJMQWo3Rlg2Zk1YWUhsNUJQYmxpaTlDWUNWM2NIeWJ0Ylh2VkJ4OFJWWF84SUlnN3ZGWHFEcUNmYlNBRV8xWHBIblVEd0pSNWVKeEFSekN5RUs1OEI3SmtEblJFV2FMZGlneE5IMl9aNm9B0gGsAUFVX3lxTE5wVTU5RHd2UF9FbDByclpYaHpqRmRGckNLSDBIWWZ4cUZfZDl5WVRUQ1Y4dkNYLUQ2RVM4YzRYWGVOWFZwWW9sV2xhcWlzQzU0b1kxSnJfdDQ2dEEydGl3Tm8wODhaM0xVTEN2ckoxNnNmYXkyQmpNTUU2QU56YXgtTkd5WWRxTnBETGZQREdIcnFGVXFWQWtQdlh4QTdnUVY2UWRDQ3NVckhTTzE?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRWRhNjczUU1TTE9tbWF2U1RNS3NlalVpcUlpSUYtbkxRaUg2NXlVdzZ3SkRVN1lTWUlzMWNWVThNRDBUWmlSLXdLc3d4STJzR0w2d3ViR3ExZHB0dWFWQmRSWklRRVhGZmJiYW1TaFlmZzM1aF9RaHNycU9SWUhSdXlzQUFIcVUwMTgycURyZ1lUMVUyTEZzVGUxZmczTlowSUJfRkFVNlJIMTk4NE9FWVNfWnBBd1NWNjJv?oc=5",
         "id": 21
     },
     {
-        "title": "mpx-04242026-txt-auxiliarytoys - manchesterpress.com",
+        "title": "Google Just Cleared Up the LLMS.txt Confusion - ALM Corp",
         "date": "2026-06-16",
         "category": "News",
-        "desc": "メディア(US): manchesterpress.com",
+        "desc": "メディア(US): ALM Corp",
         "importance": "medium",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVlFNZEMxWHNNNEU3Q3Ffb3pIMWpxaHZvcVdJSktDbGZqRXZIRUF0YWhUdno1OFNVMGp5ZXlCVFRBMmJKYmRBeGNvNF9vdG85WUZIQWRqUGotX1ZDRGJreFd0RzJNWjFZMUdMYi16Tnc2WUNYWVBEOU53ZG5KVUNmVG04OVBfZHNSbl9oc1o3TWUxVkhtbWVvc014OGgwUTF5RjdfSnRSRFk1QVB3dXpr?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBtajVEWEpzdUgtdGN0QTh5TXF6T1h2VXhKWDJQaUZTOEdPdVJyRDh2VVhfdzJjU3RHNm81Y05aTVMzVERzRm1xZm8yTTQtT19xNkJ6c0xSVGc0ODZPdWZ3UEVhZmtiUE95ODRLWg?oc=5",
         "id": 22
     },
     {
-        "title": "[NOTICE] YEONJUN ‘NO LABELS: PART 02 (Ca - Weverse",
+        "title": "TXT’s Yeonjun announces second solo album - The Music Universe",
         "date": "2026-06-16",
         "category": "News",
-        "desc": "メディア(US): Weverse",
+        "desc": "メディア(US): The Music Universe",
         "importance": "medium",
-        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1FX3I0SG1JWndNbHFZU1E5eV9heXllMUJxLVVuVEUzNkozdWtSTjZzVXpZbzM5ZS1ZLWJPWmd0QVpwMlI4ZlhIVzFRSQ?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1ueF96WW05b2V2eDUtUFBRdVZRMXZ3bnRDSkotVVFrVWFCTkVyMnJwTHRjZzdBOWtpSXZCbi1BSTBSd1BUcE1PYVdnR0lxczRRblNZLUwxNURlMGx6RXhHbGk0TEJaRTRab1E3Uk8xei1YSGFRYjkxcEZn?oc=5",
         "id": 23
     },
     {
-        "title": "Ahrefs Finds 97% of llms.txt Files Receive No Requests - Let's Data Science",
+        "title": "TXT's Yeonjun to release 2nd solo album in July - Yonhap News Agency",
         "date": "2026-06-16",
         "category": "News",
-        "desc": "メディア(US): Let's Data Science",
+        "desc": "メディア(US): Yonhap News Agency",
         "importance": "medium",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOYm0zLVVsNFdNb0VYVktocVY2aUhQcnpYQW1PM3B6SUpMRzU2RTZjeWpfSHRiRXhTdndibmczWkZiemZGek9MQWtRNFRmWW5YcmJ6MVl4cGJUWkpqbWstRVd0azZOMEVUejUxYW94Z2ZmUS1KMlZ4VjE5ZjV0ampSUjBYSmZsS3hQMXJwS0F2OGl4R2tRTEtVR2pR?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1UU2hpbUVRSGFxcy1RenhBcHdzVUVhWmtXWlNkLVp5aGFqSmhVMUFvd1phRkZUMTlXc0RiUkU1bFY4UXFnMUl3RjQzeWNkWVJnMzNhc1pkdHNSdw?oc=5",
         "id": 24
     },
     {
@@ -254,21 +254,21 @@
         "id": 28
     },
     {
-        "title": "TXT、“ウマチュン”悲願の1位に歓喜「お兄さんたち1位おめでとう」赤ちゃんもリボンメッセージで祝福＜TXTの育児日記＞ - ｄメニューニュース",
-        "date": "2026-06-15",
-        "category": "News",
-        "desc": "メディア(JP): ｄメニューニュース",
-        "importance": "medium",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxORnpmY0xxY0VjNzlRR2ktQUM5OEVWUTVHejRRYXR0S3VxTWJNblNvVTk4R09GWElIX3VvczlOczF5Z18xLVJ1Zmo0NW96MnRWWU4tUnZQbjlrWDlnWTZ6NjBYMjd0bUtfbEhreVg3d0VCa0w3X00zNFo1OW45MkpTQ1NLVdIBgwFBVV95cUxORnpmY0xxY0VjNzlRR2ktQUM5OEVWUTVHejRRYXR0S3VxTWJNblNvVTk4R09GWElIX3VvczlOczF5Z18xLVJ1Zmo0NW96MnRWWU4tUnZQbjlrWDlnWTZ6NjBYMjd0bUtfbEhreVg3d0VCa0w3X00zNFo1OW45MkpTQ1NLVQ?oc=5",
-        "id": 29
-    },
-    {
         "title": "TXT 연준, 7월 10일 솔로 컴백 - starnewskorea.com",
         "date": "2026-06-15",
         "category": "Comeback",
         "desc": "メディア(KR): starnewskorea.com",
         "importance": "high",
         "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1vcFpvU3FhT192LWlCeF9jdDg0T3JwMHhyb3RKdVNvLURfQ1JlWlUtQ1c4MlczdWhQbUlkV0phdEpuNXBmZlVmeUwtenFUYzlBSXJsZng2NXI1Ny1XU1FNSEJQLWVVakUwZEhHVDlEQjNHSzRU?oc=5",
+        "id": 29
+    },
+    {
+        "title": "TXT 연준, 8개월만 솔로‥7월 컴백 확정 - v.daum.net",
+        "date": "2026-06-15",
+        "category": "Comeback",
+        "desc": "メディア(KR): v.daum.net",
+        "importance": "high",
+        "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5MZGZIYU9zZ1RxTGhMMmhVNW4wdnprWDdLWl9TMzJURHl6dWdqUk5qVDJYV2tKbUtyLVQ3RUk4WnZKSXZFREE?oc=5",
         "id": 30
     },
     {
@@ -299,13 +299,22 @@
         "id": 33
     },
     {
-        "title": "‘전작 빌보드 200 톱10’ 연준, 솔로 서사 잇는다…TXT 투어는 전석 매진 - 스포츠동아",
+        "title": "[문화 이슈] 투모로우바이투게더 연준, 내달 10일 미니 2집 ‘NO LABELS: PART 02’ 발매 - 비욘드포스트",
+        "date": "2026-06-15",
+        "category": "Rumor",
+        "desc": "メディア(KR): 비욘드포스트",
+        "importance": "low",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9MR3FQcE9ORjZkOGxZT1h3SVhMZ3M5ODlYQmZQTTJqMXUyTDkwRXVPazJTbUhQUk1TTHdnU1BQcTFoM2RZNHc5d09iRWlKWUotbWZxOFhDOXVaaGo4bGFMRjhiLUZTdUtRMjZ4ZFNFakVHMk1OMnBZZll2NEY?oc=5",
+        "id": 34
+    },
+    {
+        "title": "‘전작 빌보드 200 톱10’ 연준, 솔로 서사 잇는다…TXT 투어는 전석 매진 - sports.donga.com",
         "date": "2026-06-15",
         "category": "Live",
-        "desc": "メディア(KR): 스포츠동아",
+        "desc": "メディア(KR): sports.donga.com",
         "importance": "medium",
         "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1vcXowYW9vaG1zNDZhTHJDWVJQaGl5MFRLR1RxbEI5WmhUeGFEZ3o5dXVLR1gyMm9LNHRHd3ZPazB1RS1jaGdTT2RzQVZRRzRxWnlyQzg5TF93Yl9VRXRkZGpRczlRa0xyU1A2ZndB?oc=5",
-        "id": 34
+        "id": 35
     },
     {
         "title": "투모로우바이투게더(TXT), 멋쟁이 오형제~(출국)[뉴스엔TV] - newsen.com",
@@ -314,16 +323,16 @@
         "desc": "メディア(KR): newsen.com",
         "importance": "medium",
         "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5zcDNnczJVNVZURGliX2M4UXlZMTI4c1JaVXQ5S2NkR1FoRkRQbWh5WHZWbTcxblY4VU5PdGhjaXhncWVpN21lbHZMbWJlWkQ4Z0FFa052dXllSGw3QTRrTjdOaks4UDZz?oc=5",
-        "id": 35
+        "id": 36
     },
     {
-        "title": "TXT 연준, 8개월만 솔로‥7월 컴백 확정 - v.daum.net",
+        "title": "투모로우바이투게더 연준, 미니 2집 ‘NO LABELS: PART 02’로 솔로 컴백 - 톱스타뉴스",
         "date": "2026-06-15",
         "category": "Comeback",
-        "desc": "メディア(KR): v.daum.net",
+        "desc": "メディア(KR): 톱스타뉴스",
         "importance": "high",
-        "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5MZGZIYU9zZ1RxTGhMMmhVNW4wdnprWDdLWl9TMzJURHl6dWdqUk5qVDJYV2tKbUtyLVQ3RUk4WnZKSXZFREE?oc=5",
-        "id": 36
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9Cb0lNa2RHYVFwZjRsOWNPRnpyOFpIdTkwNTBsYTZnWUhDVFcwc3JTWERsaF9rZlplUm14VmVMSkMtckpKUEtWTTFxNm5NdFhONFA2MV8tUXRycVJuUDNSbzJMM0FNeDZWYnk3SjJ1MWRGQQ?oc=5",
+        "id": 37
     },
     {
         "title": "“원래 작게 나옵니다”…상복을 건네는 ‘애도의 손’ [.txt] - 한겨레",
@@ -332,15 +341,6 @@
         "desc": "メディア(KR): 한겨레",
         "importance": "medium",
         "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5BVE9OdTZUV1hPNFFweldoai1IUTNLSUEzNFNUZ05OeXZvMGtEcldGZ2ZJa0lsRVVockxSb3lTU2NtMExxU0R1VEUtQjFpTkxIcGdveVBLbC1rci1wRXRudmVqSTA?oc=5",
-        "id": 37
-    },
-    {
-        "title": "허수경 없이 매듭지은 허수경의 마지막 시집 [.txt] - 한겨레",
-        "date": "2026-06-14",
-        "category": "News",
-        "desc": "メディア(KR): 한겨레",
-        "importance": "medium",
-        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5sYi1INHpGN3lnSHp5cFRTak5GSW5tUDFzVVBiYzcwaWV0RWc3cF9zTjBrM2lQc0FJenhqb3lreWlGbEZPX3NUak1zNmRLem12T2RMNi1qMEFydGNodDN2aG12Yw?oc=5",
         "id": 38
     },
     {
@@ -354,31 +354,22 @@
         "id": 39
     },
     {
-        "title": "“재산을 흩어버리지 않으면 재앙이 닥칠 것” [.txt] - 한겨레",
-        "date": "2026-06-13",
-        "category": "News",
-        "desc": "メディア(KR): 한겨레",
-        "importance": "medium",
-        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE02eC15WWlxV0pyZkR6MFRoT2NCaUJsemY0RWtNWEo2VmUtRTlsZmlic1BlVi1fZ1V5aWEtWkpSTWZCLXJQRnVhbXZEZHdDWEZxYm5mUXVwZkJZSktJSGU5MnZ2TGNqUQ?oc=5",
-        "id": 40
-    },
-    {
         "title": "TXT・YEONJUN、赤ちゃんが心を開いてくれたことに大喜び「メロメロだね」「ほっこりした」... | Lemino ニュース - Lemino",
         "date": "2026-06-12",
         "category": "News",
         "desc": "メディア(JP): Lemino",
         "importance": "medium",
         "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9sWkJkTHFzTkRYVzlfVXVobXNXUkM4aUxJSVdVLWttUjJMd3VTRkxZTVV2OEYyX3V6T2gwWkc1NXA1U1Y5UEFIb19Gc19jNlJVbjNOcElsQWdpU2ZmSDNQMnNodVJIRmtjYk9ON3BoVWZvZFNtdkE?oc=5",
-        "id": 41
+        "id": 40
     },
     {
-        "title": "ミセス大森元貴×TXTボムギュがコラボ！提供曲「Force」で息ぴったりの掛け合いに「胸熱」「夢の共演」「天才的なコラボ」の声 - Yahoo!ニュース",
+        "title": "우울한 날엔 농담 한 스푼 [.txt] - 한겨레",
         "date": "2026-06-12",
         "category": "News",
-        "desc": "メディア(JP): Yahoo!ニュース",
+        "desc": "メディア(KR): 한겨레",
         "importance": "medium",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB0d3BLOTBoTG1oUWtpS2VjOEUwMEM1U1VLTUpidUtWbzRERXF6enM0OExSQnhhQV9aQ0ZrUlIyR011dWxoeEtkd1hkQ29zN0hMNzZ1czdYbXNXN1pENTViOXBfNnVQdjh0SkdUUmtCWHhSRVQ1QUc0cGxheEJSRkk?oc=5",
-        "id": 42
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE03dlR1Y1pENmtmX01VNmhMYTQtMVo1M0VlX21CYXJtT1JhR0I5V3EtOEJveGl1bFIxQzBweWljc1lMdm5tZW9IUGVJVXJFVEpseWpLalJUV1dOb1ladmh6aUNzbw?oc=5",
+        "id": 41
     },
     {
         "title": "TXT公式キャラクターが「Ora²」とコラボ！ 限定商品や壁紙などプレゼントキャンペーン実施 - 推し楽",
@@ -387,25 +378,16 @@
         "desc": "メディア(JP): 推し楽",
         "importance": "medium",
         "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAwc2F5ODZpSzlBTUNJVTZGRk1vR1lJQk5SYUNlRlZxOXk4YTR5VVpxRjFuUG9YbHdSR2pmRXVyX1FaNUU5WWF5N3pkYmVUaUljN3hTVHF2QkM?oc=5",
-        "id": 43
+        "id": 42
     },
     {
-        "title": "Ora²、TOMORROW X TOGETHER公式キャラクターPPULBATU オリジナルアイテムが当たるキャンペーン6/16(火)開始 数量限定オリジナルデザイン製品も発売 - PR TIMES",
+        "title": "Ora²、TOMORROW X TOGETHER公式キャラクターPPULBATU オリジナルアイテムが当たるキャンペーン6/16(火)開始 数量限定オリジナルデザイン製品も発売 | サンスター株式会社のプレスリリース - PR TIMES",
         "date": "2026-06-11",
-        "category": "News",
+        "category": "Comeback",
         "desc": "メディア(JP): PR TIMES",
-        "importance": "medium",
+        "importance": "high",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBra1NnSlMyNHZxd3lRRENOUlJ3UnRMcTM3NENpZGJ1T18wRExrNGUzV3Iybi02b1VwOEprcG9IbXdfam1qbWk4Y2dXMlVsWV93X0NvMGJwOEQyVXQzX09ZTDNaWV9VdXVpRVE?oc=5",
-        "id": 44
-    },
-    {
-        "title": "TXTも登場！Mrs․ GREEN APPLE主催「CEREMONY」1日目が大盛況“音楽は心と心を一つにつないでくれる力”（Kstyle） - Yahoo!ニュース",
-        "date": "2026-06-11",
-        "category": "News",
-        "desc": "メディア(JP): Yahoo!ニュース",
-        "importance": "medium",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB4emR2Q2hIT29kckxlT1N2NDdrazhZSy0wOGYyZ0F0bFcxR0g4cDNOMXBLR1VlQk9lbVBZS3ZJNk1jNi1TdjlzaFhEaEdGTVBwM2RjMWdINGVLY05JcVVuZjBYaXhTUERmLXlpVWxYYWdUQl9qeDk3WFI3RWV4Znc?oc=5",
-        "id": 45
+        "id": 43
     },
     {
         "title": "【公式】『2026 TXT MOA CON IN JAPAN』福岡公演 MOA Membership (JP)特典受け取りサイト予約開始！",
@@ -415,15 +397,33 @@
         "importance": "medium",
         "url": "https://txt-official.jp/news/fc1dc9d92fed",
         "badge": "OFFICIAL",
+        "id": 44
+    },
+    {
+        "title": "【TOMORROW X TOGETHER】「かわいいだけじゃダメですか？」カバーステージも♡「2026 TXT MOA CON IN JAPAN」千葉公演2日目を詳細レポ｜JJ（magacol） - Yahoo!ニュース",
+        "date": "2026-06-09",
+        "category": "Live",
+        "desc": "メディア(JP): Yahoo!ニュース",
+        "importance": "medium",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPY1VBSDBiVmFwOTV0cnB2dDRMb2J3N0ljTmJIcUhnWGFySm9hQ0VvTlc3cXpVN1pmZUVOWUZ5RzFtamZUVTEteUdyNDVXTlVNYTdGNjd1b09XdEZ3b3FFZ0VoSTl6enJ6QmVfOFd4bVdpZWxrWEVJdWVib0ZlUTNVbkk0Qy1xOWVW?oc=5",
+        "id": 45
+    },
+    {
+        "title": "TXT's Yeonjun set for solo comeback in July after breakout debut success - The Korea Times",
+        "date": "2026-06-09",
+        "category": "Comeback",
+        "desc": "メディア(US): The Korea Times",
+        "importance": "high",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPMnk4aG1nWnY4cW9HVEJuUlpwVFhOcHh5ZkdDRFhjYXJhYlZMQU56Vkk4SGN5NEtpR05VY1lsNFB1aC04QzNQZkNVMHVQVm5CS0JFNHhScUNZby0tbF9JMVBYcngxLXFWS29XMnZ0YjV2ai1rR29maWZWUmxsNWxsdE1PVWVQVVVBeEVUbTAwWVEtRENoVnNSY3dMbVdwSDRXdW1FUWtpQTEtS2pqSTVmcS1ScEppYlVYb2xOOEVFRDBpRG5zVzR1LdIBzgFBVV95cUxNeWotWEFBQzAzTjFrQXo4U2hCTlB5V1FneVFXOHlqRGNkUXl6SVNfT0lzYVFlRVpHamZnb0trcDZtWmVaNFpDb1ZCeGFPSDJMZUpVSnlYYVlHaWxVZ29mQm5zM2JlSXIyWVJtZEM2b1EzRV9hZ09FNzg1TUdJZUFqUl82U1hOcy03ZThlUTRNVmI5VFBzMjhoWHF4ODg5dFpic25sclM5bU1GaEZqRVJHM3NVaVNtLTMyb3hMOElkSTJHNjdUUWdsRmRvOFNmQQ?oc=5",
         "id": 46
     },
     {
-        "title": "Weverse TOMORROW X TOGETHER Media - 음악중심 육아일기 | T:TIME | TXT (투모로우바이투게더) - Weverse",
-        "date": "2026-06-10",
+        "title": "비, 위버스콘 역사상 첫 '워터폴' 무대 찢었다…TXT 수빈과 세대 초월 협업 - v.daum.net",
+        "date": "2026-06-08",
         "category": "News",
-        "desc": "メディア(KR): Weverse",
+        "desc": "メディア(KR): v.daum.net",
         "importance": "medium",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5xYVNua2VBbmlmTnFkaThQTDhCVklRVG9oSlJnM1FzTEpYVk8yS2dRaTJlUFV5QnkwSkpPcTZ4enhPdmdabGIwOVhqR2Q3SEZ1N2c?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5yWnlNUXVBclFveDdoQzJ4ZU82a3N6ejg1cHZXNUwwTTBzM3ZTeDQ5aUVRZ2ZRZHN6bmloRlJGWUdWZURNSk5JVHJtVGVJcUk?oc=5",
         "id": 47
     },
     {
