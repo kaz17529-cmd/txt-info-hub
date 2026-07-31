@@ -16,14 +16,6 @@
         "thumbnail": "https://i.ytimg.com/vi/C0EYKxF1oTI/hqdefault.jpg"
     },
     {
-        "id": "D9wJwzFOYTA",
-        "title": "뀨닝즈는 무서운 게 딱 좋아 | 동생즈의 여름방학일기 EP.3",
-        "channel": "TOMORROW X TOGETHER OFFICIAL",
-        "published_time": "1 day ago",
-        "url": "https://www.youtube.com/watch?v=D9wJwzFOYTA",
-        "thumbnail": "https://i.ytimg.com/vi/D9wJwzFOYTA/hqdefault.jpg"
-    },
-    {
         "id": "2_ZQpWVMn9c",
         "title": "[Performance37] TXT(투모로우바이투게더) '내일에서 기다릴게 (I'll See You There Tomorrow)' (4K)",
         "channel": "M2",
@@ -40,12 +32,12 @@
         "thumbnail": "https://i.ytimg.com/vi/8aRTMQvbODs/hqdefault.jpg"
     },
     {
-        "id": "EUERJYKCzWU",
-        "title": "[2026 DREAM WEEK] DAY & NIGHT Medley Live | TXT (투모로우바이투게더)️",
+        "id": "D9wJwzFOYTA",
+        "title": "뀨닝즈는 무서운 게 딱 좋아 | 동생즈의 여름방학일기 EP.3",
         "channel": "TOMORROW X TOGETHER OFFICIAL",
-        "published_time": "5 months ago",
-        "url": "https://www.youtube.com/watch?v=EUERJYKCzWU",
-        "thumbnail": "https://i.ytimg.com/vi/EUERJYKCzWU/hqdefault.jpg"
+        "published_time": "2 days ago",
+        "url": "https://www.youtube.com/watch?v=D9wJwzFOYTA",
+        "thumbnail": "https://i.ytimg.com/vi/D9wJwzFOYTA/hqdefault.jpg"
     },
     {
         "id": "P9tKTxbgdkk",
@@ -54,6 +46,14 @@
         "published_time": "3 years ago",
         "url": "https://www.youtube.com/watch?v=P9tKTxbgdkk",
         "thumbnail": "https://i.ytimg.com/vi/P9tKTxbgdkk/hqdefault.jpg"
+    },
+    {
+        "id": "EUERJYKCzWU",
+        "title": "[2026 DREAM WEEK] DAY & NIGHT Medley Live | TXT (투모로우바이투게더)️",
+        "channel": "TOMORROW X TOGETHER OFFICIAL",
+        "published_time": "5 months ago",
+        "url": "https://www.youtube.com/watch?v=EUERJYKCzWU",
+        "thumbnail": "https://i.ytimg.com/vi/EUERJYKCzWU/hqdefault.jpg"
     },
     {
         "id": "Z6o28Y0rPGk",
@@ -88,30 +88,6 @@
         "thumbnail": "https://i.ytimg.com/vi/Vd9QkWsd5p4/hqdefault.jpg"
     },
     {
-        "id": "ERtruwl7NMU",
-        "title": "[뮤뱅 원테이크 4K] 투모로우바이투게더(TXT) 'Love Language' 4K Bonus Ver. @뮤직뱅크(Music Bank) 250502",
-        "channel": "KBS Kpop",
-        "published_time": "1 year ago",
-        "url": "https://www.youtube.com/watch?v=ERtruwl7NMU",
-        "thumbnail": "https://i.ytimg.com/vi/ERtruwl7NMU/hqdefault.jpg"
-    },
-    {
-        "id": "DiHUEWBRQEI",
-        "title": "TXT (투모로우바이투게더) 'Deja Vu' Official MV",
-        "channel": "HYBE LABELS",
-        "published_time": "2 years ago",
-        "url": "https://www.youtube.com/watch?v=DiHUEWBRQEI",
-        "thumbnail": "https://i.ytimg.com/vi/DiHUEWBRQEI/hqdefault.jpg"
-    },
-    {
-        "id": "jDCUXToLZsg",
-        "title": "TOMORROW X TOGETHER - Upside Down Kiss | Show! MusicCore | aired on MBC250726 #TXT",
-        "channel": "MBC WORLD",
-        "published_time": "11 months ago",
-        "url": "https://www.youtube.com/watch?v=jDCUXToLZsg",
-        "thumbnail": "https://i.ytimg.com/vi/jDCUXToLZsg/hqdefault.jpg"
-    },
-    {
         "id": "AP2WEsJfPYU",
         "title": "TXT(투모로우바이투게더) ‘Magic’ Special Performance Video",
         "channel": "TOMORROW X TOGETHER OFFICIAL",
@@ -136,12 +112,36 @@
         "thumbnail": "https://i.ytimg.com/vi/EzJ7wCz_iK0/hqdefault.jpg"
     },
     {
-        "id": "e42AhJzYpVE",
-        "title": "TXT (투모로우바이투게더), Anitta ‘Back for More’ Official MV",
+        "id": "MhGRUmBFWgk",
+        "title": "'Love Language' Performance Video | TXT (투모로우바이투게더)",
+        "channel": "TOMORROW X TOGETHER OFFICIAL",
+        "published_time": "1 year ago",
+        "url": "https://www.youtube.com/watch?v=MhGRUmBFWgk",
+        "thumbnail": "https://i.ytimg.com/vi/MhGRUmBFWgk/hqdefault.jpg"
+    },
+    {
+        "id": "ERtruwl7NMU",
+        "title": "[뮤뱅 원테이크 4K] 투모로우바이투게더(TXT) 'Love Language' 4K Bonus Ver. @뮤직뱅크(Music Bank) 250502",
+        "channel": "KBS Kpop",
+        "published_time": "1 year ago",
+        "url": "https://www.youtube.com/watch?v=ERtruwl7NMU",
+        "thumbnail": "https://i.ytimg.com/vi/ERtruwl7NMU/hqdefault.jpg"
+    },
+    {
+        "id": "DiHUEWBRQEI",
+        "title": "TXT (투모로우바이투게더) 'Deja Vu' Official MV",
         "channel": "HYBE LABELS",
         "published_time": "2 years ago",
-        "url": "https://www.youtube.com/watch?v=e42AhJzYpVE",
-        "thumbnail": "https://i.ytimg.com/vi/e42AhJzYpVE/hqdefault.jpg"
+        "url": "https://www.youtube.com/watch?v=DiHUEWBRQEI",
+        "thumbnail": "https://i.ytimg.com/vi/DiHUEWBRQEI/hqdefault.jpg"
+    },
+    {
+        "id": "NaKrke1EL1A",
+        "title": "TXT (투모로우바이투게더) 'Cat & Dog' Official MV",
+        "channel": "HYBE LABELS",
+        "published_time": "7 years ago",
+        "url": "https://www.youtube.com/watch?v=NaKrke1EL1A",
+        "thumbnail": "https://i.ytimg.com/vi/NaKrke1EL1A/hqdefault.jpg"
     },
     {
         "id": "sswmsnPigDc",
