@@ -1,48 +1,93 @@
 [
     {
+        "title": "Weverse TXT Media - 사람 엮는 프로그램에 야쿠자를 데려오면 어떻게 합니까? | 임자 지옥 | [TO DO X TXT] EP.170 - Weverse",
+        "date": "2026-09-07",
+        "category": "News",
+        "desc": "メディア(KR): Weverse",
+        "importance": "medium",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE55MGkzRUpWb1ZKYUNrTmJWWE1KWndzT1ZPNXFpWGhMTGxlSXo0OXdmT0FMb29NLURmZ0FOcTcwcERsZW9Ic0VwN1FsY1BRWGNjYnc?oc=5",
+        "id": 1
+    },
+    {
+        "title": "llms.txt에 대해 두 가지 다른 말을 하고 있는 구글 공식 입장 (검색팀 vs 크롬팀) - 마케팅 - 정보공유 - 아이보스",
+        "date": "2026-09-07",
+        "category": "News",
+        "desc": "メディア(KR): 아이보스",
+        "importance": "medium",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1zWTBnMWQ5VUhmMFVBUlpCWV9tWDZRYlZCVlk2WW9lUmNFX2NEMmN1N0w5cVFjZEV5c2YxSUlDZi1KN29KenpUVVdfRDJ1cUE?oc=5",
+        "id": 2
+    },
+    {
+        "title": "llms.txt 를 둘러싼 구글의 두 입장 - 오픈애즈",
+        "date": "2026-09-07",
+        "category": "News",
+        "desc": "メディア(KR): 오픈애즈",
+        "importance": "medium",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAySlJUV3Z6Z1lsbEZYWW1acjJNSDc1S0htb0lGMGoxSHItUzZuTWsxZUJYenFlLUptdlhSMVpFbkNOMENaSS0yNldnWUtwZU5BUV9KZkVNUkFMU1JqWkdMV1ZydEpCQ3FaMTBqTUpR?oc=5",
+        "id": 3
+    },
+    {
+        "title": "Multimedia de TXT de Weverse - 사람 엮는 프로그 - Weverse",
+        "date": "2026-09-07",
+        "category": "News",
+        "desc": "メディア(KR): Weverse",
+        "importance": "medium",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9sY1dJYkxHT19zQ0dnR2k2dUMyN0oyTmpoSXkxcXhlTG0takhJbjdoZkRUQkxXUDRwZ1RneXBEd0RfdC1xdUY3emctSFJiSUV5RG1FYzEySjBsUQ?oc=5",
+        "id": 4
+    },
+    {
+        "title": "TOMORROW X TOGETHER Take 'STEAL THE WIND' Across Four Continents On World Tour - That Eric Alper",
+        "date": "2026-09-07",
+        "category": "Live",
+        "desc": "メディア(US): That Eric Alper",
+        "importance": "medium",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQb3pHU1RhRFoxQVRJR1h0MWNBcDBVRWZpU0FLYWlmT0Vycm51ajl6aVdqNVpVS3hFVEZkanA2S1JIVnJkLVJfN3NZOXFaLVVwME0wcEN4UDQ4RjBNakowZmJKR0I2WTNGR015R2hZRnlLLUZkYzdrcnNlR0RLNVlZTnJfSzVCaHlNMVJtZDhFdmZQcjlzZFNrZlF0YjFXd1o3TmtrMUZQVUw4LW5pZ2ZiRXpwQy1rd0FhZEE?oc=5",
+        "id": 5
+    },
+    {
+        "title": "Varenne Capital Partners Makes New $5.79 Million Investment in Textron Inc. $TXT - MarketBeat",
+        "date": "2026-09-07",
+        "category": "News",
+        "desc": "メディア(US): MarketBeat",
+        "importance": "medium",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxObExMQnVZOE5yNC13a1o5NUR4VHJiRl9YSVp2UmNrM3pEV3NNWFFXUUVpZnNKYmtNc0VUMnYtWDNra2swT0Q3VzUtZXdvNXNvNEE1dE1JOE5fWEUxQXdUOWJfQ2h3RkZxZFZic19SSlBIbE84Q3pFUjJwVGJiT0ZYcWx1cXdiMGx6YkpXVVBrdFBFZnctQjk5MWxYWDhYWXJpeThZeHdDTk5CRmJXVHpjaGJxMXo5SlA2cHBHN01XR1dxU05lQl9JSVZBYi15ay1VVDR3?oc=5",
+        "id": 6
+    },
+    {
+        "title": "Nykredit A S Makes New $2.95 Million Investment in Textron Inc. $TXT - MarketBeat",
+        "date": "2026-09-07",
+        "category": "News",
+        "desc": "メディア(US): MarketBeat",
+        "importance": "medium",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQVUxqbXN0djJGbmYxTHVLLTRoZ0tSY2lNZEFfdW1ETC1neFpWdzVZZ0Q4cXpqZ0Jlak0zWEx3TE13NkxIQWhtclU5dGREWGZwLW1HV0hzOUo4aVBOc1pqQVlBODYtdWd5T1lHclpSYmZ5TG1FdU1VdDZwVHQtRHFhQUFsdUdUbGRKTk00VVF1dXJHU05xVkc1RGIzTkZ6VWNzS09pMk9jeDVBMmRoVGdFMno5a0VDUV9zUHNtZkZuS18weEU?oc=5",
+        "id": 7
+    },
+    {
         "title": "M!LK塩﨑太智、“世界初？”TXTと“三点倒立”コラボ ツッコミ相次ぐ「なんて美しい…」「まじでなにしてんの笑」 - 山陽新聞",
         "date": "2026-09-06",
         "category": "News",
         "desc": "メディア(JP): 山陽新聞",
         "importance": "medium",
         "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBieHJFUHpVcnJudkVocmNzSXVlM1JtZDBEYlM5ekp5RmU0TDNnWmh1ZUJkbGhjVEZDYW9saFlPQ0loMXVubGJuaWpOcm50cVJ2Mnc?oc=5",
-        "id": 1
+        "id": 8
     },
     {
-        "title": "M!LK塩﨑太智、“世界初?”TXTと“三点倒立”コラボ ツッコミ相次ぐ「なんて美しい…」「まじでなにしてんの笑」 - オリコンニュース",
+        "title": "M!LK塩﨑太智、“世界初?”TXTと“三点倒立”コラボ ツッコミ相次ぐ「なんて美しい…」「まじでなにしてんの笑」 - oricon.co.jp",
         "date": "2026-09-06",
         "category": "News",
-        "desc": "メディア(JP): オリコンニュース",
+        "desc": "メディア(JP): oricon.co.jp",
         "importance": "medium",
         "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1WX19oRlFzekJULXZvc1RNSWJKN2V4V1FNVC1uX2wyUXFZUElRdFpwRXBxM1RJVkVDUUpNU1NMeTItczdpaVpid0dQc24zS1puX3hEXzFn?oc=5",
-        "id": 2
+        "id": 9
     },
     {
-        "title": "塩崎太智がTOMORROW X TOGETHERと驚きのコラボ！「合成かと思ったら本物だった笑」「一瞬脳がバグった」「カオスすぎる笑」「これは笑った」「ナイスなバランス」ツッコミ続々 - thefirsttimes.jp",
+        "title": "그림으로 읽는 의과학 혁명의 순간들 [.txt] - 한겨레",
         "date": "2026-09-06",
         "category": "News",
-        "desc": "メディア(JP): thefirsttimes.jp",
+        "desc": "メディア(KR): 한겨레",
         "importance": "medium",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9lV1JIdFhDTU13QzhxbS1sS0xjZ2RsV1FKUHpYaFZfNkxObTZySzZ2UVFqNzNPNmdWam5BbGM0b0pycTVPdThiZHlRSGdKMlljMXpieEFleVY?oc=5",
-        "id": 3
-    },
-    {
-        "title": "M!LK塩﨑太智、“世界初？”TXTと“三点倒立”コラボ ツッコミ相次ぐ「なんて美しい…」「まじでなにしてんの笑」 (オリコン) - Yahoo!ニュース",
-        "date": "2026-09-06",
-        "category": "News",
-        "desc": "メディア(JP): Yahoo!ニュース",
-        "importance": "medium",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNS2RPbXdwbmQyUGpLUkpSdmVqWl9yN1VvZ09Lb2dsNWt2SXZHMTFMQzhiY0ZtOGp3TTNSR3ZwZFRQcWJId3pEZ0lva1hqMGRQeG5nQ0dFaHA1QjRRSUJKQWNVbHc5Y3plTmh4bFhIS2pJenBadFc0dmlndENmaV96SmZjZDhTbE91Y1Z4ci1B?oc=5",
-        "id": 4
-    },
-    {
-        "title": "画像・写真 | M!LK塩﨑太智、“世界初？”TXTと“三点倒立”コラボ ツッコミ相次ぐ「なんて美しい…」「まじでなにしてんの笑」 2枚目 - オリコンニュース",
-        "date": "2026-09-06",
-        "category": "News",
-        "desc": "メディア(JP): オリコンニュース",
-        "importance": "medium",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9pNU1EZkY4bXlJSmJyNkpkTmZud3ZVcE5oY0tESXhiTkxFZ0dnV0dhOEpEMmJ0clY4SmQ1LWllM1Y0NTd2OXFJYkNwQ3hlbDhiZXVTM09iVjZ6QQ?oc=5",
-        "id": 5
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1FRXpTZFM4TUN4a18wMkxibHBKRFlPRFZjc3pQUnQzTGNRX3lIeWFkckNlN04wVlZCTkVZd1pzbkF5RjIyaWU3OEV0dVd3cFYxWUVsYUpheEdCVzRnSXFxS2FiUk5xQ2RDS0tJMmI1WFVvdw?oc=5",
+        "id": 10
     },
     {
         "title": "명성황후 시해되자, 불침번 선 미국인 “고종 지킨다”…헐버트를 위하여 [.txt] - 한겨레",
@@ -51,16 +96,7 @@
         "desc": "メディア(KR): 한겨레",
         "importance": "medium",
         "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5YY01WbEUtUGlYVFJ3M0dKWmVFdXBhamVXS3FPMG9ZYmpnYWs1SlhxRTV6UHFkN2hFZzQ0VGFKTzdqWUFfaDVPUFAyeEJIQTVIUGxfUElTZHFKUjBFcUdja09rSQ?oc=5",
-        "id": 6
-    },
-    {
-        "title": "[KCON LA 2026] TOMORROW X TOGETHER - Danger | Mnet 260906 방송 - YouTube",
-        "date": "2026-09-06",
-        "category": "News",
-        "desc": "メディア(KR): YouTube",
-        "importance": "medium",
-        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBGZ1hzWUdtRkxKX2NHcFM1RnpMU0FrSGY5TVR6ZFNkdFp5Yl9sdEV4a1ZSdC1mNXVOakotNGZEcUY2TDNnNzBGWVhzZGMwNFpzajV6T3p1SzUyVGJa?oc=5",
-        "id": 7
+        "id": 11
     },
     {
         "title": "13,020 Shares in Textron Inc. $TXT Bought by Jupiter Topco LLC - MarketBeat",
@@ -69,7 +105,7 @@
         "desc": "メディア(US): MarketBeat",
         "importance": "medium",
         "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNUUwcUkwaUpxYUdCdkVkX01TTTN1OVJLNVh2XzAta3hBaFFGdTcwUHhqWm1zMlktZlg1aExPV2dDd0Z6TFVCb0Iwdi1nNWVBMUlvMDZyRms4Zm96dEduTGtaak5BaXR2VzZqWVF0RTAwel8wSGZaX0RZOVNTbHVVa29jZDNnWk5NWTF2RWxCTVNSdk5nN2FLZHJoT3dYV0ZFMFNJREpMM3BoUVZFRlhrOUdabzZwYTRVUUhlRQ?oc=5",
-        "id": 8
+        "id": 12
     },
     {
         "title": "【公式】[HYBE INSIGHT] TOMORROW X TOGETHER Exhibition 『LAYERS OF US』in TOKYO 開催決定",
@@ -79,16 +115,25 @@
         "importance": "high",
         "url": "https://txt-official.jp/news/0005513eaae9",
         "badge": "OFFICIAL",
-        "id": 9
+        "id": 13
     },
     {
-        "title": "“헌 집 줄게 새 집 다오”…1천가구를 위한 ‘대나무숲’, 재건축 조합장 [.txt] - 한겨레",
+        "title": "【PHOTO】TXT ヒュニンカイ＆Kep1er ヒュニンバヒエら「ソウルファッションウィーク」に出席 - Kstyle",
         "date": "2026-09-05",
         "category": "News",
-        "desc": "メディア(KR): 한겨레",
+        "desc": "メディア(JP): Kstyle",
         "importance": "medium",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE81UEhRVGxfUGwyZjVhMkNXSFdLYWhpUTBxQXpxX0R2YVdnTHRaeVVZNXdiTV9ZT0IzVWpPc1ZFMFVVZjEwaF83a1c0enJ2MTlralZPcVM5ZlVnYXV3TFlxNmVjQ1g?oc=5",
-        "id": 10
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5WZHhoLWN4bHVYLWtiOFVwYTdVemlwMUFNbl9MSmdWVnlIdmNJR0M0V1JvNklycm1SR3FtSlo0bk1QeHAza3NHelNENF9KOGVhY1ZRVF85clhKNVhh?oc=5",
+        "id": 14
+    },
+    {
+        "title": "[사진]TXT 휴닝카이, '팬들 향해 반갑게' - 조선비즈 - Chosunbiz",
+        "date": "2026-09-05",
+        "category": "News",
+        "desc": "メディア(KR): Chosunbiz",
+        "importance": "medium",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSmwzVW8xM1RSRTExUnVUVVJXUWFOcTVSdUxSZ24wUi0yMFVqVVZTMzZ3bHA5a001YkZ0V2hXb3l4NWotdzZGalZQazR3ZV9TRU8ySWloc2FJYThNMllXczRMOE1pcWZJalR5XzJVRmpDa3BCUDZoaGZRbGxsamN2WFlUU09LcWVUSnFISHdTbF8zeHpRRVdYVVFWUdIBrwFBVV95cUxNLWRNSnZJYjBkU1puLWd5cWhoa1M1Sm9BZmhhRWVJMTFLc19tN3czQUVJZzBWZmk2SXhIcTJHUURjRmp0SWI2Z1M0UV93ZGo2SG1ubXVTeFdRMkxXTnF2RkZfVjdfSFVfTWhMSG5ZRFNJZ0pMRDhlUFp5ekktbHpDbFR5d3FackV5dVFfVXgtcnZwSGdYT0ZhbmlRbTNzZDJlLTlmbTQxODdIbk5KQlRN?oc=5",
+        "id": 15
     },
     {
         "title": "벌열·서리 결탁해 만든 조선의 ‘부패 사슬’ [.txt] - 한겨레",
@@ -97,16 +142,16 @@
         "desc": "メディア(KR): 한겨레",
         "importance": "medium",
         "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1DVWFjSFZscFZpLWRYNzVSZjFNLV96c0d3ZGNJb2tEQTdOQkI2NTF3RDBwdi1xUV9taGVJRGcwZElDdFEwR216N1gzZG9GMFJ2cUFUeVpfQnRIbm1HM3I5bDJlanZxQQ?oc=5",
-        "id": 11
+        "id": 16
     },
     {
-        "title": "우리는 언제 노인이 되는가, 노인은 어떻게 침묵당하는가 [.txt] - 한겨레",
+        "title": "“헌 집 줄게 새 집 다오”…1천가구를 위한 ‘대나무숲’, 재건축 조합장 [.txt] - 한겨레",
         "date": "2026-09-05",
         "category": "News",
         "desc": "メディア(KR): 한겨레",
         "importance": "medium",
-        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9HWG12b3NyR3llN0ZBVG5Kc1dYaUQtVW5kQnlpZk9ibU1taHBmSHdzTVk4TGpsLWdjZm5fSGxtVTBYb28zTENnd1pVVlYwdzlFbXI3aWttNmp3MWZBT3RzYkxkRQ?oc=5",
-        "id": 12
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE81UEhRVGxfUGwyZjVhMkNXSFdLYWhpUTBxQXpxX0R2YVdnTHRaeVVZNXdiTV9ZT0IzVWpPc1ZFMFVVZjEwaF83a1c0enJ2MTlralZPcVM5ZlVnYXV3TFlxNmVjQ1g?oc=5",
+        "id": 17
     },
     {
         "title": "【公式】＜BEHIND＞更新",
@@ -116,16 +161,7 @@
         "importance": "medium",
         "url": "https://txt-official.jp/news/cb22e8d9186d",
         "badge": "OFFICIAL",
-        "id": 13
-    },
-    {
-        "title": "Textron (TXT) Names A New Aviation Chief, Is The 23% Discount Warranted? - Yahoo Finance",
-        "date": "2026-09-04",
-        "category": "News",
-        "desc": "メディア(US): Yahoo Finance",
-        "importance": "medium",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOV2lCWV9JaFo1M0E0blBGYkd2ZGhGZGNCQm5lSkYtcXRKeUx2OXFfU09xN08ya3dIR0ZSV21NNHRaY0ZnLVpDV2l2a0t3RHlPQ2JWVjhNTS1vYklCU0o3YTVDTTliejZpOUMxQWZwVVJ1UlFZUWU5a3NHcW1wNTJsUlpaQTEydS1VVU9hdzJNelctUzUwM3BId1JDanptQQ?oc=5",
-        "id": 14
+        "id": 18
     },
     {
         "title": "Weverse TXT Image - YEONJUN 'Fxxking Star' MV Photo Sketch - Weverse",
@@ -134,7 +170,16 @@
         "desc": "メディア(US): Weverse",
         "importance": "high",
         "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBXak94NWpaRHFmZnU2aWIwQTZ4eTNTUElyaU5UTFE5NHZzWkZ5eURtU25mQ3QwcGRNZXVZR3dLUHZodVBNMFZBekZFWFBvRzJ3NHc?oc=5",
-        "id": 15
+        "id": 19
+    },
+    {
+        "title": "Textron (TXT) Names A New Aviation Chief, Is The 23% Discount Warranted? - Yahoo Finance",
+        "date": "2026-09-04",
+        "category": "News",
+        "desc": "メディア(US): Yahoo Finance",
+        "importance": "medium",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOV2lCWV9JaFo1M0E0blBGYkd2ZGhGZGNCQm5lSkYtcXRKeUx2OXFfU09xN08ya3dIR0ZSV21NNHRaY0ZnLVpDV2l2a0t3RHlPQ2JWVjhNTS1vYklCU0o3YTVDTTliejZpOUMxQWZwVVJ1UlFZUWU5a3NHcW1wNTJsUlpaQTEydS1VVU9hdzJNelctUzUwM3BId1JDanptQQ?oc=5",
+        "id": 20
     },
     {
         "title": "Is Textron (TXT) Undervalued Following Its Aviation CEO Change? - simplywall.st",
@@ -143,16 +188,7 @@
         "desc": "メディア(US): simplywall.st",
         "importance": "medium",
         "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOelVzUW5BT0JZVFhoX3NaZlZSaTZvWlhPZ0V1RGJTSlJWaXBiZzNzaThjVTA0OW1QbDN5ZGZKaWI0U2U5Q1JGcGhma1p1WVdua3J1U3ltN0lHTXJCYUpmcERqX2pURi1KUk15M2U4Vmw0R3lEUTh1SUFWSkFOd1dPN3lQX21oYjB2dkJicFFJemY5X2xNS1lRMHhjS2pmLUNHcnBpVjduZmFMMVB3SFJ1VkFvQ054MlA2eTBHbTFGcWY1RDhtZjZF0gHMAUFVX3lxTE5mMllic29RQmljUmFqN19ycU9nUGIyR1E2aU51U3dlNGtPRXBPWWxFcXBoN09KQXczTXExSWYtSFhQa1NjQ2dLcHdPWmQ0ZmxBU1FDZUt2RDh2d3RhREs4M0FKcVlSb3NRNTRYWDBYQk5WZnNGbWFhNkk1ZFlKdnVjQ1lWck1NVGpaQU1QbUd6WFgzX2NDTWdzeFVaOXFIZTNBVjE2a0p4MGNtMXRqY2Z3MS0tWHBxTnpMLS0xdjdUNERKaUdkeWQ0N2hkeQ?oc=5",
-        "id": 16
-    },
-    {
-        "title": "Empowered Funds LLC Takes $1.67 Million Position in Textron Inc. $TXT - MarketBeat",
-        "date": "2026-09-04",
-        "category": "News",
-        "desc": "メディア(US): MarketBeat",
-        "importance": "medium",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNTHRBeDMzSWo2eHhlNDN2SGtpZTg2ZHhhQVNlVFhIS3VsaEVSNFZrUWxUWG44OURNVTdKVmo5a1RZQnFLaWVHZ1QtYS0xRDBGYXlNSE5sdkY0ZzRhaUl6dU9EazFobFV6Yk9sZVZVUnRfX3R1NmtPS1pyQjJqMWRpeThYNUhDWVJPMFFnblVCVHBhZndWellPam5zekhTLTNOaDFwSWNMdXRmS1hLRlBVTVB2Y1dnTTlDTFBHV1o4OTVmQVJv?oc=5",
-        "id": 17
+        "id": 21
     },
     {
         "title": "【ファンがプロデュースしたTOMORROW X TOGETHER日本オリジナル商品第2弾 “PRODUCED BY MOA EP.2” 『WALK TOGETHER #MOAと過ごす休日』発売決定！】 - PR TIMES",
@@ -161,16 +197,7 @@
         "desc": "メディア(JP): PR TIMES",
         "importance": "medium",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA4OVhIX1Z3Z1pCUWJVTWNvekhpSHpFcHA2NkVqeHo4QzZRTlVBLU85d1ZBdHpaRGU1aGFWTU9WelFwMUpDV0FiUlJiR252ZEprU1NHX253SXB1cHpKbXVNaGRqTEtJd1piZVE?oc=5",
-        "id": 18
-    },
-    {
-        "title": "TOMORROW X TOGETHERボムギュと北村匠海が福岡へ、「奇跡旅」で友情を深める - natalie.mu",
-        "date": "2026-09-03",
-        "category": "News",
-        "desc": "メディア(JP): natalie.mu",
-        "importance": "medium",
-        "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFA4VlFNeW4xaVdmZFJYcFVUWEdZaUZ3dV9obVhacTVoQWg3SzJMT0o5SnBfYXE2WF94ZzVXN21UcVdDdnVwWThZb0FhUUU?oc=5",
-        "id": 19
+        "id": 22
     },
     {
         "title": "韓国発フローズンヨーグルト「YOAJUNG」が有楽町マルイに9月7日より期間限定出店 - PR TIMES",
@@ -179,7 +206,16 @@
         "desc": "メディア(JP): PR TIMES",
         "importance": "medium",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1DODNvSTNmcklnNVBhTTdqUVN2emd2clQxNW1WNG1hRlM4RllKdk9nWnRSbkN1amNzZ1BWUTM4N1BBdWgxcGhCYW9XUEh3MnhOYzBxWFp4b3FJWWJQRkl0V0NIYWdfX05wWFE?oc=5",
-        "id": 20
+        "id": 23
+    },
+    {
+        "title": "TXT5人の美しすぎるビジュアルに悶絶！遊園地＆カフェでのデート風ショットに「とんでもないビジュ」「心臓もたない」「美貌に酔ってしまう」（THE FIRST TIMES） - Yahoo!ニュース",
+        "date": "2026-09-03",
+        "category": "News",
+        "desc": "メディア(JP): Yahoo!ニュース",
+        "importance": "medium",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1OOGRCSWJyZjZ4TlJockR4NFp6X0VXTWpUMUVhcV9Jd2hvTFdWaGdPSmhVMllSdWhqMmlxcGx5TU5HcER1Q1dqUjJYMURLd0lrR3M1Q1A5ZjZQOUhIcmpsUmtkOENBU0xRcThQMU15c0FqMk5pVlljUUUtYjlPOVE?oc=5",
+        "id": 24
     },
     {
         "title": "새 책 줄어드는 공공도서관, 이대로 괜찮은가 [.txt] - 한겨레",
@@ -188,7 +224,7 @@
         "desc": "メディア(KR): 한겨레",
         "importance": "medium",
         "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9Oa3JlVDBhRDluSGJldi1nWWdoTlNzaTh6NXVheDhHRkJTd05Nd3BLc21FSFgwMkRveU9zTEZBeHJPcnVVbUI3VnplUldDYzhtOXp6M2gwSjFhQk5qQUNsZkF5VQ?oc=5",
-        "id": 21
+        "id": 25
     },
     {
         "title": "노벨 문학상이 없는 ‘보르헤스의 나라’…그리고 아이라 [.txt] - 한겨레",
@@ -197,25 +233,7 @@
         "desc": "メディア(KR): 한겨레",
         "importance": "medium",
         "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9qX2NsSGxpcEJpRG5uei14MGFKc2FwaTlVcG1XOEF3M09fVlF5UlN1dTM0OURKaFJYRW9YejdlVEp5Y3FZRmYyeEstRzNPR0hZVXVUQWQ5ZGpFUWp1eEZ2NjMtUQ?oc=5",
-        "id": 22
-    },
-    {
-        "title": "노동 멸시 버리고 노동 유토피아로 [.txt] - 한겨레",
-        "date": "2026-09-03",
-        "category": "News",
-        "desc": "メディア(KR): 한겨레",
-        "importance": "medium",
-        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5NT1IteS1iWEM2dnJqYjVtSzZEQThwQXp1MDV4LWJKSm0tLVlwNHdodDBFM0RRbHJBVGI2NTliTDN3ZEVrVmRaNVUwdWhxRWlxcWJYOWc3b2VETEFjTjVfa1VwMA?oc=5",
-        "id": 23
-    },
-    {
-        "title": "식민지 조선, 기이한 사건·사고로 들끓다 [.txt] - 한겨레",
-        "date": "2026-09-03",
-        "category": "News",
-        "desc": "メディア(KR): 한겨레",
-        "importance": "medium",
-        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBUS3kzVFVlRzF3ZDBJNzN6UXlfYmpRNlBHcmdzR2dQRF9LNFlrWmpEUlpPVE16VWdORFZ4QWgzOUpKMlE1TC1DU19aSGJ2TlE5THd4YTdUTS01eTRYUGVxWmNEcw?oc=5",
-        "id": 24
+        "id": 26
     },
     {
         "title": "Txt - EA",
@@ -224,7 +242,7 @@
         "desc": "メディア(US): EA",
         "importance": "medium",
         "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPd0VjYVZ0XzY1c0Z3ZTBCVDVJUUxqVU9QNFVUbV92bUZ0V1o1SzRQenA3XzZTZVlac0g0aFd6ZG9QaUFPLWV1Tm1nNWVtejVDOER0NkpPdktyaGYwVGE3WGlqMnhpNTVXMDFpSXlPYlpiQWNsa2g0bFZOaUR6SjcycDRneFpiakVTZ0lab2JPMFRKU1U?oc=5",
-        "id": 25
+        "id": 27
     },
     {
         "title": "Textron (TXT): Buy, Sell, or Hold Post Q2 Earnings? - Yahoo Finance",
@@ -233,7 +251,7 @@
         "desc": "メディア(US): Yahoo Finance",
         "importance": "medium",
         "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUDVfc01iRGJkbUZXOER6a01hTUtPWEVLY05YaDdjYkVabmF2TjFUZjhqY3ZZZERkRVhkYV9VaDZJVVR3Q05JRVh0bVFJN09ieDJXUnNHcWxEb2RsX2ZrQUpPVW9EbnM4MzJQd0VCVkNNa3I5czdxOW5ZMEhpTWJLNktqaklCQnVtdzc1VTZMbjBGdUZD?oc=5",
-        "id": 26
+        "id": 28
     },
     {
         "title": "【公式】10月3日(土)「BEOMGYU×北村匠海 奇跡旅 in福岡」配信決定！",
@@ -243,7 +261,7 @@
         "importance": "medium",
         "url": "https://txt-official.jp/news/398fae7bcb82",
         "badge": "OFFICIAL",
-        "id": 27
+        "id": 29
     },
     {
         "title": "【公式】TOMORROW X TOGETHER JAPAN ORIGINAL MERCHANDISE “PRODUCED BY MOA EP.2” 『WALK TOGETHER #MOAと過ごす休日』予約販売決定！",
@@ -253,7 +271,7 @@
         "importance": "high",
         "url": "https://txt-official.jp/news/686bb4b2447a",
         "badge": "OFFICIAL",
-        "id": 28
+        "id": 30
     },
     {
         "title": "TXT、MOAと過ごす休日がテーマのグッズ発売！ ファンプロデュース企画第2弾 - 推し楽",
@@ -262,16 +280,7 @@
         "desc": "メディア(JP): 推し楽",
         "importance": "medium",
         "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8zd2FpVnFhOEo2MjdjWVFsVDdKNXIxMXVxOU0ySkhacWx6SEtIaDBQMzI3WlNmQm5QTGtMd2Y2eURuY0diZU0wdHhvaW5BYU12dDBRUUh4a1Jwdw?oc=5",
-        "id": 29
-    },
-    {
-        "title": "Tomorrow x Together's Beomgyu named No. 1 K-pop star that fans want to travel with - Korea JoongAng Daily",
-        "date": "2026-09-02",
-        "category": "News",
-        "desc": "メディア(US): Korea JoongAng Daily",
-        "importance": "medium",
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNdklacjdaOVZ5bzBVOWN4eWVJdlhmNWpvMnpUVVpGR2hONDZpUkZJY1daSkM0UG8yR2VQOFhwTm8zTi1JdTJoYmczZnZPRDQwcmtoYmFRcFV5VEQtSWh3WmVqTTNRTlVpVWtseWN2aEZoU1JFbUlHSjRnb0g2MGo1b3NONEk0RVVUTFE5ZllDOUp5M0s0NnYzOG5CU21nRE9idVRyczI2ZjlaRDNiU2sxdEZCcXMzS1VoX1c0bFNsZ1g0WElxZUV6QTI4dXUxRWgwWnlV?oc=5",
-        "id": 30
+        "id": 31
     },
     {
         "title": "M!LKとTOMORROW X TOGETHERが“滅ポーズ”！10人並んだ華やかオフショットに「最強5人組アイドルの夢コラボ」「イケメン過多で滅」「画面割れるほどビジュイイじゃん」（THE FIRST TIMES） - Yahoo!ニュース",
@@ -280,7 +289,7 @@
         "desc": "メディア(JP): Yahoo!ニュース",
         "importance": "medium",
         "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9SN2dlQnZoYzF2dnNfSDRURkhHSktfdU5WZDAydTk5Rkc4Tk5KTFgzdkhVV0FYVjFGWFFrUFNFNmxiR3gwWEFWeHZGTG5tN19kNG4yYzJSMkxSU014cFFyUjlnNmN3MHhTY21xbmtEQXhrYUZwNGdUQXJMMVl2TUU?oc=5",
-        "id": 31
+        "id": 32
     },
     {
         "title": "【公式】【お知らせ】TOMORROW X TOGETHER GLOBAL OFFICIAL FANCLUB MOA MEMBERSHIP (JP)自動決済機能導入について",
@@ -290,7 +299,7 @@
         "importance": "medium",
         "url": "https://txt-official.jp/news/262338e0a23d",
         "badge": "OFFICIAL",
-        "id": 32
+        "id": 33
     },
     {
         "title": "【公式】HUENINGKAIが『25ans』11月号特別版表紙に登場！",
@@ -300,7 +309,7 @@
         "importance": "medium",
         "url": "https://txt-official.jp/news/085136c3f2b0",
         "badge": "OFFICIAL",
-        "id": 33
+        "id": 34
     },
     {
         "title": "TXT 연준, 마이클 부블레 ‘Home’ 재해석…‘더 시즌즈’ 음원 발매 - JTBC",
@@ -309,25 +318,7 @@
         "desc": "メディア(KR): JTBC",
         "importance": "medium",
         "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBBeWdINmdKR0x5RE9oZFlwZ2h4Z3YzRlhGdWk0S0k0aEpjekhHZlU2dEZMajRDQzdXM2xvTnNRQ094VDRnLTRHXzFDY3FpUFR6Q3l4LQ?oc=5",
-        "id": 34
-    },
-    {
-        "title": "Weverse TXT Media - [공식] 무리는 이렇게하는 거다 | [TO DO X TXT] Teaser - Weverse",
-        "date": "2026-08-31",
-        "category": "News",
-        "desc": "メディア(KR): Weverse",
-        "importance": "medium",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAwT3g4clF0RHBFankwWGh2UFQ1c3ZtLWlneE9FdjRpNEF2VHBCUjFBNk43YXBaamJaX3k1dE8xVjYxcjVrR2lkVE5uOG9yWENUQXc?oc=5",
         "id": 35
-    },
-    {
-        "title": "TXT’s Yeonjun to release Michael Buble cover - The Korea Herald",
-        "date": "2026-08-31",
-        "category": "News",
-        "desc": "メディア(US): The Korea Herald",
-        "importance": "medium",
-        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9QaTktNkFMY2hpbzdoeGVzY3M0VFRTTmpUcW1TMVNHQnR4T0FjdlFxOURTenhaaUJ6ZFVSU0lld3dOQm50UHdWVjhtMUdMUjQ3V01Ua0FSbw?oc=5",
-        "id": 36
     },
     {
         "title": "【公式】【お知らせ】TOMORROW X TOGETHER GLOBAL OFFICIAL FANCLUB MOA MEMBERSHIP (JP)特典提供に関する情報の入力方法変更について",
@@ -337,7 +328,7 @@
         "importance": "medium",
         "url": "https://txt-official.jp/news/5b8965a7245d",
         "badge": "OFFICIAL",
-        "id": 37
+        "id": 36
     },
     {
         "title": "Weverse TXT Media - 연준이랑 프라하하하 | TXT-LOG | TXT (투모로우바이투게더)️ - Weverse",
@@ -346,7 +337,7 @@
         "desc": "メディア(KR): Weverse",
         "importance": "medium",
         "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE02c3YxSEpXaVN3dzJld1hZTXBIU1o1QUEycEQ4aksyTkdqUWdwVFhVcmlmQVVoS2l0aFVYMUZ2QjNTNE1WeGpHZEtfNGZUSV9JZkE?oc=5",
-        "id": 38
+        "id": 37
     },
     {
         "title": "Stray Kids, aespa, TOMORROW X TOGETHER & Charlie Puth Headline 2026 TIMA Honors in Hong Kong - Billboard",
@@ -355,7 +346,7 @@
         "desc": "メディア(US): Billboard",
         "importance": "medium",
         "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNWE5rMC1TUWNvTGxLUDFuelJ0X0NPeEVlckE3d09KWFROMk15bVFxdXlrR0o0dTNtSVIzUzZtX05TS1F2Z2ZCUG01YjAyRmlWOFNlVU9fWUlCRVhlSGhXenJ2Z3FvVEhSTVMzSVpxVHZ4aXVRTmNvaTNwdFpRejZUdllMbkxRR3VpYThPYm9YdUpmMXd0N2dRZ3EtV1R4b3EwRnBIMURWZw?oc=5",
-        "id": 39
+        "id": 38
     },
     {
         "title": "【公式】BEOMGYUが『Numéro TOKYO』12月号特装版表紙に登場！",
@@ -365,16 +356,16 @@
         "importance": "medium",
         "url": "https://txt-official.jp/news/9a656294c764",
         "badge": "OFFICIAL",
-        "id": 40
+        "id": 39
     },
     {
-        "title": "ワールドツアー＜STEAL THE WIND＞開催決定！ - TOMORROW X TOGETHER - UNIVERSAL MUSIC JAPAN",
+        "title": "ワールドツアー＜STEAL THE WIND＞開催決定！ - TOMORROW X TOGETHER - universal-music.co.jp",
         "date": "2026-08-27",
         "category": "Live",
-        "desc": "メディア(JP): UNIVERSAL MUSIC JAPAN",
+        "desc": "メディア(JP): universal-music.co.jp",
         "importance": "medium",
         "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1FRWFWaU9MNXdfc1kxeG9mODg4UnJ4WWZxQTg2ODhsU09CWDB1Ui1SRUw0T1dEVVF1dUh5MEk2REZYSWdEejdKckU2ZTlaQWpFZlFRX3dYdjNCdjRXNk5uZzlhS2Y?oc=5",
-        "id": 41
+        "id": 40
     },
     {
         "title": "투모로우바이투게더, 11월 새 월드투어 시작 - 연합뉴스",
@@ -383,7 +374,7 @@
         "desc": "メディア(KR): 연합뉴스",
         "importance": "medium",
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBzWWszMnI5TFEwQXFrZWdIbU83cTZZUnZ2UWxoT0ctd20zV1RSVnBsZmc3Vk9KQ2JRLURXQldkUXQ5NlRXN004aG1ja0tROVd2d2c1OGF4dVZNUnfSAWBBVV95cUxNUURjSGRUSlNFY1NxV2c0dWdhNExSNUR1cGJvS3VWZjcwa3VrSnVTZDJuX0d0THItcEVGM3c3Ukc0bk9mS0xDSTRDbFZXYjhSWFp1WndrYk5rUDZ4LW5jWHQ?oc=5",
-        "id": 42
+        "id": 41
     },
     {
         "title": "TOMORROW X TOGETHER Announce 2026-2027 \"STEAL THE WIND\" World Tour Dates - Consequence of Sound",
@@ -392,7 +383,7 @@
         "desc": "メディア(US): Consequence of Sound",
         "importance": "medium",
         "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQXFDc3EzRnpPV1lmNWtJakVMcjZCX181b0poT2xRbmVQY2xsRUVzVVZoTDl4Q21fR1lhR2txc1NsY2lhcmxvQU9yTDBYVjhQZjJUWEk3aXJBLUhkaHdqREdvZzhtV3B2YVdOd0xpSWdHYjBkN3h6RUdBeTI5NkZlb01aYU5waU9fZ3U5QmRxci1Scnh6R25Xb2xn?oc=5",
-        "id": 43
+        "id": 42
     },
     {
         "title": "【公式】[YEONJUN&#x27;s Birthday Cake] Cake Delivered by HWANG CHOON販売決定！",
@@ -402,7 +393,7 @@
         "importance": "high",
         "url": "https://txt-official.jp/news/799b7aef7c92",
         "badge": "OFFICIAL",
-        "id": 44
+        "id": 43
     },
     {
         "title": "【公式】『TOMORROW X TOGETHER WORLD TOUR ＜STEAL THE WIND＞』開催決定！",
@@ -412,24 +403,33 @@
         "importance": "high",
         "url": "https://txt-official.jp/news/1a822f341f30",
         "badge": "OFFICIAL",
+        "id": 44
+    },
+    {
+        "title": "【韓流】TXT、グローバル音楽賞「TIMA」でグループとソロの２冠達成（日刊スポーツ） - Yahoo!ニュース",
+        "date": "2026-08-23",
+        "category": "News",
+        "desc": "メディア(JP): Yahoo!ニュース",
+        "importance": "medium",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5yT2h5Q3ZNNHdYOE91dHZBaUd4SFA5UjJUWTZMVXFEWWJWOTBHWEpJeVNiVHZOUk1QSDh6cE90UEZmZXFhUjVMY0xlVXlYMC02SDBtOWJkRWRLaEhwWG1xLVdpN0JVdm4tWFJtdXJQaEZiUTlBY0NLOFJrY0h2ckk?oc=5",
         "id": 45
     },
     {
-        "title": "투모로우바이투게더(TXT), 중화권 시상식 ‘2026 TIMA’서 그룹·솔로 2관왕 - 스포츠경향",
-        "date": "2026-08-23",
+        "title": "TOMORROW X TOGETHER 日本5thシングル「セツナハナビ (Setsuna Hanabi)」POP-UP STORE開催決定 - PR TIMES",
+        "date": "2026-08-18",
         "category": "News",
-        "desc": "メディア(KR): 스포츠경향",
+        "desc": "メディア(JP): PR TIMES",
         "importance": "medium",
-        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE15ZXFlWVM2dXNpY3VybFBEVmhGb1RrSEJaMzBkdzNFWHpEOUpZX0Qybk91b24yUVc5TlVjNk5mZi1PblJIdkZYYmVnMHVXTzlxNjk2MV8zVWR1Y0VjVFHSAWNBVV95cUxOZmtTSVYzRFdQUWFPRkVJNWtZSGlHdktrbnh3bUlad0pfY0hXMXRzRlgxWHNlSFpPR09xSnBFaTNwTExicjlWbjZ0dnRZYm13YTBmeWJOYWxLSGktR1ZaZEhsR1k?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBCUXc0aTRoOWpXMmdaNWtpY2lzaFROUzRVZl9nRGxJU2dON2R4NXNuU1p3N2RuRW84ZThsYkhHTnc5eHRPYk1FRkZzMWU2Sm5GdWNJOF9qN213NUI4a1RBRTlRUHRVdm1XR2c?oc=5",
         "id": 46
     },
     {
-        "title": "【PHOTO】TOMORROW X TOGETHER、スケジュールのため日本へ出国（動画あり） - Kstyle",
-        "date": "2026-08-19",
-        "category": "News",
-        "desc": "メディア(JP): Kstyle",
-        "importance": "medium",
-        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBaRGl6LTdBakw3YzF0TnFqVjVpWTlUaW4wN3piWkZlU3lqV0d2M1ctQkVnaWQzOE1LaEdsTk94bDJwR2N0bHZ3eHdMWk1nX2p0NTlyeHdvQUxUTzJi?oc=5",
+        "title": "TOMORROW X TOGETHER、日本5thシングル「セツナハナビ (Setsuna Hanabi)」音源配信スタート！ タイトル曲「セツナハナビ (Setsuna Hanabi)」のMV公開！ - universal-music.co.jp",
+        "date": "2026-08-17",
+        "category": "Comeback",
+        "desc": "メディア(JP): universal-music.co.jp",
+        "importance": "high",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5WRzZoWmZta3N6TUw1MGpqQ00wR1Jia09SRmhYRnZOa1VZR3hqVThPSkJNLWlwY1U5MnFqQzRnblNiRGlpNGFOR1JKUGxES1FseS1BN0w5dEUtWU5Ya2hCeFI0dmk2TE0?oc=5",
         "id": 47
     },
     {
@@ -442,10 +442,10 @@
         "id": 48
     },
     {
-        "title": "『TOMORROW X TOGETHER 日本5thシングル「セツナハナビ (Setsuna Hanabi)」POP-UP STORE』MD - d-dpartment.com",
+        "title": "『TOMORROW X TOGETHER 日本5thシングル「セツナハナビ (Setsuna Hanabi)」POP-UP STORE』MD - D'PARTMENT ONLINE STORE",
         "date": "2026-08-14",
         "category": "News",
-        "desc": "メディア(JP): d-dpartment.com",
+        "desc": "メディア(JP): D'PARTMENT ONLINE STORE",
         "importance": "medium",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9sSk1RTHU0YUJOaWtsT2tmalFGUUduMjlfVWFicjRrMmRzbnJGUDZzOXpJVEtZdnhxUFJwWEtWcWFwN01LelExSmNyVUYwSkxZX2lMZzRORTdKWG1kZHFVTTFsVFRhV3RGZ3c?oc=5",
         "id": 49
@@ -487,10 +487,10 @@
         "id": 53
     },
     {
-        "title": "Weverse Magazine - Everything K-POP and More! - magazine.weverse.io",
+        "title": "Weverse Magazine - Everything K-POP and More! - Weverse Magazine",
         "date": "2026-05-15",
         "category": "News",
-        "desc": "メディア(KR): magazine.weverse.io",
+        "desc": "メディア(KR): Weverse Magazine",
         "importance": "medium",
         "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSzJfcFRHV1dNQ2tkSHdMaFpid3Zqa3ZhRXBHUEtvZjQ2cC1JT21aXzRwRDN4VjV6NHhPcXh5b2JGcThnTnRTSDhHTVJrV3Z6T3hfZFV0VFJiZE91a0wtS3poRkxMb0kyOWJ5VmV0SGttTTg4SjVadndnSmRkZ09Gb2NWY3g?oc=5",
         "id": 54
