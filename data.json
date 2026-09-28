@@ -1,84 +1,300 @@
 [
     {
+        "title": "TXT、11月16日にカムバック - starnewskorea.com",
+        "date": "2026-09-27",
+        "category": "Comeback",
+        "desc": "メディア(JP): starnewskorea.com",
+        "importance": "high",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1IWm5zY01TUlZvamNXS0tWVWI2UHFfRWU1VWRzTHVsMjJHQ0xZelZWTFhNZlBCMUgyRGUtS0daUDRZY3NuV05qZGRUcDhWYloxNnZzdVV2eVNISy1hQlVTMjN1SWp2NVpTb096anJaVWdmX2VUN0ViYw?oc=5",
+        "id": 1
+    },
+    {
+        "title": "「今までとは違う何かが必要だ」TXT、11月16日にカムバック - 매일경제",
+        "date": "2026-09-27",
+        "category": "Comeback",
+        "desc": "メディア(JP): 매일경제",
+        "importance": "high",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE44MnJCNmFzUDdVdXE2MXA5SVNEbXN6SGJ0Tl9sbWE1OEtuUkJ0eGJ5RS1najRPTE9MT2ktY3NDeko4eGZUcmM3Sk5pbjhSRWhp?oc=5",
+        "id": 2
+    },
+    {
+        "title": "TXTが“神対応”！悪天候で公演中止→衣装＆ダンサー付きの練習室配信「音楽とマイクさえあれば…」 - ｄメニューニュース",
+        "date": "2026-09-27",
+        "category": "Live",
+        "desc": "メディア(JP): ｄメニューニュース",
+        "importance": "medium",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZE52bXk1eU41VmV3ODROaDdQYXBiTUp6NjgxcjdCaVAtbmJ3Y0dPN0RSenhxcUQ3YVdkeG1FWUJlcHl5enFQM3QwbkNqczZQOVF0LUZxTHlrQUpsQkJORXJIaTh5eTR2WGwycVJkM1JFYkRHbEFkLW5Rd1hxUlAtWVQ3TXBIelBzdm5ubzU0eWdlUG1R0gGaAUFVX3lxTE1vLU1MVW10a0R6Y1hMS0FfcndXUEZtX1VBZVVzcTNnNHBDVlZUUW9aeElKaVphSjBtaUs5LTV4VER4ZE1aX1pCODhrT01lQkZWbUMwU0h5ODdZNTBNMWNTY2lwNlc5RUJmOFRpOEhlYjNJVzduSVQ5UGx3eGswMGZiVHNTUXc5dzRtUXMwdzFSUG1rWXJabW82cmc?oc=5",
+        "id": 3
+    },
+    {
+        "title": "【韓流】TXT、米国の年末音楽祭に初参加　ニューヨークなど３会場に登場 - 日刊スポーツ",
+        "date": "2026-09-27",
+        "category": "News",
+        "desc": "メディア(JP): 日刊スポーツ",
+        "importance": "medium",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9rZlBYWjNPNjNOT2lMNWVhNEY5allRSWJaZS1qRWpWWDhpWG95bHJDeWo4MVJ1SDZ1c3BNbHNxZVdoQTF0OW16WEw3UFBpREdSM2lOWnZCRksxb0I2ak03cnZYVkVDWDNzUjY1Y1hRekNpcDBiNWhHcF9lTGlveHfSAX9BVV95cUxPa2ZQWFozTzYzTk9pTDVlYTRGOWpZUUliWmUtakVqVlg4aVhveWxyQ3lqODFSdUg2dXNwTWxzcWVXaEExdDltelhMN1BQaURHUjNpTlp2QkZLMW9CNmpNN3J2WFZFQ1gzc1I2NWNYUXpDaXAwYjVoR3BfZUxpb3h3?oc=5",
+        "id": 4
+    },
+    {
+        "title": "「TOMORROW X TOGETHER」、悪天候のため立てなかったニューヨークでのステージ…練習室から公演を生配信 - wowKorea（ワウコリア）",
+        "date": "2026-09-27",
+        "category": "Live",
+        "desc": "メディア(JP): wowKorea（ワウコリア）",
+        "importance": "medium",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE54aW0yWU40MFRKOWhYVFp1R0FXbWVVXy1heDBnOGxic3FMOFVwSGkzVGxhTnIzQlNGSzRmS0dSdVhTd1FsRTZyOFZCcnAtNjVSQTJ5Z2pFbmZWUQ?oc=5",
+        "id": 5
+    },
+    {
+        "title": "TXT、悪天候でアメリカのフェスティバルが中止となり、練習室でサプライズライブ - starnewskorea.com",
+        "date": "2026-09-27",
+        "category": "Live",
+        "desc": "メディア(JP): starnewskorea.com",
+        "importance": "medium",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5oNjZONTdiN0VBY0pJQkhHRW9SV2plNm1MTDN0RllERUh4STQ5V2EwX2VTQVRUc1JDOFZyOFZTcTVhczFmWGRTM24tNllKd2IzVDJyY01BcjJMaUl6WmpQd0lQVWVkbXpua2k4eHVTc08xNi1WMWIxbQ?oc=5",
+        "id": 6
+    },
+    {
+        "title": "【韓流】TXT、米国の年末音楽祭に初参加 ニューヨークなど３会場に登場 - 日刊スポーツ",
+        "date": "2026-09-27",
+        "category": "News",
+        "desc": "メディア(JP): 日刊スポーツ",
+        "importance": "medium",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPMXV3Z0NELWdhdTZYa3FGbmVsdlVJT3p4Y2xmRXpsTHJaOVA1aWk5bzRJdjNSR2tPZ2xIa21wb3NKX2hqaVlEV3RBaVBEeW9wNXg4UmlYM2NIRWd4MkZQSktWV1JDeC1HMHktdWZ5M0pJTjI2eHdKVmxWLWxXVWlic3dxbURNeHBxenpORXJVZmw2T3ExR3c?oc=5",
+        "id": 7
+    },
+    {
+        "title": "「TOMORROW X TOGETHER」、米ニューヨークGCFの中止を受け練習室で急きょ公演 - wowKorea（ワウコリア）",
+        "date": "2026-09-27",
+        "category": "Live",
+        "desc": "メディア(JP): wowKorea（ワウコリア）",
+        "importance": "medium",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE00N1VEX0lTU2lMV3gwMzhSOVNFbFRwRVBFek9UazN4VFNUdVZJMTlrOS1DYTN1YzQ4RFliMG5Ha2o1NWlqVkZHcWVUZ2hrRi15R3JpTGdmLWY?oc=5",
+        "id": 8
+    },
+    {
+        "title": "투모로우바이투게더, 11월 미니 9집 '퍼펙트 스톰'으로 컴백 - 뉴스핌",
+        "date": "2026-09-27",
+        "category": "Comeback",
+        "desc": "メディア(KR): 뉴스핌",
+        "importance": "high",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBlVHpicVlHeloyOUtmY24zMG1XOUhjTEYtd3c0TlN0bFVOQ0ZzMEVFOGh1RmRFak5FVENlbTJEOUhsSFhMNk5CTEZMY3JfcWVaZTBXOWUzUVpsWFNl?oc=5",
+        "id": 9
+    },
+    {
+        "title": "TXT, 11월 16일 컴백 - bntnews.co.kr",
+        "date": "2026-09-27",
+        "category": "Comeback",
+        "desc": "メディア(KR): bntnews.co.kr",
+        "importance": "high",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1BTWVOeHdxbWh4em1kZ1NKQlJ0RHE4VE9YM1cyT3hfU2hsdGxhd2lnbW9SajNobTlUWGFlbjFWTkFIUFdKczRXOXlNT3B6UFRWUDRfVlRrUnBDYnpLYnV6aTE4UTQ?oc=5",
+        "id": 10
+    },
+    {
+        "title": "TXT,11월 '퍼펙트 스톰' 컴백 확정 \"지금까지와 다른 무언가\" - 조선일보",
+        "date": "2026-09-27",
+        "category": "Comeback",
+        "desc": "メディア(KR): 조선일보",
+        "importance": "high",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONUY4SmN4Uk1wTGR3ZVBObGp6aWxuZmVUZVpwUl90WF8ydGRIRnVCamZCcWVTeUZuVUpBVFN5NEdkZFp0Y2xuTWVOWERYNjk3a25kLVVGdmlQRXJGY1h6amVMSkNlTGJ2SzNNeEhNalhXLUxNS210ZjkyZnUyS0V6WTZ3X21FQ3p1dklqQnozMG1PaHEy?oc=5",
+        "id": 11
+    },
+    {
+        "title": "TXT, 美 축제 기상 악화로 취소되자 실내 연습실서 깜짝 무대 - 연합뉴스",
+        "date": "2026-09-27",
+        "category": "News",
+        "desc": "メディア(KR): 연합뉴스",
+        "importance": "medium",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE15djJSWHl4akJldXowTzdhSGowaUEzVjFiT3lqQmYwd3pud0N0NF9CNXcxRzJQbFkxY211VUNzb2VEbDExdVZ4TWFvZnVxZG43ZHlWZnVUREFMUmluQ0tZMtIBYEFVX3lxTE15djJSWHl4akJldXowTzdhSGowaUEzVjFiT3lqQmYwd3pud0N0NF9CNXcxRzJQbFkxY211VUNzb2VEbDExdVZ4TWFvZnVxZG43ZHlWZnVUREFMUmluQ0tZMg?oc=5",
+        "id": 12
+    },
+    {
+        "title": "[영상] '기상 악화' 축제 취소되자…TXT, 실내 깜짝 무대 - v.daum.net",
+        "date": "2026-09-27",
+        "category": "News",
+        "desc": "メディア(KR): v.daum.net",
+        "importance": "medium",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAyTzF4VXY1VnZjMURtUkdqbTNkd0ZQaWE5N3JUaGxhTTZ3T05kblNldXZPOTl3cE9XT216MlJDQkNKeVBaLVZ3LU5LZzVVZmM?oc=5",
+        "id": 13
+    },
+    {
+        "title": "TXT, ‘PERFECT STORM’으로 11월 컴백 확정 - 톱스타뉴스",
+        "date": "2026-09-27",
+        "category": "Comeback",
+        "desc": "メディア(KR): 톱스타뉴스",
+        "importance": "high",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBBaFNpdnFQMVY4cHpxUDREOHhZdkVxbEVycTF4azJvVExtd1V4b1lOY0ZGN2preHZTYVhaWnlSekV1aVE1cWFNbFoxZnRUT1ZWdW52dExyUW9ZdVl0ZUtPVUpWZy02UGZrVjN5U0cyOGdqdw?oc=5",
+        "id": 14
+    },
+    {
+        "title": "투모로우바이투게더, 11월 16일 미니 9집 ‘퍼펙트 스톰’ 컴백 - 일간스포츠",
+        "date": "2026-09-27",
+        "category": "Comeback",
+        "desc": "メディア(KR): 일간스포츠",
+        "importance": "high",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9xb1RuNFcyMy1DV281Qzk5SldMVjczbF9mNmZjMnVvcm1TZ1dCbGVMcHBSZlpWajBiYk5YUk9UNVBwektuX3ZfemgxdHFuekwwSTlMUks1b21NOHNHZFhQNm5reElNeXRG?oc=5",
+        "id": 15
+    },
+    {
+        "title": "TXT, 11월 16일 미니 9집 컴백..거센 'PERFECT STORM' 예고 - OSEN",
+        "date": "2026-09-27",
+        "category": "Comeback",
+        "desc": "メディア(KR): OSEN",
+        "importance": "high",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5aS0h6MHNfSjRRVnFMTHlpcHJJX3hDSVpZbEZaMnFfUVVaaFJ3YWM1bHJUQ2d0QzQ2RzA1cFVHel9XN2cyZEZQN2pwTTFVS2FUUnBBVQ?oc=5",
+        "id": 16
+    },
+    {
+        "title": "TXT, 11월 16일 컴백 - starnewskorea.com",
+        "date": "2026-09-27",
+        "category": "Comeback",
+        "desc": "メディア(KR): starnewskorea.com",
+        "importance": "high",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1DbVNyVjFYQnpUYmdzRGZpTjJKRmZ1VU54N09LVk1vQ3B4cGQ4MVBjalA1OWRzUlllZW1NVC1HRTNpeC1UMmJmRWVGTEt6dlpjUnA5UVhDd19qZmZkVUNNeklyVmc3NkJWYUI1a2tjWFlxNGZW?oc=5",
+        "id": 17
+    },
+    {
+        "title": "투모로우바이투게더, 11월 16일 새 앨범 '퍼펙트 스톰'으로 컴백 - edaily.co.kr",
+        "date": "2026-09-27",
+        "category": "Comeback",
+        "desc": "メディア(KR): edaily.co.kr",
+        "importance": "high",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRlZvQWR5ZUFYVGRfWlItcnYtOVB6U1hsbE9xRzNWNkZjWC1jS1dZMnlYdi1UdXFsSW1sLTc1em80eXpCcnByWTlFVjUzYjRaYlN4MUZvS3ZKd1BackJOVk0yYXcxcE9IV1JxQ085aUlxb3JJb3VTR3ZUVUlFMDc0ZA?oc=5",
+        "id": 18
+    },
+    {
+        "title": "투모로우바이투게더, 폭풍 몰고 온다…11월 16일 컴백 [공식] - mydaily.co.kr",
+        "date": "2026-09-27",
+        "category": "Comeback",
+        "desc": "メディア(KR): mydaily.co.kr",
+        "importance": "high",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE94RHh3cWpfT2wzY2FGRGxiTWVkNDBwakVXMFRNNHdIdFhhVVptSGVlU1RlZkdvUWhfQ0ZtX1hiOGFuYU9IckNBamZkZFRfSHk5SzdKbkFuUkt2OFlMaUhQM2Vid0dQQQ?oc=5",
+        "id": 19
+    },
+    {
+        "title": "美 음악축제 취소된 TXT, 뉴욕 연습실서 깜짝 무대 - 신아일보",
+        "date": "2026-09-27",
+        "category": "News",
+        "desc": "メディア(KR): 신아일보",
+        "importance": "medium",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0tM2xJU1ZXOG1KcHZuU1JieWJkSmFPQnlVV0k0ZG5Wc25OclRrQ21FZFIyZFlDV2NKc1M2SFB4MUIya2JpTV9ESHZEd2EyUkN1d0dwZlM3QzZ5TGsxaC1teXViLTdTd213Mm83dU1fM2k?oc=5",
+        "id": 20
+    },
+    {
+        "title": "[문화 이슈] 투모로우바이투게더, 11월 16일 ‘PERFECT STORM’으로 컴백 - 비욘드포스트",
+        "date": "2026-09-27",
+        "category": "Comeback",
+        "desc": "メディア(KR): 비욘드포스트",
+        "importance": "high",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE81bVZhUkRSYmFXM1ZWSlZaZjV4aGtQUC1PNm5Kd0lhajd1RDdpeHBOVHpyUFlUVGpNTnJJZjNXdExrNHZFVTVHWlVqS0tad3I5SFN0SUVTbGFzb3ZtX3VjeXFJd0Y2RWRFZjJKQjlta1VWSGNlWGY0dFFUV2E?oc=5",
+        "id": 21
+    },
+    {
+        "title": "[영상] '기상 악화' 축제 취소되자…TXT, 실내 깜짝 무대 - v.daum.net",
+        "date": "2026-09-27",
+        "category": "News",
+        "desc": "メディア(KR): v.daum.net",
+        "importance": "medium",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBmSTFyaHM2Qk9XdVhiT3VKcjYyVUc3NXNnd3V2X2Y3T2doQXJsazZPUXB2VkJOM2pteXdHcjhxM0Q1LUI0WUdXbmFXaVlDSUppVmFlRg?oc=5",
+        "id": 22
+    },
+    {
+        "title": "TXT, 기상악화로 美 페스티벌 취소되자 연습실 깜짝 라이브 - starnewskorea.com",
+        "date": "2026-09-27",
+        "category": "Live",
+        "desc": "メディア(KR): starnewskorea.com",
+        "importance": "medium",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5IY0p4QkZfend1ZG1WX040WFJkXzJFQUZRSWpZcVlDbXp4UjN2MFdSckNvMkVmRk43SzU0WjlYNGdKaHI3ZVZaNUpfTkdvUW5tUjlLdGl3aUlEd2xXQXN1Q3RCRkRYUFQ0Y1JPNXdSbVE3RjhQ?oc=5",
+        "id": 23
+    },
+    {
+        "title": "Tomorrow X Together's 'PERFECT STORM' Album Drops Nov. 16 - 조선일보",
+        "date": "2026-09-27",
+        "category": "News",
+        "desc": "メディア(US): 조선일보",
+        "importance": "medium",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNWVlaem9waUc1SGQ0Qkw2V3JudGJoVURtVmRFMll6azVWd3B5TjNSUnhESWF1WHVmRHJKeHdMSTBKVTJtVXlYYVFLT002RlZ6bndmZG9uQUZ2Tl9tUlg5b1dEZUZWejR3b0YwM1BZYnMzajYxYTdHMEpRRUkzRFpjTFd2cVFIMXJzSkhnaDB3?oc=5",
+        "id": 24
+    },
+    {
+        "title": "TXT Confirm November Comeback with \"Perfect Storm\": \"Something Different from Anything Before\" - 스포츠조선",
+        "date": "2026-09-27",
+        "category": "Comeback",
+        "desc": "メディア(US): 스포츠조선",
+        "importance": "high",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQakY1bHcyZllSbnVTaDB0NzUtVEJfYzRBdUgtcUdhTHBMSHl3MzZabHVZeHJkQ3hKXzktX3d2RmVUQXVrT1VIVzhzTFBQUzVyX0llVDlMMUJzQVVuQWdaeU90cEZNWDJXelRXV0NhTk1Ia3F2ay0wZ3RMVFZ2M2lPMTFmTQ?oc=5",
+        "id": 25
+    },
+    {
+        "title": "\"We Need Something Different from Anything We've Done So Far\": TXT to Make a Comeback on Nov. 16 - 매일경제",
+        "date": "2026-09-27",
+        "category": "Comeback",
+        "desc": "メディア(US): 매일경제",
+        "importance": "high",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB0c1doVHIxM3lVR0FsZ2xVVUFtZEtBbDNzbV83WkQwRDJRMnVKMXpiWmp0aV9BVzVobG5zbGpMRVdMRTIwdHB2MkRRbkZqM3pn?oc=5",
+        "id": 26
+    },
+    {
+        "title": "TXT Announces Comeback With New Album “Perfect Storm” - inmusicblog.com",
+        "date": "2026-09-27",
+        "category": "Comeback",
+        "desc": "メディア(US): inmusicblog.com",
+        "importance": "high",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1ycG0yaWtNbFJtNGlrQVY5UFpCbE5lY2VqWEhTQ2xlZ1BvMmhrN21CbHlVNTh4bnlSLUR0QVZuVDc5T24yNW4tRmM4cFRKS2VxMHdRUUhfQUhjNXZVUlJ3RkhSOFFBejFqNW9HcnlQQ3lxVGhxNHJyb0U4Zw?oc=5",
+        "id": 27
+    },
+    {
+        "title": "TOMORROW X TOGETHER to Perform at US Year-End Festival Jingle Ball Tour - news.sbs.co.kr",
+        "date": "2026-09-27",
+        "category": "Live",
+        "desc": "メディア(US): news.sbs.co.kr",
+        "importance": "medium",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9SZUFqUWMzclVzZ0dsN0VneE1KdnEycl9MTzRjaDlGVWNjc1c5MnByZGZndHRpSFZ0b3NJb3lMTG1VV2wxOE0zRlF5VUl5eG5nMTkyUWtlS1F5Q1V4ZlFodG92V2tqRVZzcXBmZWZB0gFmQVVfeXFMT1NkUUE5Y2lwMHphZ1BPV29Cc2dDMG1pbzd0NDRmODVveWk2MjdkTEdET1drcE1hN1pXbXJMQlNfaVRtOGRZaFZ5ZmJfeVV4N3ZXbVJXSEd2R3NjVHlSWmcxQ3p1RWFB?oc=5",
+        "id": 28
+    },
+    {
+        "title": "Tomorrow X Together, Comeback on November 16 - starnewskorea.com",
+        "date": "2026-09-27",
+        "category": "Comeback",
+        "desc": "メディア(US): starnewskorea.com",
+        "importance": "high",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9tUEtRcnpIc0hGV3ktOEg0U3FoYWFraV93TWRtUVhZeTR0RktRbWtabjRIRFBWSUhKYkpDcHRYWkItNTdTTlhrRk9mUU5RNWJJc3lrTTFxRVZCTkVocVBCLVhEaHpnNjFXZWlac21RZUN5T25raTY4RA?oc=5",
+        "id": 29
+    },
+    {
+        "title": "Tomorrow X Together's 'Perfect Storm' Comeback Signals Shift - 조선일보",
+        "date": "2026-09-27",
+        "category": "Comeback",
+        "desc": "メディア(US): 조선일보",
+        "importance": "high",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxORlpaeENpQ1FHWC1LMFlfcXRDS2VZSVNtN3pLNjEzaGI4OGpoZkJKenlKVVFSaEFjSTl0VHRrR2RnM2xmdGZqbWh4MDNXNDRBWUFyRGhhc3FLSXp0NTI0YlFrN2Q2ZWhJcXBzaUoxeEMyOU9teG9URFVVWXJqVDl4cVZNRndCVXB1dkNTUnB3?oc=5",
+        "id": 30
+    },
+    {
+        "title": "TXTが年末にこのような企画を行うのは今回が初めてです。 - vietnam.vn",
+        "date": "2026-09-26",
+        "category": "News",
+        "desc": "メディア(JP): vietnam.vn",
+        "importance": "medium",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1jd3c2QlJKYVhXMmQ4cHhmcy00d1FzYzJ5Uzh4QVpmX0ZFQkk4RFJoeHFQZ1JZelc0REJJR0lQc05DU013NEZsU1ptOWJnRGg2NndYR3NDN09iYXdpVGNPaFNoS1luSHBtQ0VvZjc0enk5Ukk?oc=5",
+        "id": 31
+    },
+    {
+        "title": "TOMORROW X TOGETHER、サプライズで楽曲配信 「神宮外苑花火大会」とのコラボ決定 - 山陽新聞",
+        "date": "2026-09-26",
+        "category": "News",
+        "desc": "メディア(JP): 山陽新聞",
+        "importance": "medium",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5LakNIcGhPOGcyaW1jUWViUklsekxuR0RnV3dHRmNQc1VkdjZINzlwdUZ4WTNXVFJvYXBvcHFqd2F3Y3NCdUp2c3kzZWE0aXNVYXc?oc=5",
+        "id": 32
+    },
+    {
         "title": "M!LK塩﨑太智とTOMORROW X TOGETHERが激しすぎる“滅！”ダンス披露「本家と張るほど過激ｗ」「ヒュニンカイの勢いすごい」「混ぜたら危険な組み合わせ（笑）」（THE FIRST TIMES） - Yahoo!ニュース",
         "date": "2026-09-26",
         "category": "News",
         "desc": "メディア(JP): Yahoo!ニュース",
         "importance": "medium",
         "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE42R216TDBHdWxqTll5eEpfNUJDX25DZ3l6cEFvb29waEg1dkV5VFdZQ2JJVmxoUEU0NWQ1LUYtU2k1SzBKTkJUTVBiMWJqaFVNWHdYc2hveE1FS3kzMkFRTGI2dFg2TXBqRG83c1E3Z3JGcDN5THVXWS1IMGtfREk?oc=5",
-        "id": 1
-    },
-    {
-        "title": "「TOMORROW X TOGETHER」、米iHeartRadioの「2026 Jingle Ball Tour」に初出演 - Infoseek",
-        "date": "2026-09-26",
-        "category": "Live",
-        "desc": "メディア(JP): Infoseek",
-        "importance": "medium",
-        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0yQUM5UEEyRmwweW9MRVNMVDdrS2tBaXVja0tKRnhTY1pRRXpxamx0VmhZRnBjTXpoWFI1b3RURENLZWFZQmRzd2xOODBha1Q1dmxCZks4MGtBdEd0NV9ocU1R?oc=5",
-        "id": 2
-    },
-    {
-        "title": "투모로우바이투게더 美 연말 대표 음악 축제 출격 - 스포츠경향",
-        "date": "2026-09-26",
-        "category": "News",
-        "desc": "メディア(KR): 스포츠경향",
-        "importance": "medium",
-        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBZcnI0RWdTZjIxSkVwSXhxME5hSWl4bHV3MmhmQzl5VGFKUldmNEZsN0pXbnA4SFUtaVJ5QmxHZXpwRHlueHRvMnVxbDIxWTVuaDdITjdTMFpueURQV0HSAWNBVV95cUxNWldnMWNKczN0X1V3YmdrZVExdjU4Y0hjSVpMS3FlZl9rWXNib0N5aTQzUVd4ME0tSVQ4cFFsaFRfM1VhTWZxYW9feXJ6QUhGZ3d2bWx5eHVqMExsQVV3Tl95NGc?oc=5",
-        "id": 3
-    },
-    {
-        "title": "투모로우바이투게더, 데뷔 첫 美 ‘2026 징글볼 투어’ 출격 - 스포츠동아",
-        "date": "2026-09-26",
-        "category": "Live",
-        "desc": "メディア(KR): 스포츠동아",
-        "importance": "medium",
-        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB4N2tsNWhpSVZHRUVVcFQ3cUtwMjRNRXAwSUhQQ0lsSXFvWE1aQ3g1UDVTWkFoSkNkT3htV0YzeXpEZ1NkWERYdTUtUGd3S3BHM0pMR0x3cU0yWWh4SzYzU1lNLW80MGlKam11c1NR?oc=5",
-        "id": 4
-    },
-    {
-        "title": "TXT·연준·캣츠아이, 美 '2026 징글볼 투어' 출연 - yna.co.kr",
-        "date": "2026-09-26",
-        "category": "Live",
-        "desc": "メディア(KR): yna.co.kr",
-        "importance": "medium",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE11ZDJuSTVTUjZ6bXBYbEg2aFNkRmhuRWl0c0xyeW1yUzhQRWt3LXRYVnpkQ0MzbjhZTDl0anF5amdoTl8wdVRZRFl6cVNGZC1ub21TVDhLZnloMmfSAWBBVV95cUxQLXdQeGxJYmE2NmNlaWZwRU9aX2xwaDBlMFlkdDZfRVRvMjlMTjJTcHp0NktJQzNRc1ZURllQQ3RCTVF6bGdraUNsQ25rRjVlOFdsTkJzN3JJUk40ei1IeU8?oc=5",
-        "id": 5
-    },
-    {
-        "title": "투모로우바이투게더 '징글볼 투어' 첫 출격…연준도 솔로로 합류 - 뉴스1",
-        "date": "2026-09-26",
-        "category": "Live",
-        "desc": "メディア(KR): 뉴스1",
-        "importance": "medium",
-        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0zVWw2aFRwemU3ZXlsc2FFbDdhM29HUG93ZDVPVDlQU0tXemhKcVhKaDd2c2ZJYktFZjJJbm43VDNFdkJXM2pKUG8wdmZzZXg5VFotRExyUdIBXEFVX3lxTE1kbkgxdXdFT280UVJkbkN0dWZNdVVwSklRX2JIcllLOFhKY1VLSFQyNldjQ0ZNQ0RkSmtvMVI0SUpwc2UzRG5qcnFPWWVxVFhxcHdkWm5yU3cySXdK?oc=5",
-        "id": 6
-    },
-    {
-        "title": "투모로우바이투게더, 美 아이하트라디오 ‘2026 징글볼 투어’ 첫 출격 - edaily.co.kr",
-        "date": "2026-09-26",
-        "category": "Live",
-        "desc": "メディア(KR): edaily.co.kr",
-        "importance": "medium",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPblRYczlnalZPeEtOcFgzQVZFUTF2V21UWEtmZHFSUFJzbVNXRVZqRnBYRmw4TnYtUlgtV2lpSnpZdkpjSHVGNDNhcGMxQjVkMkRaRDBhNUV1U0V4cnMwTFYteE54aWFuV0w2OTh3eGxOcW5CMm9WbmtFa2d4WXppeA?oc=5",
-        "id": 7
-    },
-    {
-        "title": "Tomorrow X Together set for a major year-end music festival - 스포츠경향",
-        "date": "2026-09-26",
-        "category": "News",
-        "desc": "メディア(KR): 스포츠경향",
-        "importance": "medium",
-        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE03Tnl4REJXRGN2bFUyT25jVlNxYVpZaGZWSFVUMkczaUVMckNCWGxiY0RsU29sUVZxdkNQb3BiUGppQVl3S3BORVN5N3hhRWpkdzA0N0hNaEVheG5xNExKNVdB?oc=5",
-        "id": 8
-    },
-    {
-        "title": "Are Supply Chain Delays Altering The Investment Case For Textron Stock (TXT)? - simplywall.st",
-        "date": "2026-09-26",
-        "category": "News",
-        "desc": "メディア(US): simplywall.st",
-        "importance": "medium",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNYUVJMWRzUHhoYmV1SnhSZFdvX2FmVVpjSGFFYkcwUXVObUtUSmE3el90ZDlGQ2NQYXlmQXUxb2xZUzNEeDQ3TnVQOXEyQkxTSE9FblN0MENmYUVvbEF1MmlBLUxBemU0TVVuZzNpRlJCM3ZQZGpLT3RlTHBRQjVSb3BxT05acUZyR3ZZN0dYX3BfTldLX2xpcjlfVDlEMm0wQ2cxMFA1YTAtZEd4eFVnYVRUWGFiYW5FLXBzMV8teFFtaWYzeHE00gHMAUFVX3lxTE8zWWVPTFNYQmpJM3VpTkJpamFNV0ZfRHlLTGwzVWg3eXN6U0kwM0tPVDA5XzhmTG5yV2NYQUp1bG1hS0FRVU1VdkJMVXlheGlsMVpCdWpaZ0wyeEY2UEJtTWdvU1BXVFpkaFowU0Vfb0ptNzM0VDNfWXl2RWJuTkVTWG9TYzBoOFNLSThPWDNsTjJpVWdSSjFCOWdsMkxQbThMLTdEd2NxVmNKQmVGQUx2RHV1SERZekh3dlBUamF1NGNCQlpxWEhkYlJZMA?oc=5",
-        "id": 9
+        "id": 33
     },
     {
         "title": "Tomorrow X Together to join iHeartRadio's Jingle Ball Tour for the first time - Korea JoongAng Daily",
@@ -87,79 +303,25 @@
         "desc": "メディア(US): Korea JoongAng Daily",
         "importance": "medium",
         "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNQzhmOG9BdDRBemg2N2xjUmxzQ3N0WEVybDV3RnZhcl9KRy1lX0k2NDNMVmRlNm1tMU9ZbzUxN3VWM09TejhkNzF5cjBhQTlFRlVuemtod1lja2RDUUdpa2pwX09rS0J3SVlWdzhWX0JObElmMmNqUHF2RE5IV0xEc1A3M2otVUN6ZW5lVW12ZUJ0ekxXbzNUT3d0TFZFMVFnNllqSHFxd3NuMThaM1Vnd1NNSFFiWHRSTTdZWnNhakphRVlGcFV0cHdHNzRvUQ?oc=5",
-        "id": 10
+        "id": 34
     },
     {
-        "title": "Charlie Puth to KATSEYE, here is the lineup for the 2026 iHeartRadio Jingle Ball - t2ONLINE",
+        "title": "Are Supply Chain Delays Altering The Investment Case For Textron Stock (TXT)? - simplywall.st",
         "date": "2026-09-26",
         "category": "News",
-        "desc": "メディア(US): t2ONLINE",
+        "desc": "メディア(US): simplywall.st",
         "importance": "medium",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNGJ6YmU0TDZHY01nclBqVmY3WTRPdkNWRG44Ums3NHNkaDhRSzRLbExMOURPRWR3d0IzQWE1NmxVbUExMmZnbGh5N3lRd19femRKeXJDdWV2eW4wV09FS2dwM0tnRmNvcDZJSGVYRFZKbWtLZEtUNjZDcEJxbjcwTFo5Yk12TWRKX2x6MXItLUtvbXFxeE1xMmIxQ2psdzBRaXdJY2xjQ0hPNDFtR1J4SjEteUNQT09PSnVZcVpZUQ?oc=5",
-        "id": 11
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNYUVJMWRzUHhoYmV1SnhSZFdvX2FmVVpjSGFFYkcwUXVObUtUSmE3el90ZDlGQ2NQYXlmQXUxb2xZUzNEeDQ3TnVQOXEyQkxTSE9FblN0MENmYUVvbEF1MmlBLUxBemU0TVVuZzNpRlJCM3ZQZGpLT3RlTHBRQjVSb3BxT05acUZyR3ZZN0dYX3BfTldLX2xpcjlfVDlEMm0wQ2cxMFA1YTAtZEd4eFVnYVRUWGFiYW5FLXBzMV8teFFtaWYzeHE00gHMAUFVX3lxTE8zWWVPTFNYQmpJM3VpTkJpamFNV0ZfRHlLTGwzVWg3eXN6U0kwM0tPVDA5XzhmTG5yV2NYQUp1bG1hS0FRVU1VdkJMVXlheGlsMVpCdWpaZ0wyeEY2UEJtTWdvU1BXVFpkaFowU0Vfb0ptNzM0VDNfWXl2RWJuTkVTWG9TYzBoOFNLSThPWDNsTjJpVWdSSjFCOWdsMkxQbThMLTdEd2NxVmNKQmVGQUx2RHV1SERZekh3dlBUamF1NGNCQlpxWEhkYlJZMA?oc=5",
+        "id": 35
     },
     {
-        "title": "Tomorrow X Together Debuts at 2026 iHeartRadio Jingle Ball Tour - 조선일보",
-        "date": "2026-09-26",
-        "category": "Live",
-        "desc": "メディア(US): 조선일보",
-        "importance": "medium",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNLXdoWFBJaTIxckpObEFESFk3T0tqeDNCS2lEZzhNdDAwdV9Yd2l2N0FRX2RvZ1h2YW03cmRMX21LWklSSHVoSWJsTmJQQURLbEVpaDRzbjZkSmI5ekpvRlNOVmlhb0RHNTBsd2o5Smh1cTV1TVctWDlZZ1AxQVJGUFpaS0VpNllCVUFWS2Fn?oc=5",
-        "id": 12
-    },
-    {
-        "title": "ALL’N turns TXT elevator encounter into new single - Manila Standard",
-        "date": "2026-09-26",
-        "category": "News",
-        "desc": "メディア(US): Manila Standard",
-        "importance": "medium",
-        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE56MWVzSkhSaXVmLUNuZTBqMTFhekxMRlVQRE5VLXpZSTBTWHU2VTh6cmpKWGkzMGUybG9RejB1REdic1AzSUo1M0Y4VjZoN3hx?oc=5",
-        "id": 13
-    },
-    {
-        "title": "Heo Hye-kyung: \"Park Bo-gum and Tomorrow X Together's Beomgyu listen to my music? It's amazing, and I'm grateful.\" [Heo Ji-hyeong's Topography] Part 2 - starnewskorea.com",
-        "date": "2026-09-26",
-        "category": "News",
-        "desc": "メディア(US): starnewskorea.com",
-        "importance": "medium",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAweUlJQzZfVmkwMUhlVndnZGJxckJ0N0VnNjhkRkV0SXl6VXNjZ2xyaHR1QXdFMWI2elhrNUpEYkZlRFlMNXN0ZmxzTmFPUFJuMm1NWVR1WUhSSkFKQ1lvUW5HQ3lYczNKRXhyaDBmR2tTYlYxN3Zydw?oc=5",
-        "id": 14
-    },
-    {
-        "title": "YOSHIKI、TXT、渡辺直美ら出演の世界最大級チャリティフェス「2026 Global Citizen Festival」｜actcoinコラボキャンペーンNY特派員決定 - SDGs fan",
+        "title": "TXT5人が秋葉原の駅前に集結！ご当地グルメショッピングを楽しむリアルな姿に「新聖地爆誕」「秋葉原にいたの！？」「いつの間に」と大反響（THE FIRST TIMES） - Yahoo!ニュース",
         "date": "2026-09-25",
         "category": "News",
-        "desc": "メディア(JP): SDGs fan",
+        "desc": "メディア(JP): Yahoo!ニュース",
         "importance": "medium",
-        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9zQm1vSUhBYnBzRWJzdWkyMG5JdXZPM3JUMVBWRG1ua3YzVl9nLW9tNHB3anEwZzlRVGNrZjJTdmtVaDhIWXNPNEZDUE1DWmRPVC1rRll1cEdYb0xPUF9wLWRRQ0E5MUU?oc=5",
-        "id": 15
-    },
-    {
-        "title": "투모로우바이투게더, 美 징글볼 첫 출격 - bntnews.co.kr",
-        "date": "2026-09-25",
-        "category": "News",
-        "desc": "メディア(KR): bntnews.co.kr",
-        "importance": "medium",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9kTVlXNXUteGFoQnJfN3Q5a3J5TW05WjVJOHdPajRjU3YtWDluakFjdkVRcEwxSmhXMXFiUGhMaUpET1dONGhWMWJ6MVdjWmRFdWlYZzFiMmVodkJqQWJvSGJMc3g?oc=5",
-        "id": 16
-    },
-    {
-        "title": "투모로우바이투게더, 美 아이하트 징글볼 합류…연준 솔로 무대까지 선다 - 톱스타뉴스",
-        "date": "2026-09-25",
-        "category": "News",
-        "desc": "メディア(KR): 톱스타뉴스",
-        "importance": "medium",
-        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE93QXAzS2h1Vk9FeXNkTWNVYTlRalRMbFNjZTVoVVFxekRFZmtaOV9CT2h5Wkx0WUtOaVhJN0k4a2pvdFY3dHVMWEZ4emdBRVJtcmxnTGR1WHRnVEFWSVFOekEzYWF6MlpISlpVNURzeTJTZw?oc=5",
-        "id": 17
-    },
-    {
-        "title": "투모로우바이투게더, 美 '징글볼 투어' 첫 출격한다 - v.daum.net",
-        "date": "2026-09-25",
-        "category": "Live",
-        "desc": "メディア(KR): v.daum.net",
-        "importance": "medium",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9jZGVGSU93WV84NGI3Zi16ZGcwUVk4c3V4QnJyVnhVcEYxY1I4SzByNWdnUl9CUzdQNWt0dnlTQ042Q2RwM2x1R1NGOVBNeGM?oc=5",
-        "id": 18
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9uWlpEU0RZYmxCaE0zV3lBQ1ZtOHlvLVAtVkJLdGNlX0MwRDVUel9TcGN0Ym9TWDdsVEdVRmtYTFBmSzE0akpKNURORjVOeDJEYWFlOVRjS1cwV195cGM3bGhHTXBNVGlUdzRQb1hCZk91RlBNZFlBdzVWQlFDWWs?oc=5",
+        "id": 36
     },
     {
         "title": "Textron (TXT) Faces A 27% Fair Value Gap On Execution Concerns - Yahoo Finance",
@@ -168,7 +330,7 @@
         "desc": "メディア(US): Yahoo Finance",
         "importance": "medium",
         "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMlQzekUtSFpOODRjZGp2cThwRmVfdWlHWFoxcWotNVRzTERzT3hmUVNmSmhNb2xvWmt3WVk2d2FLMnRDWndZaGNlaF9vTHdWaTBrUEFmUEpXb3B6cTE5eGExdTY5MUxzeGlUNTZUdzB2bThFM0FKN2ZOQVBsODVVRzhiVzVRNHBqOXVuN2psNUtNZi1T?oc=5",
-        "id": 19
+        "id": 37
     },
     {
         "title": "TXT: Can't You See Me? (2020) - IMDb",
@@ -177,7 +339,7 @@
         "desc": "メディア(US): IMDb",
         "importance": "medium",
         "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQU1ZJSlFrUnhFTVY4ZEMtNGFJcTBNdng3SXlPZUJDck93Tm9mRjZoci1PZUx1STEzUXo1QjNYY2t5bE0yM0hOSWpRNG9RV2lKU2Y2Yzc3d0FBdC1DZVlPNl91aER4TjluZHNxUGt1VlRkaHRGeVB3Yk5vc0xCTUtLX0gycw?oc=5",
-        "id": 20
+        "id": 38
     },
     {
         "title": "HYBE CINE FEST 2026 is bringing BTS, SEVENTEEN, TXT and ENHYPEN to cinemas around the world - RouteNote",
@@ -186,7 +348,7 @@
         "desc": "メディア(US): RouteNote",
         "importance": "medium",
         "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTXlvMWhsRXlSaG5KQS11ZzdNTi00VVVZZDdnTzctaVhEMmVyY29sTFd5cU1BM2FEZVB0WlRxa3dvYzVtNXpVLVljU21zdUREbWc0MTBsamcwblZOVFMwRFh2elVuUWFJZW9qZ1VwT1YzNDM3YzhLaTd3bm1HNDB2SWp6dkZEU1pqSWdBV1RYRXZybnZMOFExcFhiYUlkMXIwUXdtMDc1Qy1FSHhyWjN3VHR3QWdrU3U1U1E?oc=5",
-        "id": 21
+        "id": 39
     },
     {
         "title": "【PHOTO】TOMORROW X TOGETHER、海外スケジュールのためアメリカへ出国（動画あり） - Kstyle",
@@ -195,106 +357,16 @@
         "desc": "メディア(JP): Kstyle",
         "importance": "medium",
         "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9PN3I2blR6bzVUSzJ1cFBNTDVEWElfUkNkemNObkx1QVdza1FvdlpDNEJkcTd4OS1YQWJwX0Rsekh0YTlpTlF1U1hFSjNMeTByNVIxcGJKdEtOQzFi?oc=5",
-        "id": 22
+        "id": 40
     },
     {
-        "title": "TOMORROW X TOGETHER「Love Language」、Spotifyで1億回再生突破…通算20曲目 - AFPBB News",
-        "date": "2026-09-24",
-        "category": "News",
-        "desc": "メディア(JP): AFPBB News",
-        "importance": "medium",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5yVWFfalpNa0JfQ2RjdVN1b21yVGJJWVlKRU9fMGs0SDZYdUt1cm1kNjhMTUV2LTJZeHZQTDBfci1fMDljUndQLUVNVWFMNmdDc0HSAVRBVV95cUxNNWZIRVgyX3dnbTVhaWFkVUZCWWF5MFRxRXFGZXg4aTA5VHRjZUYwRElHM2Vhd01WSWdxdFZNY3c0RG50bWlrWWtGNkRPQ2FsYTZkZmM?oc=5",
-        "id": 23
-    },
-    {
-        "title": "【PHOTO】TOMORROW X TOGETHER「人気歌謡」日本公演を終えて韓国に到着（動画あり） - Kstyle",
-        "date": "2026-09-24",
-        "category": "Live",
-        "desc": "メディア(JP): Kstyle",
-        "importance": "medium",
-        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9XOGg4eWJOeXh2UEhOQjZkbXJ2VUN4MzFzYTdIUU9ZM0sxYU5ENDFzUm9aXzBJWTY1OEI0OWpDREpMbDVvVHRETHlDSDVHUXYwbFFBOGtzQWNkUlNp?oc=5",
-        "id": 24
-    },
-    {
-        "title": "TXT、日本ドームツアー「STEAL THE WIND」詳細発表！ “風”をテーマに没入感あふれるステージ披露 - 推し楽",
-        "date": "2026-09-23",
-        "category": "Live",
-        "desc": "メディア(JP): 推し楽",
-        "importance": "medium",
-        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5UQ2RqWXRmSjJkLU1RbkF2ZlhXQmJpeVMtQ0x1NEwyUzJuM1NHSHRxeTRGSzU3Y3RUZ044YmpwNk5pYkwxUWU2Z1k4WlF4YzVScS1UY3hBQ3ZEVG13V0xRcnlZd0pCY0pMWlFXWVZ6amdWNWM?oc=5",
-        "id": 25
-    },
-    {
-        "title": "TXT、TWSら集結！ Mrs. GREEN APPLE「CEREMONY」8月にTVerで配信 - 推し楽",
+        "title": "TXT、NCT WISH、MAZZELら8/31放送「CDTV」に出演！ BE:FIRSTは日本でテレビ初披露曲も - 推し楽",
         "date": "2026-09-23",
         "category": "News",
         "desc": "メディア(JP): 推し楽",
         "importance": "medium",
-        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8tT0xiMWgzTFRCNjk2dTNOYjhrT2ljWXh2NmhGdVRjMnhKYmpGUzJOcm1UYzR0M2h5aTRpLUdxYXpENzV6WE13enlEd1BnNHU2T3VqcmdOVVRad0VGVEhxNk5kV2lRblVsWjBTZ0lXS3U5Sm8?oc=5",
-        "id": 26
-    },
-    {
-        "title": "TOMORROW X TOGETHERがMOAと夏祭りデート！「セツナハナビ (Setsuna Hanabi)」リリース記念プレミアムライブ - 推し楽",
-        "date": "2026-09-23",
-        "category": "Comeback",
-        "desc": "メディア(JP): 推し楽",
-        "importance": "high",
-        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBtazVidGRZWlZlTFR2SFV3Um5XX2hNaGxxMmh3bmVjN21OSlpCUmY1bUItVDhrMkoxOUpFdk1faTRKR1BXYWJRX0RvZzRselZlN2EzbDJTcmZ0WmxYNDlHZ2VzcVNiZGJUaV9JMy0waUdrcmc?oc=5",
-        "id": 27
-    },
-    {
-        "title": "TXT、エナプ、セブチのライブフィルムを上映！HYBE所属アーティストの映像楽しむ映画祭（映画ナタリー） - Yahoo!ニュース",
-        "date": "2026-09-23",
-        "category": "Live",
-        "desc": "メディア(JP): Yahoo!ニュース",
-        "importance": "medium",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ZQnp3MDFfbnJ5RW5DV0FEUlRoT3k4ekpvSHk0NTI4RG1uem5FSW8xalBhLUxleEpfUEljdGs5TEFZSTJVWnQtY0pIQVp0a053TzVvVU1CbmFnZUJjS09mb21Yc1E0akU5eW9KM3dSWWtTalpXUlpPTHVENXdDT2s?oc=5",
-        "id": 28
-    },
-    {
-        "title": "삼화식품 요아정, 필리핀 상륙…TXT 한정판 앞세워 승부수 - 더구루",
-        "date": "2026-09-23",
-        "category": "News",
-        "desc": "メディア(KR): 더구루",
-        "importance": "medium",
-        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBZS0w4MDFKelc4WldHNFN3STFXWFhOd1ZDSlBBQlVja3BzOXpyVmJ1SFV3c3NDS01xaVU4dVlIT3h1TklUQm0yUUhPMjdJdGpTTjVrTGxlalhBd2otdnc?oc=5",
-        "id": 29
-    },
-    {
-        "title": "TXT, 마카오서 투어 규모 키웠다 … 전석 매진에 1회 추가 - 뉴데일리",
-        "date": "2026-09-23",
-        "category": "Live",
-        "desc": "メディア(KR): 뉴데일리",
-        "importance": "medium",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBPSGdpVzNkSlhpT1g5S3dYV09DbkJ2QWdHUVZHcjVQOFBEcFZ2Wll3TGNkd0hkVThSQV9oMG1mSGUyMHhsc2lWSEp1RXJ2X25YVGlBNVl0R0poNFFxd1RONnlOMzNhaE1yVFpWdHcyWWRsVFJBYnpyTkR2NNIBgAFBVV95cUxPcVJGRF9Hcm1qMWE1OWRNRDNTdHYwUFhMTkxXZUc5YzZQQkZiZDNKNEJZZ09kNmpJam5HdnFiN0xiRTFzY211YTFnWXlIdjU4UDhXVzR0bGt2R2NQMGNYQ0JscjZsV2hoZWRFY19FTXRNOFEyNGp5Y3YtVHIxbnp0Yw?oc=5",
-        "id": 30
-    },
-    {
-        "title": "TXT, 마카오 공연 매진시키고 추가 회차 확정 - JTBC",
-        "date": "2026-09-23",
-        "category": "Live",
-        "desc": "メディア(KR): JTBC",
-        "importance": "medium",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1SZERYX050NnZOWXNrZnBQYXJrZFdxMU5xNXpvVFNaaW1MNkYtRHY1TkE0WTJBTGVTNkg3SmdKSFdnQnRFa2tUbVhxMGFJNVF2Tk5HZA?oc=5",
-        "id": 31
-    },
-    {
-        "title": "HYBE CINE FEST 2026 brings BTS, SEVENTEEN, TOMORROW X TOGETHER, ENHYPEN & more to cinemas worldwide - bandwagon.asia",
-        "date": "2026-09-23",
-        "category": "News",
-        "desc": "メディア(US): bandwagon.asia",
-        "importance": "medium",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTGYzazNMU0d0cWpqSkUwYVkyTm1DUzM1N0M4czF3OEUtMnBjQ19xZGhLRzBFQ3dFQmYwMnpKYTBaRmlyQWd1TURodlUzMnRzNVd3SzE4dkF1TUtsVmQySWJCY21DejUtVE9qTWNVVF9MemI5UzBJYjlqNnJFU3BjMktXLVNZNjhMdXhocDIxY0thVkl5eVo0VmY1d2JDc1ZQd2IwTjlMOTQwUTJqUVRSTjROX1hBbUxVQ0E?oc=5",
-        "id": 32
-    },
-    {
-        "title": "HYBE CINE FEST expands to over 60 territories with two live BTS broadcasts and concert films from SEVENTEEN, TOMORROW X TOGETHER, and ENHYPEN - Music Business Worldwide",
-        "date": "2026-09-23",
-        "category": "Live",
-        "desc": "メディア(US): Music Business Worldwide",
-        "importance": "medium",
-        "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxON0lZR295b1VTd1d2dWJ3UVA5Ull6RkR5cklYZERrdnFHYVp3bVlIb0JELWJoN0h1UGNiN2Jic1BXYjd4TU9wajVUamV1Qk1IN095dEtGeWZhVngtem1xYlRRRGlkZjlyQ2ktYWhpMGNvbEJBbUtqQkt6VnIwN2F6YTNUMXByWEFEVjBaUDcxRHlkRFZyME9aMHNvVG1CVFZSQzdKdFB0WVd4NDlJSVFBaHdjSmxSM0s2bC1IaFJwem1oWEtJMDNubTNPd3kzdVpsRzFvX2lWZkY0c0ZvLXNxd1NYVWZxTkhqSWxMamRfLXZoaEMwMEtFUlZyMnJ5NUtoVjBrSTJERzZ6Wm8?oc=5",
-        "id": 33
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBQa3JUZDRZNzhaWDdvTnA3OUJ2UjI2YWpaS0Q5cjJzOWdvaVpoY0J0RVphQ0hiVVo3N0VlSzNnMmJaOWNNYXdUWTFXYktUS0ZscXVwbG4yYk1NektWb1pwTXRwQlZBTVppbXc0V3FnVlp0aVE?oc=5",
+        "id": 41
     },
     {
         "title": "【公式】HYBE MUSIC GROUPアーティストと全世界のファンがひとつにつながる映画祭「HYBE CINE FEST 2026」10月30日(金)より全国の映画館にて開催決定！「TOMORROW X TOGETHER WORLD TOUR ‘ACT : TOMORROW’」10月30日(金)～11月12日(木)限定公開！",
@@ -304,34 +376,7 @@
         "importance": "high",
         "url": "https://txt-official.jp/news/0733f5147781",
         "badge": "OFFICIAL",
-        "id": 34
-    },
-    {
-        "title": "【韓流】TXTの「Love Language」が１億再生突破 20曲の億単位曲達成（日刊スポーツ） - Yahoo!ニュース",
-        "date": "2026-09-22",
-        "category": "News",
-        "desc": "メディア(JP): Yahoo!ニュース",
-        "importance": "medium",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA5TEFCdGt4cU1vbHlYU0xwa0htdUk1S0FjcURUTjJBMV85cG5fcWw1aHAxWXB2RWNrMko0QjBQN01aREpjOHNLLUwyc2lBM0JjT0JXSmlJdHBKYkVrQXpSZzZ6ZVhUSlk3aFJyN2hkNmJDUTZkQUNfWmw1ejJMWEE?oc=5",
-        "id": 35
-    },
-    {
-        "title": "TXT ‘러브 랭귀지’ 스포티파이 1억 스트리밍 돌파 - JTBC",
-        "date": "2026-09-22",
-        "category": "News",
-        "desc": "メディア(KR): JTBC",
-        "importance": "medium",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5mQko3a2t6bXk0QUpDamFsYlJoY05ualhxemswQVJ2SU5BS2FOLTBYelFteTdqYTlvUUxEdlg4TUYzQ045dU94dC16Ry1OUzM5bXY3OQ?oc=5",
-        "id": 36
-    },
-    {
-        "title": "TXT 연준이 요즘 가장 빠져 있는 것은? 직접 쓰고 답하는 10문 10답 인터뷰 - harpersbazaar.co.kr",
-        "date": "2026-09-22",
-        "category": "News",
-        "desc": "メディア(KR): harpersbazaar.co.kr",
-        "importance": "medium",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBXbkVWSTQ2SDBKd0E5dUMwZG5rU2hfaFhWUlNNOUpfMDlWbEJWRHNQSm9CRURhUl85Z0tJOTgwTUM4eFZuRXBKUVpJdEdJOEJha05FNklqTm5UREk?oc=5",
-        "id": 37
+        "id": 42
     },
     {
         "title": "TXT’s ‘Love Language’ exceeds 100m Spotify streams - The Korea Herald",
@@ -340,25 +385,16 @@
         "desc": "メディア(US): The Korea Herald",
         "importance": "medium",
         "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5zY08ybXZsMTNFLThxM0k4aTY5OEJpMmRXa25UQ05Ja2ZZSlFjRVFqU2hPczBYN0lMOWszNXRZcTNDT3hYQTZaNkRnTW9fQWFZR1JUTGlfOA?oc=5",
-        "id": 38
+        "id": 43
     },
     {
-        "title": "ACHR vs. TXT: Which Future Aviation Stock Is the Better Buy? - Zacks Investment Research",
+        "title": "ACHR vs. TXT: Which Future Aviation Stock Is the Better Buy? - Yahoo Finance",
         "date": "2026-09-22",
         "category": "News",
-        "desc": "メディア(US): Zacks Investment Research",
+        "desc": "メディア(US): Yahoo Finance",
         "importance": "medium",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPV3BUUGlycTgtZXpPdlhOREJQWEE1Si11b2cydEtXN3NvaElJUTVHZ19aZU5BMVlUWl9YRW85Q19SWHdJaC1KREpmMHlnN01aclBBa2dkdkJCSVMtQ0ZxUXpWMFk0TmdhNHBNMFVYdEREaFRVM3J0SUg2OEZ1Q25Fa2dMdTFqR1ZyaENjZ1FLeUxmUEwwMlVGS29kSTlyM1k?oc=5",
-        "id": 39
-    },
-    {
-        "title": "【PHOTO】TOMORROW X TOGETHER、スケジュールのため日本へ出国 - Kstyle",
-        "date": "2026-09-21",
-        "category": "News",
-        "desc": "メディア(JP): Kstyle",
-        "importance": "medium",
-        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1HbUZaLUk2MlZYQ1p0ZXVYS1JybU1XWGdodlAxbjkwUlJJM1Y3X0hUWlN4R2pyT2FrUUc0dkx0bXZpak5zalo3Nlc1dlNhYXd0NTRDY0RIcVVKTDFf?oc=5",
-        "id": 40
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcV9ZczFDM2Z0eVN3Zmw0SExSY0pUcFVMd0Y0cl9uWW1JeE5iaXFvZ1BPdi1kNUtsM1NzMzg3elNYQml0eTFITldJcmFtZ2JoMkNzbFRjS05lbVBJRkFDRkZnSEJkVjdHNG1vbTV6ZUtJelJPdnBTRk1SUFNnUUREWlFQTDlaZmZ3bGJDNkVfaEIyVlQ2NnFZ?oc=5",
+        "id": 44
     },
     {
         "title": "[NOTICE] TOMORROW X TOGETHER WORLD TOUR IN SEOUL In-person Event Ticketing Guide - Weverse",
@@ -367,16 +403,7 @@
         "desc": "メディア(US): Weverse",
         "importance": "medium",
         "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE11VWRPODZjMl9IcjJlSkNLWTJseHVsRVVNaDByOWNEN1Rpa2hnVE1uQUVNcUZtdmp3WXNQd3V6WHdtZFpGVXBYSVp4QQ?oc=5",
-        "id": 41
-    },
-    {
-        "title": "Textron (TXT) Unveils a Cargo Plane Concept That Needs No Pilot - Yahoo Finance",
-        "date": "2026-09-21",
-        "category": "News",
-        "desc": "メディア(US): Yahoo Finance",
-        "importance": "medium",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNT2pUSWNwRm10LXIzY2thZ0x0R09vU1E3Um4wQ3RLTnhYOE5xX3BuWGpwdnV4clZlM3FfYk9yRHZTcjlwMHNfWElXck5aNWgzb25hZVFaTHJmbEZOc3RnN20tZkw4WHdmR0J0c0RtUnBMWGxhWlRBNDVKM01ZRUdlR0YwRmF0NDFhMDZvaFl5aENaRUY5VjRvVWlHQzE?oc=5",
-        "id": 42
+        "id": 45
     },
     {
         "title": "【公式】【重要】9月23日(水・祝) ミート&グリートイベントの開催について",
@@ -386,7 +413,7 @@
         "importance": "high",
         "url": "https://txt-official.jp/news/0a5ac26a0965",
         "badge": "OFFICIAL",
-        "id": 43
+        "id": 46
     },
     {
         "title": "【公式】[HYBE INSIGHT] TOMORROW X TOGETHER Exhibition 『LAYERS OF US』in TOKYO 特設サイトオープン！",
@@ -396,7 +423,7 @@
         "importance": "high",
         "url": "https://txt-official.jp/news/e254569ed764",
         "badge": "OFFICIAL",
-        "id": 44
+        "id": 47
     },
     {
         "title": "【公式】HUENINGKAIが登場する『25ans』11月号特別版表紙が公開！",
@@ -406,16 +433,7 @@
         "importance": "medium",
         "url": "https://txt-official.jp/news/6eea74891e44",
         "badge": "OFFICIAL",
-        "id": 45
-    },
-    {
-        "title": "TOMORROW X TOGETHER、5度目のワールドツアーが11月13日よりソウルKSPO DOMEで開幕！ポスターを公開（Kstyle） - Yahoo!ニュース",
-        "date": "2026-09-15",
-        "category": "Live",
-        "desc": "メディア(JP): Yahoo!ニュース",
-        "importance": "medium",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5KbTZhNXFzZHFSS2p3OUh5LVNLUDFReXNUVkFtT3ZiMmFwTjREbTdodnozLWc2RDFUYWVCNmhnNUNvaVZnTWRoY0VIWHdlclI5UXZQQlNudFIxUjlMUlBTNkt6WXZBc0JsZlhhZnhWMTZKZjMyVmhSRjVJM3BlUms?oc=5",
-        "id": 46
+        "id": 48
     },
     {
         "title": "【公式】『TOMORROW X TOGETHER WORLD TOUR ＜STEAL THE WIND＞ IN JAPAN』開催決定＆特設サイトオープン！さらに9月15日(火)13:00よりMOA Membership (JP)会員先行抽選受付スタート！",
@@ -425,7 +443,7 @@
         "importance": "high",
         "url": "https://txt-official.jp/news/4268e4e57ee0",
         "badge": "OFFICIAL",
-        "id": 47
+        "id": 49
     },
     {
         "title": "【公式】BEOMGYU・TAEHYUN・HUENINGKAIが出演する、眼鏡市場「Crapt」新WEB CM公開！",
@@ -435,7 +453,7 @@
         "importance": "medium",
         "url": "https://txt-official.jp/news/4b6392d8aa6c",
         "badge": "OFFICIAL",
-        "id": 48
+        "id": 50
     },
     {
         "title": "【公式】＜FROM TXT＞更新",
@@ -445,7 +463,7 @@
         "importance": "medium",
         "url": "https://txt-official.jp/news/9eea4ddc1c05",
         "badge": "OFFICIAL",
-        "id": 49
+        "id": 51
     },
     {
         "title": "TOMORROW X TOGETHER 日本5thシングル「セツナハナビ (Setsuna Hanabi)」、 日本レコード協会2026年8月度プラチナ認定！ 通算6作品目、今年だけで2作品目のプラチナ認定！ - USENの音楽情報サイト",
@@ -454,16 +472,7 @@
         "desc": "メディア(JP): USENの音楽情報サイト",
         "importance": "medium",
         "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQSnJ1SHlnWG1QclhoTjFiMHBkMEl0S3VqQ3FCZERza0txNHpOV2NKX3FxaGdLbUhUb0UtaDUxY2dGbWN0b0JCYS15MGQ2S1otUTdFSEt1b2RSZjAzeTREc2pnOVpjRGtmUUhlOHlISTV1b3B5VGI5Vk5rbXBwcm9TeVhJbWZyZ1hRYnZpSXJNZnd2Tm8?oc=5",
-        "id": 50
-    },
-    {
-        "title": "투모로우바이투게더(TXT) 日 싱글 5집 ‘Setsuna Hanabi’, 일본레코드협회 ‘플래티넘’ 인증 - 스포츠경향",
-        "date": "2026-09-11",
-        "category": "News",
-        "desc": "メディア(KR): 스포츠경향",
-        "importance": "medium",
-        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBRblQ4cGVYZGkzN0FQb2JqY0hJbGNCUEJmamZ3Qi04LTFWM2FmLTRTQlM1TlVMeERqbGtCN3ZkbXNsTjBXZXZSY0NIWFNpUmhvTkFrYzYwaUtBd2Jva3fSAWNBVV95cUxQWk1QUFRsMklaWHV1cTdOeUlmbmwyanM1RHBaUEdaOElSaWxNaHd5LUg5V2t2bk5WSWhibzVhQ1hpZmJkQUxzTDdTb1lyclF3djY0SHk3M240VlhWMEZXX3kxTmc?oc=5",
-        "id": 51
+        "id": 52
     },
     {
         "title": "【公式】[HYBE INSIGHT] TOMORROW X TOGETHER Exhibition 『LAYERS OF US』in TOKYO 開催決定",
@@ -473,7 +482,7 @@
         "importance": "high",
         "url": "https://txt-official.jp/news/0005513eaae9",
         "badge": "OFFICIAL",
-        "id": 52
+        "id": 53
     },
     {
         "title": "【公式】＜BEHIND＞更新",
@@ -483,7 +492,7 @@
         "importance": "medium",
         "url": "https://txt-official.jp/news/cb22e8d9186d",
         "badge": "OFFICIAL",
-        "id": 53
+        "id": 54
     },
     {
         "title": "【公式】10月3日(土)「BEOMGYU×北村匠海 奇跡旅 in福岡」配信決定！",
@@ -493,15 +502,6 @@
         "importance": "medium",
         "url": "https://txt-official.jp/news/398fae7bcb82",
         "badge": "OFFICIAL",
-        "id": 54
-    },
-    {
-        "title": "ワールドツアー＜STEAL THE WIND＞開催決定！ - TOMORROW X TOGETHER - UNIVERSAL MUSIC JAPAN",
-        "date": "2026-08-27",
-        "category": "Live",
-        "desc": "メディア(JP): UNIVERSAL MUSIC JAPAN",
-        "importance": "medium",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1FRWFWaU9MNXdfc1kxeG9mODg4UnJ4WWZxQTg2ODhsU09CWDB1Ui1SRUw0T1dEVVF1dUh5MEk2REZYSWdEejdKckU2ZTlaQWpFZlFRX3dYdjNCdjRXNk5uZzlhS2Y?oc=5",
         "id": 55
     }
 ]
