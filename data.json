@@ -1,93 +1,138 @@
 [
     {
+        "title": "“カムバック”「TOMORROW X TOGETHER」、もどかしい現実を描いたラブソングで帰還…タイトル曲は「Angel Bite」 - ｄメニューニュース",
+        "date": "2026-10-24",
+        "category": "Comeback",
+        "desc": "メディア(JP): ｄメニューニュース",
+        "importance": "high",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPRGUwZWtrRWItWDNpSjNPb25SOHJrVThnWE1lYmRQZ1Jjekd2MEZrajRwYzlSRzFFOWhkLUNuVUV6S0RQcmEySXdjdVpqMnhjN0FWRTgwd0tFMjl6SjRmbFM5bmxjQWxLZks4TWEwVVR5a0ZTNEVGLWZobVRsS2lkLVVRd05WWmQ5Q1drcFNhNNIBlAFBVV95cUxPbFI4NHlaQjE5S1VBdzVIcFpkVVJmZmpueC1wRTk2VUgwbDVHaEFfSE1OWGNJTlcwaFRGRk93UE16dEMzcmp3QVJDVElqRnVvWmdBUmhNcFdjX3k2S2NCVXJGTWZkYlI5dzNvc3ZvelRGNWxZejRrOGpabWRfdlZIOGxDSU9jemh4bHFPQ3NrUGlxUEpK?oc=5",
+        "id": 1
+    },
+    {
+        "title": "투모로우바이투게더 표 러브송 온다…신보 11월 16일 공개 - JTBC",
+        "date": "2026-10-24",
+        "category": "News",
+        "desc": "メディア(KR): JTBC",
+        "importance": "medium",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE91OE9ZYUZFQnVORjBNOXpsSjB6ei1JTHM1Z1FPNlhDR01CWE42b1dBajFVLUlaUXZRbVBjU05JamQxbWVaMUd0d2pIQnc2TzFjR0xkUg?oc=5",
+        "id": 2
+    },
+    {
+        "title": "“가장 어려운 건 밤 비행에서 벌이는 잠과의 사투” [.txt] - 한겨레",
+        "date": "2026-10-24",
+        "category": "News",
+        "desc": "メディア(KR): 한겨레",
+        "importance": "medium",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE01M0dzcjdYcWJsdEhXQVdPdEpSeHhuTmVJdEc1eTJqWHdGVS0xVExTclRUUTVBQU5xSF9rdVNDVVJ1SE1fU0otSmRWdnFNRHFLY0pES1hLWXlISmJvbDU0OGE3TWc?oc=5",
+        "id": 3
+    },
+    {
+        "title": "TXT, 비루한 현실 그린 러브송 11월 16일 공개 - 뉴스엔",
+        "date": "2026-10-24",
+        "category": "News",
+        "desc": "メディア(KR): 뉴스엔",
+        "importance": "medium",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9ETWlxemJ5MUFEaU5NbFlWUDEzOGxiaFk1ZmNfUTlCRHFqcVFURXByNGFGbXhxUDBoSUNqWnhOV1VuT3lBNUtRUVY5UUhVYXFmbDJ5Sm0wYW1YMUFzU3I3bjRSa0Fhay0wLWtkc2JVQXRBamJFZWhnWUx6NA?oc=5",
+        "id": 4
+    },
+    {
+        "title": "투모로우바이투게더, 러브송 ‘엔젤 바이트’로 컴백 - 동아일보",
+        "date": "2026-10-24",
+        "category": "Comeback",
+        "desc": "メディア(KR): 동아일보",
+        "importance": "high",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE11cmsySkhkRmlxYVhWT2pxM0NBdERaWXJxS3NXWWZ2eTF4RUJ2YUp0ZlNpcktGTzVPTHRVVHZqZmk5T3B3d0NVdXdsUE5rWHo2Rmo3TlA3YXhDOFcxb012a21kWGtsQdIBZkFVX3lxTE11cmsySkhkRmlxYVhWT2pxM0NBdERaWXJxS3NXWWZ2eTF4RUJ2YUp0ZlNpcktGTzVPTHRVVHZqZmk5T3B3d0NVdXdsUE5rWHo2Rmo3TlA3YXhDOFcxb012a21kWGtsQQ?oc=5",
+        "id": 5
+    },
+    {
+        "title": "투모로우바이투게더, 'Angel Bite'로 Z세대 현실 노린다…“비루한 청춘에 고백을” - https://www.ppss.kr/",
+        "date": "2026-10-24",
+        "category": "News",
+        "desc": "メディア(KR): https://www.ppss.kr/",
+        "importance": "medium",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBMNzJEZktMdWMta3RHV1h6cXVzczRCMjBGb0xKUkNmczdpcmd2WFhPR2VBamdkNGp4LVVuMDItTUIwY2pOQ0xsaDBWRUJ2Z0lOTFllVFlDOTNubHIwTEQ5U25IYU8?oc=5",
+        "id": 6
+    },
+    {
+        "title": "대통령은 SNS를 끄고 피해자의 책을 읽으시라 [.txt] - 한겨레",
+        "date": "2026-10-24",
+        "category": "Rumor",
+        "desc": "メディア(KR): 한겨레",
+        "importance": "low",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBRQVo1bmxVcGVnRHI2d2E5cXJyLWlFR2JIMEJ0anMyTGVlaXRoOW5MTFRTbXRHRDA3RnhZRnp5YlhJaC1tTmRyVmVBTndObGM2ZkpNUXRrVzRZVExFSkJaYTFjYw?oc=5",
+        "id": 7
+    },
+    {
+        "title": "산재로 양손 잃고 독학사 수석 뒤…‘조선 운영 매뉴얼’ 16년 만에 완역 [.txt] - 한겨레",
+        "date": "2026-10-24",
+        "category": "News",
+        "desc": "メディア(KR): 한겨레",
+        "importance": "medium",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1wbzJXdmt5VnJkM3RWVlA4ZnRvVlpnaGF0dGVLSzUtT1p3OWZjRDFrQUZLTTdob1JJNUsxQzh4cXI4QzFSbXp1LVM2Y0hYazJtbXhkbURiUGIxc1BCbnl2dVpYR1pYN1JY?oc=5",
+        "id": 8
+    },
+    {
+        "title": "악당과 혁신의 두 얼굴 머스크…좋아해, 말아? [.txt] - 한겨레",
+        "date": "2026-10-24",
+        "category": "News",
+        "desc": "メディア(KR): 한겨레",
+        "importance": "medium",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFA2UDR1MjIwSXp6V2pvUGhPaXpXNWlHeUhDc2swa0ZwY0tieWppN2dCeHVjc0laM29EcU9sMGxiN18tcEFpdE5ncXJONTA4YjlPcEg1T2tQTTNWNGJLRlN5Y1dPWXhaNzVhMUVyVjVSMXNHZw?oc=5",
+        "id": 9
+    },
+    {
+        "title": "‘7번 국도’ 들으며 유영국 작가가 뛰놀던 그 바다로 [.txt] - 한겨레",
+        "date": "2026-10-24",
+        "category": "News",
+        "desc": "メディア(KR): 한겨레",
+        "importance": "medium",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8telNnajNDUzYyNVp6eXNhdkxYc0ZiSmNtQ1ZNQ1RfRnprbVlXUWt3NjdtYVBEZXlYYzZhZWpvTFEwWTVlRVdhVkNNcFN2VlppLTlOT05Dei1rUjFrZE5MRy0tMEo?oc=5",
+        "id": 10
+    },
+    {
+        "title": "Google Explains 503s, Robots.txt Limits & Bracket URLs – SEO Pulse - Search Engine Journal",
+        "date": "2026-10-24",
+        "category": "News",
+        "desc": "メディア(US): Search Engine Journal",
+        "importance": "medium",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQc3VwMlVVNlRUT05yQWFMamJqT0ZOc01DMWpCbm1nUVVya3dBZHpGQjBoZ1AyRGVkUEMyWjVyaWdVbFZZLUFtM0l2czlaMkxBc3ZGa2M0V0hXT1Vpel9zRGFLbnBiQThTMDNkTThaYVZ3U2JKMzgwX2UxVkdfTU9jdnNBTTVYN1FrQ0xUS3ppZWdOdDZ6Nmhsb1NNTENXSVROTWhZcTc2b28?oc=5",
+        "id": 11
+    },
+    {
+        "title": "Tomorrow X Together Reveals Title Track 'Angel Bite' - 조선일보",
+        "date": "2026-10-24",
+        "category": "News",
+        "desc": "メディア(US): 조선일보",
+        "importance": "medium",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSXNLTk92dE9QSXJSdHlCajNLZW55V3JlR01BNzZvY0xWaDJzczlfM3gyMU01bENOVkZycl9COFZ6Nnlxa002cGExOTU3QkZaVDBES1R2bnpyd29FMUEyU1RLbnFiQkZPVlpKWl9JRThkV3phSWpUMDd2UWYwZXA3eGpQY3k5bGdwYkpIbHFR?oc=5",
+        "id": 12
+    },
+    {
+        "title": "TXT PERFECT STORM — New Mini Album Title Track ‘Angel Bite’ Revealed - The Korea Daily",
+        "date": "2026-10-24",
+        "category": "News",
+        "desc": "メディア(US): The Korea Daily",
+        "importance": "medium",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBuZzJFajZXbWI2ZkZIRWU5emJseFhBYUJ2bXBRaEtlQjZmRjhERnZmTVRvNDg1WnRRTjJadDNfV05JMGc4Y1RSTTJUeXdKV0g2QTlqQkNscEt5Q3ByNHR2WUxVTnFXQQ?oc=5",
+        "id": 13
+    },
+    {
+        "title": "Weverse TXT Image - TXT 'PERFECT STORM: STORM IS COMING' Photo Sketch - Weverse",
+        "date": "2026-10-24",
+        "category": "News",
+        "desc": "メディア(US): Weverse",
+        "importance": "medium",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1ySTdRTjJwd1F0c3R6YlpmUGhfUk9KVkdjeGFSdlhkVjhEYl9EY2NKT0pzRGZXZ1RaZ3RyOWtPb2FGdTFVQloycXBQbFhMZnJFY0E?oc=5",
+        "id": 14
+    },
+    {
         "title": "カムバック目前に悪質なうわさが深刻化…TXT事務所が“容赦なし”の厳正対処へ - SmartNews",
         "date": "2026-10-23",
         "category": "Comeback",
         "desc": "メディア(JP): SmartNews",
         "importance": "high",
         "url": "https://news.google.com/rss/articles/CBMikwRBVV95cUxQWE1OUGJ3Y2p1VUxib3JsclYwako2TlZGNGUwTVBaNG1mX2t5Wk95dXVhMmw1Z2ZhVGl2ZXhUVFZ6a00yTkpJOFZMdjBlSkt0ZzVRM180MmhpTW5qYVFHSUJYZDJZNHZoQWxsalBrSzZ0TnBOWWN5OFVlcW9WamgwT3oxSXhHYjdxT3VNTnhBU0gzOVJweXNmWkFVY3drcVZVY2RpeDBmUXo1RFRlejVvZEJlbVV0ZDdJbTFoa3V5UlEtZU1kWTJvVElkVTZBbkdtUGs2MjlmVFBCWjdOUG1IUmdGdkdOQkxiQmJJMTk4YnI2SWVMaGkxcW5HeG1GR0NQellnSHI0bTVVTktjdTJVMXBINlFxaUVXMWRyaTdkT1lQbC14Ul9ZOGR1SGQxVDNEMk1mV2FoUTQ5NngzV0lZWHF3V04zNV80akNVWXpJOGRjejBnYlhfaW52SzNtenFZRGJmZXlCX0JvalBGdTc1WHoxR21reTBZbW81VHFfWlg2VUpPd2VhaG5KU2llNm1TU0ZPa1NTWi04UVlVREZfZGJEc3dmN2dmWm5tUUJIVlNjNmktM3YyUE1MZUo1QzFkX2UxbU0yeG9MWW1Ic2NnZUgtaWJ1OVZGbzM3VnhpVnJpSEVoY1NaOTM4X1ZvNi1SUTgyQWZJSFMtSnQwbzFJNUgyN2ZMdE04aVdnYkpHRmY3S2c?oc=5",
-        "id": 1
-    },
-    {
-        "title": "「会社は知らん顔、ファンだけが必死」TXT・スビン騒動、トラックデモの背景と事務所が“沈黙”した理由 - RBB TODAY",
-        "date": "2026-10-23",
-        "category": "News",
-        "desc": "メディア(JP): RBB TODAY",
-        "importance": "medium",
-        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9vYmwzanBJVXFuX2k4Y1hiYm9DeEVwNW1naG9lUUh0MngzZ05kYWI2MmRrc0FubFdFNE9sbVdfYWt2MWFPUndDUXFnMVdibF83NUxJU1FlSUFNZE5MWTJqYTB2dUxKQQ?oc=5",
-        "id": 2
-    },
-    {
-        "title": "투모로우바이투게더, 11월 16일 컴백 - BNT뉴스",
-        "date": "2026-10-23",
-        "category": "Comeback",
-        "desc": "メディア(KR): BNT뉴스",
-        "importance": "high",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBVaGNiaGhWUFhDa1VvTjdGYWU4UGdMYi1qNHcwcmRvRTJPSU9DZXJuOWd4RnhMTHVic1hxU3hVWWUtODlVdnNTM1dNX1Awb1Y2dVRmYjR2dG1BNGltTWs1M1ZzM0M?oc=5",
-        "id": 3
-    },
-    {
-        "title": "투모로우바이투게더, 비루한 현실 속 러브송 ‘Angel Bite’ 예고 - 톱스타뉴스",
-        "date": "2026-10-23",
-        "category": "News",
-        "desc": "メディア(KR): 톱스타뉴스",
-        "importance": "medium",
-        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9HbXJ5b0V5TDBGMTlhY2x4U3Qzckt6bFEtaFpSazAxdzNYQzM5RWhfR3k5cmRKaTgtRjJRZHFUWXJma0FONEJ1Y0hrT1BwMjd5WWZnbU13Nnh2akpuMmtjZEp0VHRMdEpVX2xEcldXYWtOdw?oc=5",
-        "id": 4
-    },
-    {
-        "title": "한국 문학의 목격자 최재봉…아름답고 따뜻했던 은퇴 파티 [.txt] - 한겨레",
-        "date": "2026-10-23",
-        "category": "News",
-        "desc": "メディア(KR): 한겨레",
-        "importance": "medium",
-        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1TeU91SFpzdFMtS3FNejZscU1HcjNfcFhjZHJVUGZGeEpRdTNoNFVPeE90dlhZeEk3OWlpMUU0ODJPeV9yVEtLYU01ZjAwaHBnLWRLTXdXUXhweDdXZVFYRXFEQQ?oc=5",
-        "id": 5
-    },
-    {
-        "title": "TXT의 'PERFECT STORM', 청춘의 아픔과 희망을 노래하다..신곡 'Angel Bite' 11월 16일 공개 - 스타뉴스",
-        "date": "2026-10-23",
-        "category": "News",
-        "desc": "メディア(KR): 스타뉴스",
-        "importance": "medium",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE41bDd4N3M0aHM5VjFHRk1DMkxER0llSUIxRVpXczItdHVWa2ltUlZpZEdfQUdQWW8yYVBiczRNX18zelk2TXJaS2Q0QkdtTVR1QWgzd2UwM3ZWN1dPdm02Um4weXcyTHRmX09mTUluaU4zLTJf?oc=5",
-        "id": 6
-    },
-    {
-        "title": "투모로우바이투게더, ‘Angel Bite’로 컴백…현실 속 사랑 노래 - 싱글리스트",
-        "date": "2026-10-23",
-        "category": "Comeback",
-        "desc": "メディア(KR): 싱글리스트",
-        "importance": "high",
-        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9tNW4zbC1tcS03RjVabUZjTWZMeWE5V2dCQVZNanRYc216V0lIM2t0VzNsc1ZmODZBTHhIbnVNY1U4QUhNY2ZGOFpTNGpPSlZPakpyTWZLS0RlQ0xRV01RcGN3N0IzZw?oc=5",
-        "id": 7
-    },
-    {
-        "title": "오늘도 냠냠냠: 서울 서소문동 진주회관 [.txt] - 한겨레",
-        "date": "2026-10-23",
-        "category": "News",
-        "desc": "メディア(KR): 한겨레",
-        "importance": "medium",
-        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4xU0ZtbVUxREx3ZDNFNW9tTTV4M2dNSGVmWFNMSC1vVTlfdU1HRlJ3aEJLQU1rTXN1X2txdnRRUDBWYkFNM1Rwb0otZUo1VllMNVhCUlB2TTVkc29PN01MUVhnSQ?oc=5",
-        "id": 8
-    },
-    {
-        "title": "‘7번 국도’ 들으며 유영국 작가가 뛰놀던 곳으로 [.txt] - 한겨레",
-        "date": "2026-10-23",
-        "category": "News",
-        "desc": "メディア(KR): 한겨레",
-        "importance": "medium",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8telNnajNDUzYyNVp6eXNhdkxYc0ZiSmNtQ1ZNQ1RfRnprbVlXUWt3NjdtYVBEZXlYYzZhZWpvTFEwWTVlRVdhVkNNcFN2VlppLTlOT05Dei1rUjFrZE5MRy0tMEo?oc=5",
-        "id": 9
-    },
-    {
-        "title": "‘파친코’의 이민진 9년 만의 신작은 ‘학원’ [.txt] - 한겨레",
-        "date": "2026-10-23",
-        "category": "News",
-        "desc": "メディア(KR): 한겨레",
-        "importance": "medium",
-        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8yUVVjRmN6Tl9VbmxpWjhPd0tkakdjTkc2MUpCekVNN0hUeU9KWktZR190ejdnMmZFcmdmb1VVdzVzY1haSjBURU5mZ1U3LXM3aWhHbXR6RGR3d1d6VTJDT2piVQ?oc=5",
-        "id": 10
+        "id": 15
     },
     {
         "title": "Tomorrow X Together's 'PERFECT STORM' sings of the pain and hope of youth.. New song 'Angel Bite' released on November 16 - 스타뉴스",
@@ -96,16 +141,7 @@
         "desc": "メディア(US): 스타뉴스",
         "importance": "medium",
         "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9UazhiWEVTZ0VsTkF2QnhCWUdCQUt5a1lFS20zZ3lDWGpsTGhBc0drUmtFdGxVTTlTc2Q4S2pSMVN2TVE3dk5INEVXREE0SDlJcDN5WEo0d054TVRVcDhNWmVhMWJpUDBTd3dwbm94Wm9ZOHB4dDNtMg?oc=5",
-        "id": 11
-    },
-    {
-        "title": "Weverse TXT Media - ‘PERFECT STORM: STOR - Weverse",
-        "date": "2026-10-23",
-        "category": "News",
-        "desc": "メディア(US): Weverse",
-        "importance": "medium",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5OTnlnTE9FVEdtOXdCSjlQT0hrbWJybXRsLWdzbjNyWXBJNHI4QjcxNjA5Q0pqaVB6Y3VURUEyaUVqY1VTQnJqTFAzWDhMSlQ3cXc?oc=5",
-        "id": 12
+        "id": 16
     },
     {
         "title": "【公式】10月30日(金)～11月12日(木)上映「TOMORROW X TOGETHER WORLD TOUR &#x27;ACT : TOMORROW&#x27;」入場者特典第1弾を公開！本編クリップ映像、メンバーからのコメント映像も到着！",
@@ -115,7 +151,7 @@
         "importance": "high",
         "url": "https://txt-official.jp/news/80601f5db001",
         "badge": "OFFICIAL",
-        "id": 13
+        "id": 17
     },
     {
         "title": "TOMORROW X TOGETHER ‘PERFECT STORM’ シリアル特典・ミート&グリートイベント開催決定！ - UNIVERSAL MUSIC JAPAN",
@@ -124,16 +160,7 @@
         "desc": "メディア(JP): UNIVERSAL MUSIC JAPAN",
         "importance": "medium",
         "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE52bXdjNTFtbW5PQm1id1ZZNE5CWEVTS000ekRIQndnN1dMMEJiTzFTaHZqS2gwbENjbHQtY3l3cFMyZEdFMWcyQUtlOGhjaWNROFhCNTNCdkExd0JENlZBOFYwSW4?oc=5",
-        "id": 14
-    },
-    {
-        "title": "TOMORROW X TOGETHER、9thミニアルバムのプロモーションスケジューラー公開 - BARKS",
-        "date": "2026-10-22",
-        "category": "Comeback",
-        "desc": "メディア(JP): BARKS",
-        "importance": "high",
-        "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1GdGtINzFhOUJfbkVrX05kM1V5V1o5NV9EQW9FR2dUdnJnaHdWRWotNGFkaWVLUEtUNnFRdWoyWE5ETXM?oc=5",
-        "id": 15
+        "id": 18
     },
     {
         "title": "TOMORROW X TOGETHER ‘PERFECT STORM’ メンバー個別サイン会開催！〈オンライン限定〉 - タワーレコード オンライン",
@@ -142,7 +169,7 @@
         "desc": "メディア(JP): タワーレコード オンライン",
         "importance": "medium",
         "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9ydUcyU05ycS1lWDdwZ0RqSGRHejlQTkdsRUttTUdObFdRd21nUjVZcndmYlkyeXdpdWZxVmp0VWt5bzItd1pWOTk3Q0ZfbzRyQ3FuVnBreDNOZ3ZicHN2SjVQRQ?oc=5",
-        "id": 16
+        "id": 19
     },
     {
         "title": "TXT 소속사, 허위·악성 게시물에 \"선처 없이 법적 조치 취할 것\" - 연합뉴스TV",
@@ -151,16 +178,7 @@
         "desc": "メディア(KR): 연합뉴스TV",
         "importance": "medium",
         "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9lTnNzbjJSWHczeTRGSXVxeWF3cjhOMEozcFZFQnBQc1pyUlpxb3Q3NTdrYUJNcUVUamYwcVJYUnI1aXVDSWtBOTRaYmxjNW5ybGJRbTcyV3BacDIxalBGTWpBTkIyRmc?oc=5",
-        "id": 17
-    },
-    {
-        "title": "투모로우바이투게더 \"음해 목적의 악성 루머…선처 없다\" - JTBC",
-        "date": "2026-10-22",
-        "category": "Rumor",
-        "desc": "メディア(KR): JTBC",
-        "importance": "low",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9SQmFCSGFNS1ZoVnJnQm84ejBRS2lwUkRXSjI0M3BMTUJGdnVvTjVLZ0N3ejlRT19EQzhHOWFsQUlOcllrTGd6UDNNRlVMQ3RNZHc3TA?oc=5",
-        "id": 18
+        "id": 20
     },
     {
         "title": "TXT 수빈 겨냥 악성 루머에…빅히트 “선처·합의 없다” - 시사저널",
@@ -169,7 +187,16 @@
         "desc": "メディア(KR): 시사저널",
         "importance": "low",
         "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBJeWNDYkhmdlFVczE5VnlYYUhRRVoteHFlb1lUXzhrdWRlMFpfc1NTLTc1MDV1OFpzckJHQWRsV1R6NFA3ZkpqcDNmdUM0QUdsRi0xdEZUaUlFOWJDQlZ0XzFpN3B6VWdWUE4xSEdrOHp2bTjSAXNBVV95cUxQSXljQ2JIZnZRVXMxOVZ5WGFIUUVaLXhxZW9ZVF84a3VkZTBaX3NTUy03NTA1dThac3JCR0FkbFdUejRQN2ZKanAzZnVDNEFHbEYtMXRGVGlJRTliQ0JWdF8xaTdwelVnVlBOMUhHazh6dm04?oc=5",
-        "id": 19
+        "id": 21
+    },
+    {
+        "title": "투모로우바이투게더 \"음해 목적의 악성 루머…선처 없다\" - JTBC",
+        "date": "2026-10-22",
+        "category": "Rumor",
+        "desc": "メディア(KR): JTBC",
+        "importance": "low",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9SQmFCSGFNS1ZoVnJnQm84ejBRS2lwUkRXSjI0M3BMTUJGdnVvTjVLZ0N3ejlRT19EQzhHOWFsQUlOcllrTGd6UDNNRlVMQ3RNZHc3TA?oc=5",
+        "id": 22
     },
     {
         "title": "투모로우바이투게더 악성 루머에 빅히트뮤직 \"선처 없이 대응\" - 뉴스핌",
@@ -178,7 +205,7 @@
         "desc": "メディア(KR): 뉴스핌",
         "importance": "low",
         "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9wY0dsVkNjWHpoODdDSzZmWU81WHFwdG5NSkVjaWUtVHdjSTNlMUVXNm9OYTNidDYyWmRENHpWaDlLb2R6bEliQVVjcVpibkt6ZlF4cHZZZTJ6Zkh1?oc=5",
-        "id": 20
+        "id": 23
     },
     {
         "title": "TXT 악성 루머 소속사 법적대응 \"음해 목적 심각, 강력 대응\" - JTBC",
@@ -187,25 +214,7 @@
         "desc": "メディア(KR): JTBC",
         "importance": "low",
         "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9VaUdLbmplTGpIZGszVTdsekl5UHpIWWZ0dFN6MnFpbC1CU2VQZUJVTTNUSXZEa0dwSjE0RkNRVkZGalJfNnJLU1FubjlVeGVyWWxTUg?oc=5",
-        "id": 21
-    },
-    {
-        "title": "mpx-10212026-txt-dianemurphy - manchesterpress.com",
-        "date": "2026-10-22",
-        "category": "News",
-        "desc": "メディア(US): manchesterpress.com",
-        "importance": "medium",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNaFpfODZhWEE4UnlkWWd1NGdxb1M3RGdBa1MteWxYb1BBU1lFYVVheE91a3pCbEdWWWVsUjJ6LVdiR3dveU40czc5eGhDWEN4TGpaWHJZVkFHTm5zMEpmaVR3RFBXejY0dWxnZ0ZSQjBROXdKbTRCdGM0TktsdzRudDByYUp4WU1pMTVFc0QwRTBGR3lvczZqOTRQU0h5OUlBWVRrek0yMjlWT1k2?oc=5",
-        "id": 22
-    },
-    {
-        "title": "Analysts Estimate Textron (TXT) to Report a Decline in Earnings: What to Look Out for - Yahoo Finance Singapore",
-        "date": "2026-10-22",
-        "category": "News",
-        "desc": "メディア(US): Yahoo Finance Singapore",
-        "importance": "medium",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTnlESXdrNEh2cGFESkhZQ0pLdF9Wc3hVdEUzNnBxbXVVREZjWl9BNi1qT01WNXZ5ckRGdlk2dFdWNGxEX3VzbUl6RUs0VGc4UmtWVG9QbkNaSVkzM3BpbFJNQ3c0U21aWTg4djF0VTV3LU56TDhUM25KUGh4ODBCZVNjTk43c0FvR1IzZWNn?oc=5",
-        "id": 23
+        "id": 24
     },
     {
         "title": "Google Explains The Limit Of Robots.txt For AI Content Use - Search Engine Journal",
@@ -214,15 +223,6 @@
         "desc": "メディア(US): Search Engine Journal",
         "importance": "medium",
         "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZlRNYmNUM2p3dFUwY0JtMVR2ajdubWc4aHVFUjR6RVVuYUpQNGI0bXNrdGo2dkc5RkNZMEo0MlUwQlNpeWNVU0tuQ2xHa2U4cUNSVV9sU0JRWUxqWGZIVG52Z1VOZGpaNkZOTGJOYnVURjFKR2lVdXExTnhfMWNpXzlsdFVyOFowMFVZN0FrQUliZWc?oc=5",
-        "id": 24
-    },
-    {
-        "title": "Textron Inc. (TXT) Stock Forecasts - Yahoo Finance",
-        "date": "2026-10-22",
-        "category": "News",
-        "desc": "メディア(US): Yahoo Finance",
-        "importance": "medium",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNMlZOT2pxZUZoLXJFbHpnRGRtN2dGUjh4dk0xclJlWjdwUHBsaXhsU09TRzdya1VBSkVPM0lzR2s1enhORjcxcm9tWGlGU2dQY0JPOWRtUXhzM0d2R1RxOEFNUXlickNTWlYxTzNaclNIbURKei1QM3JEa1I4NlVBYVFKa2RfMUlHOFFLRHdGcw?oc=5",
         "id": 25
     },
     {
@@ -274,12 +274,12 @@
         "id": 30
     },
     {
-        "title": "TOMORROW X TOGETHER、9thミニアルバム「PERFECT STORM」で11月16日にカムバック！コンセプトトレーラーを公開 - Yahoo!ニュース",
+        "title": "TOMORROW X TOGETHER、9thミニアルバム「PERFECT STORM」で11月16日にカムバック！コンセプトトレーラーを公開 - Kstyle",
         "date": "2026-10-21",
         "category": "Comeback",
-        "desc": "メディア(JP): Yahoo!ニュース",
+        "desc": "メディア(JP): Kstyle",
         "importance": "high",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVUNJaTBJN2R2anJtVDhSc2NnOE96cWJzSXRYa0F4ang3UVlnVVg3Nm42WXpQQ2ZEWHc2RnV2NGg4NHBLd3Y3U0ZZZWJId20waEQ5YTk2d0puc1pwNWU3UmVoTlFNR1Q1ZXhzSUZKdEkwMzBnQWRLSlQ1eFJFQm02QnE4X0RCa3dlSFYtbjZR?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9zQWNiWHhlYWdOZlp5ZlY5R2NGRVpMM0dHYUVoU1RFU1R6UzNaNlJTcktlOUxUakp4RFRjQWVYWWdsOXR5NTlTdnhCSVJhYjNDMGpkcHRIMUtjS0xC?oc=5",
         "id": 31
     },
     {
@@ -292,13 +292,22 @@
         "id": 32
     },
     {
-        "title": "6 TOMORROW X TOGETHER Songs You Need On Your Halloween Playlist - The Honey POP",
+        "title": "Tomorrow X Together Unveils 'PERFECT STORM' Promotion Schedule - 조선일보",
         "date": "2026-10-21",
         "category": "News",
-        "desc": "メディア(US): The Honey POP",
+        "desc": "メディア(US): 조선일보",
         "importance": "medium",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBKemt2ZjBBOWZELXZVdm9NdnlRaVI2MEFOOGZna0NNX2NQMW9SRDVEei1HVklhRTJQQlNlQ00wZmVwci14MFowWl9raHh0SW94NEdwX1p5R2NOSENscXF3dFVvUnI0TnpwUUF3NktBVGNuaHdpakxaZ29WM2N4SDQ?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVXpEaUtkOXpMMlFyekJHdjAydnlMVFdnUFp3Wi1zVDFUbzJlRGZzVDJTbF9KYlJrUnlGRlhEeGFHMEZrdlRhWmMyYjBueDZYTnlhYnRHYzJJZ2dEbGRubVVOZzd4QURTZ2dsQXl5ZlJBX1JRZzVkUmpRRmhTOHY4TmFGVG1jaEk0R0ZaU0FR?oc=5",
         "id": 33
+    },
+    {
+        "title": "TXT Perfect Storm — New Mini Album Promotion Scheduler Released - The Korea Daily",
+        "date": "2026-10-21",
+        "category": "News",
+        "desc": "メディア(US): The Korea Daily",
+        "importance": "medium",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNZTlmVkUxWm5hcHlZS3ZDU2JMSHhuZ3JBWEtGSnlJbzJPMXVidEJjR041dndGM0tiWm9wRXRFNnJqRU5wNnpNMVM3cU1vcWJlREVKSk1ZTmxPUVBEUFdzZkRfdExweFhmSFh5TWZDamhvMnA4X0lEVVUwUmRVS1J1Xw?oc=5",
+        "id": 34
     },
     {
         "title": "TOMORROW X TOGETHER ‘PERFECT STORM’ 2026年11月17日(火)限定特典付きで発売！「応募抽選用シリアルナンバー」&タワレコ特典「フォトカード1枚 (全5種のうちランダム1枚/形態別)」 - TOWER RECORDS ONLINE - タワーレコード オンライン",
@@ -307,7 +316,7 @@
         "desc": "メディア(JP): タワーレコード オンライン",
         "importance": "medium",
         "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1LZDBnV1BFay1CRkRVdzFNOFV2Uk1VOXpzeHJOOGtFRjFfcTVaQW9fT2lpZWZoVlZWcm1BRnFUSERuV1VWVXBOQjBDcmd2Rkg2UEltSHk0dDI1S2lmSndKTGQzaw?oc=5",
-        "id": 34
+        "id": 35
     },
     {
         "title": "TOMORROW X TOGETHER、“Z世代の青春痛”を描くミニアルバム『PERFECT STORM』トレーラー公開 - Billboard JAPAN",
@@ -316,7 +325,16 @@
         "desc": "メディア(JP): Billboard JAPAN",
         "importance": "high",
         "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBmSGxNZ1E1QmtZbUY2enRCMnV3OVBhcmdBY21LR3lXakNsb2ZsYzRFMXdVUTEzaU9YOWtPNFh1M1FpSHlBdG5JVjBacEZEZ3MtMEwzRi1zM0hXSDZJdGtHZU1R?oc=5",
-        "id": 35
+        "id": 36
+    },
+    {
+        "title": "TOMORROW X TOGETHER、ミニアルバム『PERFECT STORM』トレーラー映像公開 - BARKS",
+        "date": "2026-10-20",
+        "category": "Comeback",
+        "desc": "メディア(JP): BARKS",
+        "importance": "high",
+        "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBPd1pfZW1wdFNIcVY3VkJOV1kwVXdKSm1tbUN2YmM3ZHVQWDZpaHo3dkdlbmlibmhHOWg4SGZ0WVM5Z1k?oc=5",
+        "id": 37
     },
     {
         "title": "TOMORROW X TOGETHER ‘PERFECT STORM’ サイン入りポラロイド・プレゼント企画が実施決定！ - UNIVERSAL MUSIC JAPAN",
@@ -325,43 +343,16 @@
         "desc": "メディア(JP): UNIVERSAL MUSIC JAPAN",
         "importance": "medium",
         "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBybVdBNkhHZHZqUVpvcnd0WDB2Q1E2V1ZWWEo0UlhSaUFBSTJtZ2xaalBOajJ4QmVKQldxeGR6MnoxVnY0UmVpZWNKS1daRWpRdGgwbkQzbmFjNi1QN1dCVkg1NmE?oc=5",
-        "id": 36
-    },
-    {
-        "title": "TXT가 그리는 Z세대 청춘통…'PERFECT STORM' 예고 - 전자신문",
-        "date": "2026-10-20",
-        "category": "News",
-        "desc": "メディア(KR): 전자신문",
-        "importance": "medium",
-        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1LdFlhODJCZXl0dDQ0ZVlrSkNnd2ZDZmZYZ1BhODNQdERqbnJOTWgzazVybTlJMmhTc013a1NqV21jVFc2ZVlSRWRTeHVpZw?oc=5",
-        "id": 37
-    },
-    {
-        "title": "[NOTICE] TOMORROW X TOGETHER ‘PERFECT ST - Weverse",
-        "date": "2026-10-20",
-        "category": "News",
-        "desc": "メディア(US): Weverse",
-        "importance": "medium",
-        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1YdzdqZmx3ZWVna01KWmFBVkRiTC1wbjJaT2toVklFNGZLWm56V0xiRjlrRkNWSWpjUnVkLVBKQUdyTHB1MXY3b2RWUQ?oc=5",
         "id": 38
     },
     {
-        "title": "TXT to portray growing pains in 9th EP - The Korea Herald",
+        "title": "TOMORROW X TOGETHER、“Z世代の青春痛”を描くミニアルバム『PERFECT STORM』トレーラー公開 - Yahoo!ニュース",
         "date": "2026-10-20",
-        "category": "News",
-        "desc": "メディア(US): The Korea Herald",
-        "importance": "medium",
-        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAxSkQ1YTJ4MGNzR1RWRXI4WTZhOWVNVWxyUFhOT21CU29hQlNsRk9TQzdtNXdqb1NCSG55QVpmQkk3X0IzLXNGSEpNNHNkTkNGQlZIUlhjQQ?oc=5",
+        "category": "Comeback",
+        "desc": "メディア(JP): Yahoo!ニュース",
+        "importance": "high",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1JTUhUUS10Vlk5YlZ5b3ZtYTJjVGZLMUtwSnBPZzNqdnhlbmZhYzBVc2ZfZ29QSGVzdGd2ekNpaWUzTTlrVnN5OUdSM0UzR0g1Zk5Uc1BILTY0MjhuWGNpOFRTZ1ZCM2JnNUQ0V1kzTzc2d0tILWFldkJTd1lndFU?oc=5",
         "id": 39
-    },
-    {
-        "title": "Tomorrow X Together Face the Storm in Dramatic Trailer for Ninth Mini Album ‘Perfect Storm’ - That Eric Alper",
-        "date": "2026-10-20",
-        "category": "News",
-        "desc": "メディア(US): That Eric Alper",
-        "importance": "medium",
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQX1dqV0RUa0pnMnhYQ3kxcnNqSzI4YjFwSkpmQ0ZKU3pDYkxlb3RrVC1QdWlBc216Tmk3UlNVdE0xcTFaU0p5VElDNFU0ZGRLQ1V6dXoxczZFaFc0ekJRM2ttdkJEWEJ6aDRwNkwyNTIxZ0tqS1RZeVZFc0UwZzlHT3VFMDhMYVNsTHdkNjJNV25NWTM2X0lic2Uwd0FzTTVkYVVLM1lTaDA0QmVodmROY2s1a01vb0VBOWxxcVoxMUZmNVl1ZTk0dWtPbw?oc=5",
-        "id": 40
     },
     {
         "title": "[NOTICE] TOMORROW X TOGETHER ‘PERFECT ST - Weverse",
@@ -370,6 +361,15 @@
         "desc": "メディア(US): Weverse",
         "importance": "medium",
         "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE94OXhQajRnTHlEUGhsUkxNUVNuS2RFMjV1cHhYeVEtMTI2bGdPb3hpZzh1dEVXeU9LTTBrd3BIck1CU1hKSW5NOFdBVQ?oc=5",
+        "id": 40
+    },
+    {
+        "title": "Tomorrow X Together Face the Storm in Dramatic Trailer for Ninth Mini Album ‘Perfect Storm’ - That Eric Alper",
+        "date": "2026-10-20",
+        "category": "News",
+        "desc": "メディア(US): That Eric Alper",
+        "importance": "medium",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQX1dqV0RUa0pnMnhYQ3kxcnNqSzI4YjFwSkpmQ0ZKU3pDYkxlb3RrVC1QdWlBc216Tmk3UlNVdE0xcTFaU0p5VElDNFU0ZGRLQ1V6dXoxczZFaFc0ekJRM2ttdkJEWEJ6aDRwNkwyNTIxZ0tqS1RZeVZFc0UwZzlHT3VFMDhMYVNsTHdkNjJNV25NWTM2X0lic2Uwd0FzTTVkYVVLM1lTaDA0QmVodmROY2s1a01vb0VBOWxxcVoxMUZmNVl1ZTk0dWtPbw?oc=5",
         "id": 41
     },
     {
@@ -378,8 +378,17 @@
         "category": "News",
         "desc": "メディア(US): Weverse",
         "importance": "medium",
-        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1uM0Vwc2V0MGZrSklITEs4WWU1U3RNV2FoanA4Q0ZRTy1XMlc2dExVSnpvQXB6ZGJUd0tROGRLX2FMNm9JTDVBOF9HMA?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1YdzdqZmx3ZWVna01KWmFBVkRiTC1wbjJaT2toVklFNGZLWm56V0xiRjlrRkNWSWpjUnVkLVBKQUdyTHB1MXY3b2RWUQ?oc=5",
         "id": 42
+    },
+    {
+        "title": "[NOTICE] TOMORROW X TOGETHER ‘PERFECT ST - Weverse",
+        "date": "2026-10-20",
+        "category": "News",
+        "desc": "メディア(US): Weverse",
+        "importance": "medium",
+        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1uM0Vwc2V0MGZrSklITEs4WWU1U3RNV2FoanA4Q0ZRTy1XMlc2dExVSnpvQXB6ZGJUd0tROGRLX2FMNm9JTDVBOF9HMA?oc=5",
+        "id": 43
     },
     {
         "title": "【公式】TOMORROW X TOGETHER ‘PERFECT STORM’ サイン入りポラロイド・プレゼント企画が実施決定！",
@@ -389,7 +398,7 @@
         "importance": "high",
         "url": "https://txt-official.jp/news/060a84097814",
         "badge": "OFFICIAL",
-        "id": 43
+        "id": 44
     },
     {
         "title": "【公式】TOMORROW X TOGETHER ‘PERFECT STORM’ 予約開始！【日本発売日 11月17日(火)】",
@@ -399,7 +408,7 @@
         "importance": "high",
         "url": "https://txt-official.jp/news/8b651dea9149",
         "badge": "OFFICIAL",
-        "id": 44
+        "id": 45
     },
     {
         "title": "Watch: TOMORROW X TOGETHER tease new mini-album Perfect Storm coming November - Contactmusic.com",
@@ -408,7 +417,7 @@
         "desc": "メディア(US): Contactmusic.com",
         "importance": "medium",
         "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZ05tV0tWaUxUbGNQc3E5b205enR3aGxpd2ExaWtVSEJvVDE4VUJZWXhlNmZDRzRQVmgxT2RrQU9oemFqajM5VmFudkw1dW9vZFlNam0zV1dYV2RwVzNZd3hMVWpBb1E1N1pnQmRHUkZhSWRQbm5kTlY3dFRwZnlyYS1GLTJTZ1BSNjk4NEh2VW5NR1VPWXpFWUs4MjN3LXhxc3Rybno5X0pDZGtkNG8tUGFaS213UmN0aUZueG1sZ3o?oc=5",
-        "id": 45
+        "id": 46
     },
     {
         "title": "【公式】【当落発表】『TOMORROW X TOGETHER WORLD TOUR ＜STEAL THE WIND＞ IN JAPAN』MOA Membership (JP)会員2次先行抽選受付の当落結果発表のお知らせ",
@@ -418,7 +427,7 @@
         "importance": "high",
         "url": "https://txt-official.jp/news/712d1a81cc8c",
         "badge": "OFFICIAL",
-        "id": 46
+        "id": 47
     },
     {
         "title": "TOMORROW X TOGETHER Talks ‘Growth’ and What They’ve Learned About Each Other Over the Years - Billboard",
@@ -427,7 +436,7 @@
         "desc": "メディア(US): Billboard",
         "importance": "medium",
         "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOaFlIMFNCMGllVUhkcF9mREExMldBT0ZyX090RnhYOFpSbFNCVlZEYnIxR3FKZnZfSXdhdDJudWlWR2xyMGRXYmxiSFBUMUU0bDBUaGRnZW1VckpmMEZTR3R3X0pZQm9KYXFaNlBtZml3Qk1VZ0dDT2hlRHpHZGNZMXV1TGk2R2h4SlE?oc=5",
-        "id": 47
+        "id": 48
     },
     {
         "title": "【公式】全国の映画館にて10月30日(金)～11月12日(木)限定公開 「TOMORROW X TOGETHER WORLD TOUR &#x27;ACT : TOMORROW&#x27;」発声OK！応援上映の実施が決定！",
@@ -437,7 +446,7 @@
         "importance": "high",
         "url": "https://txt-official.jp/news/e37a7ff41bb8",
         "badge": "OFFICIAL",
-        "id": 48
+        "id": 49
     },
     {
         "title": "【公式】【先行開始】『TOMORROW X TOGETHER WORLD TOUR ＜STEAL THE WIND＞ IN JAPAN』長期会員プレミアムシートアップグレード最速抽選受付スタート！",
@@ -447,7 +456,7 @@
         "importance": "high",
         "url": "https://txt-official.jp/news/e3e82f475d7a",
         "badge": "OFFICIAL",
-        "id": 49
+        "id": 50
     },
     {
         "title": "【公式】Weverseメンバーシップサービス利用規約の改定および更新ポリシーの変更に関するお知らせ",
@@ -457,15 +466,6 @@
         "importance": "medium",
         "url": "https://txt-official.jp/news/3c91a3867de5",
         "badge": "OFFICIAL",
-        "id": 50
-    },
-    {
-        "title": "TOMORROW X TOGETHERがニューバランスを着こなす！イベント招待やTXTテディベアが当たるキャンペーンがABCマートでスタート - Emo!miu",
-        "date": "2026-10-08",
-        "category": "News",
-        "desc": "メディア(JP): Emo!miu",
-        "importance": "medium",
-        "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5EcnVjdkVlZGVfMEsxSWVnWGRXcV9QaE5HWVlVY181UlRncmp3clNQU1dVLUtxWmhVTTlRRnl1amg1bWZ6?oc=5",
         "id": 51
     },
     {
@@ -478,12 +478,12 @@
         "id": 52
     },
     {
-        "title": "［韓流］TXT 11月にミニアルバム「PERFECT STORM」発売 - Yahoo!ニュース",
-        "date": "2026-10-03",
+        "title": "TOMORROW X TOGETHERが巻き起こす 「PERFECT STORM」 ···新しいアルバムへの期待感が高まる！ - USENの音楽情報サイト",
+        "date": "2026-10-06",
         "category": "Comeback",
-        "desc": "メディア(JP): Yahoo!ニュース",
+        "desc": "メディア(JP): USENの音楽情報サイト",
         "importance": "high",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5KRExBMlUtLTF0R0JNOFZJXy1yRmltQ21tMmNNbGMzNmNJbzRWYm5oaHhudUpLbENxcndpY3M5ejlVbGFGWncydVQyVUdkcnhqTnV0dFRJdHM0aFdVTHZ3YXFELXlveklKbVlqX0NIS3dhTDdOd3ROVy1rUHdScVU?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUEJoekFVbjFoTHA1Z0lFYndwTGJqdGtWMUw0MGhUNEcydFBJMVBubnJ2UEpNak5FUWcwVFNfQnJCdDRLcjdmRUFHaDY5VHlhRmd1ekNhek5Rb2t6NUNnQ19kQ3RjTTE3SjZOandQcGdlYmNPb0tkU0szaDJYYVh3MQ?oc=5",
         "id": 53
     },
     {
@@ -492,16 +492,16 @@
         "category": "Comeback",
         "desc": "メディア(JP): Yahoo!ニュース",
         "importance": "high",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbDZibEFIM1Q5Yk82Vml0QnQ1N3RrRDBZZF9aMVJqc1B3U09weGdyQkh0Y3dSbnpqV0xTb0ZjdHpJUUhJWUV2UEVXSjRGQndudmg0ZmNkdF9vVVUtZHVDTmVsdUM2bEliREhXSmhmQUtxbi10YnQ4WDdDUHJnRThDQjZaX2ZwUE5NUE0zZFVn?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5KRExBMlUtLTF0R0JNOFZJXy1yRmltQ21tMmNNbGMzNmNJbzRWYm5oaHhudUpLbENxcndpY3M5ejlVbGFGWncydVQyVUdkcnhqTnV0dFRJdHM0aFdVTHZ3YXFELXlveklKbVlqX0NIS3dhTDdOd3ROVy1rUHdScVU?oc=5",
         "id": 54
     },
     {
-        "title": "TOMORROW X TOGETHER×GiGO、新規ビジュアル使用の景品登場！ 東京、大阪ではアドトラック運行も - 推し楽",
+        "title": "｢TOMORROW X TOGETHER GiGO Warm Lounge 2026｣キャンペーン開催のお知らせ - アットプレス",
         "date": "2026-10-02",
         "category": "News",
-        "desc": "メディア(JP): 推し楽",
+        "desc": "メディア(JP): アットプレス",
         "importance": "medium",
-        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1zR1VNTllLdXkxeDBNVGV5ZUNRYWtmZ0h0dUNGQ0lzUjNnekpmX3lMV2FIZVROY0pSdVdIZmMwb2NvcV9WS3B3Q25VSnhuek9xVTVPcGRsay1TVTRFRm5CeE55bm0tVXFkYjVwUnhkSFVtakU?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBRZWtxN0dMbkdXZmhMaWl0TXJ6U2lNY050U1owaDF1dUp2dHp6RGpNXzhmUUFNXzhkWlc1bVZHRTAyT0phYkh2V1N6eUZXT2M?oc=5",
         "id": 55
     }
 ]
