@@ -1,57 +1,384 @@
 [
     {
-        "title": "[公式] TOMORROW X TOGETHERのミニ9集、初動172万枚..8連続ミリオンセラー - 스타뉴스",
-        "date": "2026-11-23",
-        "category": "News",
-        "desc": "メディア(JP): 스타뉴스",
-        "importance": "medium",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9xcjJzTnE5SV9zS0E0WnAxNXp4dWotWFkxQTlKbWs1cV9tLU1sTlZxRnhzaFFGWjltaTJ2Vk5fSG5ERERiSjJ2T2dmMVVZRVg3SHFvT1JyWGRNb1RFck52UUcyaTdBX2ZUTlFCeFFQbzBjdXhxMmNaVA?oc=5",
+        "title": "［韓流］TXT アルバム15作連続オリコン1位＝海外アーティスト最多 - Yahoo!ニュース",
+        "date": "2026-11-24",
+        "category": "Comeback",
+        "desc": "メディア(JP): Yahoo!ニュース",
+        "importance": "high",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1LOU95UVd0RUFMTzZvem9COWFZVmZsWTZoZkVxTm5vZkVLQnFBNlctOHEtWXZwRzFmNUlKaG9zdHpYamhVbmQ1dTl0QWNmUXNGbEZhS1cwMExlR2l5eUVqUVpYOUc1aWFqb0F2VWlPWEpZblhMclA0ZFh4ZVJyOHc?oc=5",
         "id": 1
     },
     {
-        "title": "[공식]투모로우바이투게더 미니 9집 초동 172만장..8연속 밀리언셀러 - 스타뉴스",
+        "title": "TXT、オリコンで再び1位奪還！新アルバムが発売直後から快進撃 | スマートニュース - SmartNews",
+        "date": "2026-11-24",
+        "category": "Comeback",
+        "desc": "メディア(JP): SmartNews",
+        "importance": "high",
+        "url": "https://news.google.com/rss/articles/CBMitANBVV95cUxOMXBCQmZxdWF3T2xIdWc4NDNWNXZyTTdmMmdkMmpLOXJxcC14Zl9RTHRLVFJGSks0WVNUTmt3ZnVsd3AydTlQNEtPajBVdmwwZUowMDJKR2xpNnhDXzI2aDdMSkxQN1F3a0E2QVpRYVQtVFkteG1yR0wtZUJiSHE3dktEUHpPSk1BeFhaeG50ZHFaNHdUYmZzNGlrdmZKaWw4OHFZQnRObEdCV2ZjM2JXRkZHVjNyZUJQYmlGTmtFMl9fQ19kZ1F6RFRKZHI5dkRtRkUxU3hpa05jU3Y0ZFloQ0ZNTmltVTVpb1p2OXlTT3pOS0ZCSU05dlpGNGwxcU9YQk03N0RQWUpBNVRtRzQzN25sZVNLbWxnQXpKaTgtZHQwYUhYeTVrNXMyNlZpT1BOSGJhb2JsRlB3ZldCNnVnMVNRLS1rcXowb3NTU0FQNEZJMWdTTUtPMG91R0FNSTlvN3IwNnF6ckxqM2ozSzlocFY4WTlDZDhnMW1lc1drUVNjclpMWVRhRW1pd1hHREFvUHQ5U1ZnbWpDeFJ5aEkzakJVUXhLczltUjBxRGhjVGxKTnpl?oc=5",
+        "id": 2
+    },
+    {
+        "title": "【PHOTO】TOMORROW X TOGETHER、コンサートを終えて韓国に到着（動画あり） - Kstyle",
+        "date": "2026-11-24",
+        "category": "Live",
+        "desc": "メディア(JP): Kstyle",
+        "importance": "medium",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5lMU5tcGRXVVZlQUdaTzd0T3pDY3pIa281alVtejVfdldFNWVwSDVjZktjWFFEcXVGSUlaU0lfakhGa0lKa2VZd1lGbXlLT3B1dWN0WXRlZy00Qy1m?oc=5",
+        "id": 3
+    },
+    {
+        "title": "TOMORROW X TOGETHER、「PERFECT STORM」がオリコンのデイリーアルバム首位に返り咲き - AFPBB News",
+        "date": "2026-11-24",
+        "category": "Comeback",
+        "desc": "メディア(JP): AFPBB News",
+        "importance": "high",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9yZ0Y0QnRmUTFaaEgxS0loeDZSR2EtY0NHa0k1T1ZMeFhpeEFkNzBpSE00eC1nU20weUxib0RSMnM3Tk9ZOUN5d0lmZmNMYU8wSHfSAVRBVV95cUxQb1ZhTzVhTV9IUUhkMnV3cTVJaXRQaEdDcm1PQ1RBLTBmRzlWQTJaVUZEYzFmTU95S3hTbVRhMFp3R0FsUkRSS2RrWlptaTVkMDJYUGI?oc=5",
+        "id": 4
+    },
+    {
+        "title": "オリコン週間CDアルバム11/24公開、TOMORROW X TOGETHER 15作連続1位 海外アーティストのアルバム記録2つで歴代単独1位に - 音楽業界総合情報サイト",
+        "date": "2026-11-24",
+        "category": "Comeback",
+        "desc": "メディア(JP): 音楽業界総合情報サイト",
+        "importance": "high",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9Qa1NQVE0zU3hPRmdkQW0xbjhZOFJQSmFLV05SeVlEZjNOaEhOR2R4SXRzSkhvVlh6VGVOdGoyTjV4ejlGMXJaMHVhUV8zajkx?oc=5",
+        "id": 5
+    },
+    {
+        "title": "アマクラス、AI のクローラーを robots.txt で止めていないかを確かめる無料ツールを公開 - valuepress",
+        "date": "2026-11-24",
+        "category": "News",
+        "desc": "メディア(JP): valuepress",
+        "importance": "medium",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE53am9JVTZzeU40dHR5TWxla3JvZmhLMGdtTXpyQUxqQ1pyM01sMHlXb3VWcGJIVkNPTWJudWxjQ3lWdVJFZlpuT0dLY3FhY1M5bzJoMGpDcVFyUTg?oc=5",
+        "id": 6
+    },
+    {
+        "title": "「TOMORROW X TOGETHER」、オリコンで15作連続1位…海外アーティスト最多記録 - ｄメニューニュース",
+        "date": "2026-11-24",
+        "category": "News",
+        "desc": "メディア(JP): ｄメニューニュース",
+        "importance": "medium",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOQVpGZEEwajF6ZXFaYU1DcEc5MkdDaVRwUVdGdUkzLUdINFZ3QzMxT0VCQzhrajVGSWV1dXJCXzVWS3RYcjRPNndEUDg3YUZleFVxZXllTF91V2U3T0k0UGJLR3RvT2ZMdExNQW5EQk5nTTlpNS1iaTdESU5wZUpLWjg0TDhob1BBcWs3SXoxNNIBlAFBVV95cUxPR01uM0ZKc2FPZUdGa2lrQ0dnTUxnYTlhSnZGSW5GRFJkNUdRaExwcVdZeEJuVng4ZW1sWnNtajdmcEJkdzhubU84cFJXUGR0T2RQUmF4V0tEWFRLazI0YktKM1pHREV2N2ZyaHBwcmZSLWxScWxjdHBka0duSE5lZWNMMUc4dUhIMkwtSk0xcHBKX0lq?oc=5",
+        "id": 7
+    },
+    {
+        "title": "TXTのSOOBINとCOVERNATが贈る2026 WINTER COLLECTION、東京でPOP-UP開催 - 海外ドラマNAVI",
+        "date": "2026-11-24",
+        "category": "News",
+        "desc": "メディア(JP): 海外ドラマNAVI",
+        "importance": "medium",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5iMXNkY19LZU0xaHJ0ajRTYm1jc0ZZVUJ3a3FVTURKUGJJRVFlcEM4OG5uV0xkQ0dxMXZ6bU9NOGhadk9PZ2RGYQ?oc=5",
+        "id": 8
+    },
+    {
+        "title": "また新記録…TXT、日本のオリコンで15作連続首位 - 매일경제",
+        "date": "2026-11-24",
+        "category": "News",
+        "desc": "メディア(JP): 매일경제",
+        "importance": "medium",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5HclBfMllWZWNmbkZHbklYMHdJeGhFQ3E0aG94WHBoM3Rzdk90aHgzQlRZTTg5anVaVUJMclVfS1pLMzVyNXFfcjFPYWpKVzFmbEljM2VR?oc=5",
+        "id": 9
+    },
+    {
+        "title": "TXT, 日 오리콘 15개 음반 연속 1위…해외 가수 최다 기록 - 연합뉴스",
+        "date": "2026-11-24",
+        "category": "News",
+        "desc": "メディア(KR): 연합뉴스",
+        "importance": "medium",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE56ZExvTDRFZGhZTHlaX0dJaERNR3VuUi1hRzdqbTJvaDlXc2pDZGw0ME03OVI5aUE1U3kwbi1rTHdJdjNoME91U2dUTXo4TkxNdGpSdkRUNHBKblXSAWBBVV95cUxOc211bnpmNy1vcldFb1gyYmtPa2tBcTgwWUFqbkVvclU5aVBiOHNGbjZpdVBOY3JJbjNTdWdpNDJrRlBHckxuUjZNb2xIWTNaTFhiWEF3c0ZYWkJOQ3BNTkQ?oc=5",
+        "id": 10
+    },
+    {
+        "title": "투모로우바이투게더, 일냈다! 日 오리콘 '15연속 1위' - 전자신문",
+        "date": "2026-11-24",
+        "category": "News",
+        "desc": "メディア(KR): 전자신문",
+        "importance": "medium",
+        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFByWjFuM2EwYXpXbDhkd3NWWjhseGdvdkRGZVZycllld2Z0bllJTlBPWjNlYVY2UUxXcE1maUdlal9PVGw4SzJqSWh5bzNIdw?oc=5",
+        "id": 11
+    },
+    {
+        "title": "투모로우바이투게더, 日 오리콘 15개 앨범 연속 1위…해외 아티스트 신기록 - 브릿지경제",
+        "date": "2026-11-24",
+        "category": "Comeback",
+        "desc": "メディア(KR): 브릿지경제",
+        "importance": "high",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE43VUs5eDF0UDY4clhITjkwTFdneXdvVWZpSnBvbFNvQWJXelJtYUhoNUJYamJXRTRJMjNYb3NaRHM4N1Fjc2xCZjRRSnpiQ1psa1hXbWNGbDNoUQ?oc=5",
+        "id": 12
+    },
+    {
+        "title": "또 신기록…TXT, 日 오리콘 15번째 정상 - 매일경제",
+        "date": "2026-11-24",
+        "category": "News",
+        "desc": "メディア(KR): 매일경제",
+        "importance": "medium",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5MRGhkOHJpcEpYcE9PaS04QWVZdHFodWFOMFlmTnFGN2J3YTlUelpRSUhXWE9oRGswdGFKb21NdlhQemtNWmM4azJYZkhiNGJzcVExWUpWeTI?oc=5",
+        "id": 13
+    },
+    {
+        "title": "TXT, 日 오리콘 15개 음반 연속 1위..해외 아티스트 역대 최다 ‘新기록’ - 브레이크뉴스",
+        "date": "2026-11-24",
+        "category": "News",
+        "desc": "メディア(KR): 브레이크뉴스",
+        "importance": "medium",
+        "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFAwaTBnTDhDS1A1UU5DNlpLQ1ROTzdZbGJ2eFFMU1M1VlZpRkc1LTZnRm9mbFAzOHVoOGhob1lZV1JnZw?oc=5",
+        "id": 14
+    },
+    {
+        "title": "TXT, 日 오리콘 15개 앨범 연속 정상…해외 아티스트 역대 최다 - 데일리스포츠한국",
+        "date": "2026-11-24",
+        "category": "Comeback",
+        "desc": "メディア(KR): 데일리스포츠한국",
+        "importance": "high",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9YelI1ZXVWOV9tdF9UUFgzRHBobUpBaUl5VGxWUGNwbHVVNjVpeGhxVnR4WW5mYjhGUlBFY2JGRVNJRng3Q3k0WTRQcE1TM0JqVk8xUjVHaVRTLVpueFk5U29pUzhnZnF6MEo1MzRWWmF0ME9uamc4bXZFc9IBf0FVX3lxTE42UXRlRDRQQzduaGllNUVVYm1BNzF4ODJBNjUtbDdyT3Vab2Vjbm1KaW1OVzFQVk1DOGtwYV95SzFpOV92WUtIaFkyb1VncTN0YTNiQnpDRVpWbHVhLUQzeFItcllZWWZhT3czdnhYYkViQjVNdF9UT1V2MkxlbGc?oc=5",
+        "id": 15
+    },
+    {
+        "title": "투모로우바이투게더, 오리콘 15연속 1위…제니는 빌보드 3위 유지 - 서울신문",
+        "date": "2026-11-24",
+        "category": "News",
+        "desc": "メディア(KR): 서울신문",
+        "importance": "medium",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9sYWFsZlc2YS1QX1A3SlJVM0YwQ3lYeXF4VFRVNjNLekZqZTh4cnM0MnFWdHdlb0ZXVTFyeGlMY0cxcXk5dXgzOVNYemoySGl1cE5QbVRlWnZhVkVCaVQxM012UFUxTE95LUVlOTNFdEZpTFMtN2I5MENKQQ?oc=5",
+        "id": 16
+    },
+    {
+        "title": "TXT extends No. 1 streak on Oricon chart with 9th EP - The Korea Herald",
+        "date": "2026-11-24",
+        "category": "News",
+        "desc": "メディア(US): The Korea Herald",
+        "importance": "medium",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9iUGY5MG1rZHJmMHE2TFNHZkw4NkY2V29PM210LTlic3RHWk94aEt3N3BVMVpSV25HTnBDdFEwLXBvU0JuYlVHWWR3QTg3amc3TnlBNWNPQQ?oc=5",
+        "id": 17
+    },
+    {
+        "title": "TXT Oricon Chart — K-Pop Group Sets Historic Record with 15th No. 1 Album - The Korea Daily",
+        "date": "2026-11-24",
+        "category": "News",
+        "desc": "メディア(US): The Korea Daily",
+        "importance": "medium",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBtRFRlYlRnQU40SlRmYmxMTU00ZDFDOGJzeWo1Z2JMekJCb2xIek9OX2ZQV3pqcjdVeG4waWFXRU9yc2hGclQ1M004dmdqbVlmMTQ5YjQtWjJCaEZETm9Z?oc=5",
+        "id": 18
+    },
+    {
+        "title": "Tomorrow X Together's 15th Straight Oricon Number-One Sets Overseas Record - 조선일보",
+        "date": "2026-11-24",
+        "category": "News",
+        "desc": "メディア(US): 조선일보",
+        "importance": "medium",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWjBfU3F5VXEyOXdzaTFmcmI4TU1Yby11MXJKNUFGTTlTOXdIQ1cwU0xSM2hweUFhalJSWmMtRGUwSWQtOVlIUUtHeW5ObEJOZ0VhVzAzNFEtcmlMQzNFa0VLS3Nod3ZIQ1VZTkxIY09PZVZSeW00dzBMVmw4YTlkdXAwa0Vsam1ZY1o2R2NR?oc=5",
+        "id": 19
+    },
+    {
+        "title": "Another Record ... TXT Reach No. 1 on Japan's Oricon Chart for 15th Consecutive Time - 매일경제",
+        "date": "2026-11-24",
+        "category": "News",
+        "desc": "メディア(US): 매일경제",
+        "importance": "medium",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9QT2lLaHM4akh1c05kSlpick8wRDlWRDdxNGFUc1BRVzQwSW9ua2V5YXFDbmJUeTBGUDNObXE0cHhhbllBZnp0M1FCY0hvZlQ5X0dsRXZ3?oc=5",
+        "id": 20
+    },
+    {
+        "title": "【公式】[SOOBIN&#x27;s Birthday Cake] Cake Delivered by CHOI YONG MEONG販売決定！",
+        "date": "2026-11-24",
+        "category": "Comeback",
+        "desc": "公式カテゴリ: [RELEASE]",
+        "importance": "high",
+        "url": "https://txt-official.jp/news/862d97614154",
+        "badge": "OFFICIAL",
+        "id": 21
+    },
+    {
+        "title": "TOMORROW X TOGETHER『PERFECT STORM』、「週間アルバム」15作連続1位 海外アーティストの記録2つで“歴代”単独1位に【オリコンランキング】 - オリコンニュース",
+        "date": "2026-11-23",
+        "category": "Comeback",
+        "desc": "メディア(JP): オリコンニュース",
+        "importance": "high",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1Zd2ppR3lXZDhuYXJ3Y3Zqd3ZZQVNLNE50THlYMnozSHdSREdtZ0hkSGR4SThlYlc2MmdXQjB5ZVE0Z3JHaHB4TDI5bkNTRlJsYVdKa3dB?oc=5",
+        "id": 22
+    },
+    {
+        "title": "【ビルボード】TOMORROW X TOGETHER『PERFECT STORM』31.5万枚でアルバム・セールス首位獲得 ATEEZ／OCTPATHが続く - Billboard JAPAN",
+        "date": "2026-11-23",
+        "category": "Comeback",
+        "desc": "メディア(JP): Billboard JAPAN",
+        "importance": "high",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE10blVNdk9ZT0lzZmVZTmhWMU0xNUZYTzZUcngxcjhMeXhMNU11U0IzWUJpZDdzdDdoRWZRVHNfYnN6bXg3Vk9TR3laM05iRjB0T1pWVzdQRXRMLTExTFdkMVVn?oc=5",
+        "id": 23
+    },
+    {
+        "title": "TOMORROW X TOGETHER、オリコン15作連続1位…海外アーティスト歴代最多 - 조선일보",
+        "date": "2026-11-23",
+        "category": "News",
+        "desc": "メディア(JP): 조선일보",
+        "importance": "medium",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQdzRMM2FkRkNKaVB5VHhkcFZEcjRhNVJsOUdSZ21uTHhfeG5qLUxKUl9raldDT1F2QzVzMk13dV92aF9OdFVVM3o3WGZERFRveFlCNXpqN2RSUWtWdWxOWWZNZWx6U0tPSF92WjhMS2duYUp4cF9lUXkzNzFZYUstcmFfNGxrZTA?oc=5",
+        "id": 24
+    },
+    {
+        "title": "투모로우바이투게더, 'PERFECT STORM'에서 폭풍 속으로 뛰어들다 - Hypebeast.KR",
+        "date": "2026-11-23",
+        "category": "News",
+        "desc": "メディア(KR): Hypebeast.KR",
+        "importance": "medium",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOQnlQa3E2RVZFU1haT0FlYXhjLWlENGRXREpRNzMzY3dIeFhFbG5Pc09kbjVIYk9wMmp3NUZQLW9DTlhTTmZBUXE3bjRsRG9DY0M1cmVyaWhHLUV2NzZIV19maGxjcmZDWWVncHdxTF9BSVNuZDRFd0tsZ1ZYMzF0OTZYN2pTNUtrS0VVZHdZam0?oc=5",
+        "id": 25
+    },
+    {
+        "title": "투모로우바이투게더, 日 오리콘 15연속 1위 - 서울뉴스통신",
+        "date": "2026-11-23",
+        "category": "News",
+        "desc": "メディア(KR): 서울뉴스통신",
+        "importance": "medium",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4tNWxRQVAwRVhWQWtFVkp5RWNsNFNKMVVKVUlacVVMLUNOcDJHNUtpVTQxcGJoRUp4RkJobndiREdFeXdsXzR0VmNpY05fRWp1WXdBeVdJTFRCQVFoQ1d3X19Kb2U2SDI3Y0VN?oc=5",
+        "id": 26
+    },
+    {
+        "title": "투모로우바이투게더, 日 오리콘 15연속 1위…해외 아티스트 최다 - 뉴시스",
+        "date": "2026-11-23",
+        "category": "News",
+        "desc": "メディア(KR): 뉴시스",
+        "importance": "medium",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1qa2NQdi1pX3N0ODdPSW9ORS10VDJQNDFoamdwbGVhWXJNd2FuTTJRSGh6MnlwNFpjMkpBYnJPVV9EMkN6X0dJUFFkR3BMaHRnWm5pLUkwMmFSRGpDeWRYadIBeEFVX3lxTE44a2x5NXRVTzI0ZmwtN2pqT3NtOVR0OEJsbWFDV0FlWWotXy14SFFmQmJ4LWZKcENueGE1a25tMkR0SVJ4MWh3dVVyMk53LWtpTkQ0V25ZdFYwQkd4TU1aOFliQ0lBWE0xbEQ2N0ZNUWE2U2xfd3dfNQ?oc=5",
+        "id": 27
+    },
+    {
+        "title": "투모로우바이투게더, 日 오리콘 15개 음반 연속 1위⋯해외 가수 최다 기록 - 이투데이",
+        "date": "2026-11-23",
+        "category": "News",
+        "desc": "メディア(KR): 이투데이",
+        "importance": "medium",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA4T25IODdCU2J3MUNTWWcyU3Z5WTBTWXdidW5zQzBQUDh6aVJJbGZNVTF1dHFUT2Z0cFUtQ21MeU5kMnpGS0Zldl8zeTdwVzNqUkVLUg?oc=5",
+        "id": 28
+    },
+    {
+        "title": "'완벽한 기록 폭풍' TXT, 日 오리콘 15개 음반 연속 정상..해외 아티스트 역대 최다 1위 - 스타뉴스",
         "date": "2026-11-23",
         "category": "News",
         "desc": "メディア(KR): 스타뉴스",
         "importance": "medium",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5PVHRlbkNsTHU5WDhOVWtDekd0enZRQ0trazdrcjNyblotakI4aVdyQ1lsb1VORmZjeWlwYVB5RjhVN3AwRV9oazY0UkhaY25QQVdBWWVZUnp5SzduWm9vc1ljZkcxLWgweXhnclJhODQ1elYy?oc=5",
-        "id": 2
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB2Q2w2bHFCOE53TkQxaXVISkI2djBmTnFZUWlaZ2VLSC1KOWpzOUNpVDhfTGN2QU5RYmdsX3RkQkt5b1gySFJzS3NscDNBVEQ2S0hJRmVLY1JTUGhyZkRoMkJLWU5FajFsOVA2OGRjWXZsVGNs?oc=5",
+        "id": 29
     },
     {
-        "title": "TXT, 미니 9집 172만 장 돌파…8연속 초동 밀리언셀러 - 싱글리스트",
+        "title": "[문화 이슈] 투모로우바이투게더, 日 오리콘 15개 음반 연속 정상…해외 아티스트 역대 최다 1위 - 비욘드포스트",
         "date": "2026-11-23",
-        "category": "News",
-        "desc": "メディア(KR): 싱글리스트",
-        "importance": "medium",
-        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9HWk1oNjlBZWkzei1YYXAwQ0dIUy1LR2xIcXBRRmQybEdfX2pKeEdXN2FtUjB6VmMtWTl5ZnJUZjFrdThrRDJoaWN3WUlteGxNdTFMSms0MmVEa3NZOWlFZnZTYm9JUQ?oc=5",
-        "id": 3
+        "category": "Rumor",
+        "desc": "メディア(KR): 비욘드포스트",
+        "importance": "low",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9KMy1jVGFPazNrNDhJeVZIMm04R3hKbGkxbENSZmxfdWxBcmVnWnFXbHpmNmtCa0lLX1laNU5IN2xaelJHX3liUjdHRTBkVlp5clJaTkZOMlhtZEF6R1k1N0FVaElsZURvVXktdmctX1JobnlqckNHMGNyQmw?oc=5",
+        "id": 30
     },
     {
-        "title": "투모로우바이투게더, 미니 9집 ‘172만 장’ 돌파…주간 음반 차트 1위 - MHN스포츠",
+        "title": "투모로우바이투게더, 日 오리콘 15개 앨범 연속 1위…해외 아티스트 최다 기록 경신 - 스페셜타임스",
         "date": "2026-11-23",
-        "category": "News",
-        "desc": "メディア(KR): MHN스포츠",
-        "importance": "medium",
-        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4wbHdPMmllNDBTVVI0UjdPUnlMT1VLbDZlT1g1bTJWYUtwLWVReHJHcDA0bXFwaFZSQ2pfM2RRVHp2Q0pvb2s1czduTm9HdU9NTXU2RzRGYkZBMEhmbDRXaEp1SQ?oc=5",
-        "id": 4
+        "category": "Comeback",
+        "desc": "メディア(KR): 스페셜타임스",
+        "importance": "high",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9ERTFWYzNYV2Z6V1NXaVhhbkZpbF9uLWJJQXlSY0FwdVNibHNvdXoyZGZmZUFxY1B5bXNZRnA3SC0zUVZPY29ZYWFNMVVsZEVlRkJCXzFNQm5HMlZTMklxWDBQZkJYdXVCYzYtU2l6NjB4a00?oc=5",
+        "id": 31
     },
     {
-        "title": "[NOTICE] TOMORROW X TOGETHER ‘PERFECT ST - Howl.Link",
+        "title": "Tomorrow X Together Set a ‘New Record’ With 15 Straight No. 1s on Oricon - 스포츠경향",
         "date": "2026-11-23",
         "category": "News",
-        "desc": "メディア(US): Howl.Link",
+        "desc": "メディア(KR): 스포츠경향",
         "importance": "medium",
-        "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE93VE55TUpraWhvRnlZOUZ2SnY5S2hUVmxaVWNvTlNQbmQ0TFlkSnl3LWt5M0FnNDBRcV9n?oc=5",
-        "id": 5
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBhRGFNTTgwNGZ6RjdfMjZuc3B0OFpLZ2tfdC1ZanVSTFJNZFNzQmV1Uk8xMEs5NUIwb1Q5bXFOVW1ZTkFZcWVhTTctOEtaa2stSUJmYWl0Uk1qZ2FzSUh2M25R?oc=5",
+        "id": 32
     },
     {
-        "title": "[Official] Tomorrow X Together's ninth mini-album debuts with 1.72 million copies sold, achieving a consecutive eighth million-seller record - 스타뉴스",
+        "title": "TOMORROW X TOGETHER Find Upheaval Worth Running Toward on 'PERFECT STORM' - Hypebeast",
         "date": "2026-11-23",
         "category": "News",
-        "desc": "メディア(US): 스타뉴스",
+        "desc": "メディア(US): Hypebeast",
         "importance": "medium",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1ZR0tROXNWLUtTbDhpczZJRzNpNk9vWXFpV3dwdHR1Tmk4SFBOSDF4Nnl0M3RJTzlkZmFfanl5aC1WR1N0cERBWE5DVjRCU2tVYjdfZVZUMTQ1RDFNeFBZaG41QS1VZDdfZ0Jma3ZfLTFFTU9iSnJTRQ?oc=5",
-        "id": 6
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQnJ6Z19KLWU4UmZGbE9EX1BoZGdwRE85VkVsVXhWQ3VuRm1JbEpFeHA4dl9SUWR4UEJTeElJR19rZ1ZOZGZXX1NJdTRqWklUWmRMSzVGUUFFQXRKQ3F2X296S3AwMDk4YS11M1A4ZTFIakt0UE8xNG9OWGdjbnlfLUtrN1IxMG1rNF9NdEVQbXNpZw?oc=5",
+        "id": 33
+    },
+    {
+        "title": "Google documents 12 existing bots that ignore robots.txt - PPC Land",
+        "date": "2026-11-23",
+        "category": "News",
+        "desc": "メディア(US): PPC Land",
+        "importance": "medium",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE45Zm52dEl5STJ0Q0MwX0c2NmpRczRzYmZ2RXBDZE5BNkI4Vms0SDBGRnNmcjJYbHo0SjdpVEFCbWU5YVpmeHpsMm1ldWVCTUp3WlJ3VEJMUmtZLTlpYk82ZXhOY1N6NDVJTHppZW5uQkFxU0xHVjNIT1hQcVd3OHM?oc=5",
+        "id": 34
+    },
+    {
+        "title": "[NOTICE] TOMORROW X TOGETHER ‘PERFECT STORM (Angel Bite Ver.)’ Release - Weverse",
+        "date": "2026-11-23",
+        "category": "News",
+        "desc": "メディア(US): Weverse",
+        "importance": "medium",
+        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1QMUxtWWFPcEdOSE96TTY5QTRzaDBEN1dzXzk3dnMxQnhGSnJIa1hXVmFXeG9DNEFFbnM4dHlkRzI3U04tbmN4b21kbw?oc=5",
+        "id": 35
+    },
+    {
+        "title": "Textron: Focusing At A Cost (NYSE:TXT) - Seeking Alpha",
+        "date": "2026-11-23",
+        "category": "News",
+        "desc": "メディア(US): Seeking Alpha",
+        "importance": "medium",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9pWHZfVWNEQ3JzUy14UDFRRlhmeEgwRHVEdGZyUUpERV9GaW54YmtFb0NCaUlhN3RESGpRbjlyakhjazRqMkN0M2lKZmFEQi1nU0dxNVJFV2NUZ1pseFJ3M2FxbzNWaEJXSmt2WlN6RlFpN1YwY2c?oc=5",
+        "id": 36
+    },
+    {
+        "title": "TOMORROW X TOGETHER Sweeps Hanteo Weekly Charts, Topping Both World and Album Charts - Hanteo News",
+        "date": "2026-11-23",
+        "category": "News",
+        "desc": "メディア(US): Hanteo News",
+        "importance": "medium",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9sZEUtdHdJWmdUT1VCeTFqT2RWU2NPSWEwc1lhaDJhVmhlZTlHSFpabVUwdnFvd0VyckVYVHIwa0N0YnFiYUFhWG9wS3VVVUVXb05iZFRR?oc=5",
+        "id": 37
+    },
+    {
+        "title": "[NOTICE] TOMORROW X TOGETHER ‘PERFECT STORM (Angel Bite Ver.)’ Pre-Order - Weverse",
+        "date": "2026-11-23",
+        "category": "News",
+        "desc": "メディア(US): Weverse",
+        "importance": "medium",
+        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE4wZ2ZIWEF3bEpsWVVUdGEwU0tEbVV5TWV0MWNyWi1NdVYxQmc4ZmFJTHg3RDBkZkJhS1ZVaFRBcndRSjNXSGxGVmJKRQ?oc=5",
+        "id": 38
+    },
+    {
+        "title": "TXT’s 9th EP sells 1.7m - The Korea Herald",
+        "date": "2026-11-23",
+        "category": "News",
+        "desc": "メディア(US): The Korea Herald",
+        "importance": "medium",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9EcElpTWhPTmdUT3Y4WWdQTDBDYnpQYjhaVmpyeE9OV1VyUk8wMG9uWDdiVU9ZMmZoUmJtVzJFSlRuUjFONGVIZDd4SXZzREtpUDgza3Qtbw?oc=5",
+        "id": 39
+    },
+    {
+        "title": "TXT mini album — PERFECT STORM Surpasses 1.72 Million Initial Sales - The Korea Daily",
+        "date": "2026-11-23",
+        "category": "News",
+        "desc": "メディア(US): The Korea Daily",
+        "importance": "medium",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5zQloyMVMzQXBNdVdMTm1WYjVKTjgwYmVHT1FZbGstVFRTSnZmMnRLUk9Iek1zU2FuanhLR3VTMk1tNmF0MUFTZUN4QnYxcXBOd0JqblNRVUt6VFJhV3E2Y0RBd3NQYkh2MDFlcmJn?oc=5",
+        "id": 40
+    },
+    {
+        "title": "【公式】『TOMORROW X TOGETHER WORLD TOUR ＜STEAL THE WIND＞ IN JAPAN』 OFFICIAL MERCHANDISE予約販売決定！",
+        "date": "2026-11-23",
+        "category": "Comeback",
+        "desc": "公式カテゴリ: [RELEASE]",
+        "importance": "high",
+        "url": "https://txt-official.jp/news/250b79c331d9",
+        "badge": "OFFICIAL",
+        "id": 41
+    },
+    {
+        "title": "【公式】HYBE MUSIC GROUP MERCH POP-UP STORE開催決定！",
+        "date": "2026-11-23",
+        "category": "Live",
+        "desc": "公式カテゴリ: [EVENT & LIVE]",
+        "importance": "high",
+        "url": "https://txt-official.jp/news/1e8ca8e90d10",
+        "badge": "OFFICIAL",
+        "id": 42
     },
     {
         "title": "【公式】TOMORROW X TOGETHER ‘PERFECT STORM(Angel Bite Ver.)’ 予約開始！",
@@ -61,7 +388,7 @@
         "importance": "high",
         "url": "https://txt-official.jp/news/6536bbbd5c69",
         "badge": "OFFICIAL",
-        "id": 7
+        "id": 43
     },
     {
         "title": "TOMORROW X TOGETHER、 「Angel Bite」 パフォーマンスフィルムを公開！ - USENの音楽情報サイト",
@@ -70,178 +397,16 @@
         "desc": "メディア(JP): USENの音楽情報サイト",
         "importance": "medium",
         "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE8tNm92UmFQX2JELV9iemVBY1BRUjVkSlQwaE90cHJyRVVzdmtHdUFCbkV6blRzQ3FaRVM1eW1kcmlKT1RsRU9UNEp4UkZWNG05M0ZjYjhJV1l1NjFiaHVvNnpwRmwza3VUR01Sa3pna3l6S01wNDJ6VVlKdC0?oc=5",
-        "id": 8
+        "id": 44
     },
     {
-        "title": "TOMORROW X TOGETHER ヨンジュン、一人暮らし7ヶ月目の自宅を公開…ロールモデルに驚き（動画あり） - Kstyle",
-        "date": "2026-11-22",
-        "category": "News",
-        "desc": "メディア(JP): Kstyle",
-        "importance": "medium",
-        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1xY1VxMWljRFdhdVo0SXQ1N0JlUG1Jc2NqQlo4OEhWVFdJV01BbFRsSkU3LTIxZnlyUzR1TXVZWk5Vb243WktfNGdvZzRlLUpVdmM4M0xVa254M0Rx?oc=5",
-        "id": 9
-    },
-    {
-        "title": "TOMORROW X TOGETHER ヨンジュン、一人暮らし7ヶ月目の自宅を公開…ロールモデルに驚き（動画あり） - 千葉テレビ放送株式会社",
-        "date": "2026-11-22",
-        "category": "News",
-        "desc": "メディア(JP): 千葉テレビ放送株式会社",
-        "importance": "medium",
-        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBwb0lEakI5bXhvQ0xtd3pBVlJFVmExV29iX0F0YzhzSS1KdzRDWmZURjBRR2pVdzBNNGJzVmNqem1ZYzFKRkRKZDZyUU1UbTV2QjEyYXdlSmJ6YUN5QVNV?oc=5",
-        "id": 10
-    },
-    {
-        "title": "[公式] TOMORROW X TOGETHER、日オリコン「デイリーアルバムランキング」で1位 - 스타뉴스",
-        "date": "2026-11-22",
-        "category": "Comeback",
-        "desc": "メディア(JP): 스타뉴스",
-        "importance": "high",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBqYzJheTFNdi1pRUdMbzJpS2lOOTJaaUh1U3NSM3U5enVwT0ltTGM4c1FyWjRQc1E0eEdVdlVtNFFienQyUUdXWVd3VXFqSjV2Sllnamp4S01PbUJWbzZ1RFAtdlRFZ0d0X2VBNmJtZ0ttZHZfNDZ4RA?oc=5",
-        "id": 11
-    },
-    {
-        "title": "“영화관 갈래?”…영화 보며 함께 울고 웃을 때, 암묵적 우정 생겨 [.txt] - 한겨레",
-        "date": "2026-11-22",
-        "category": "News",
-        "desc": "メディア(KR): 한겨레",
-        "importance": "medium",
-        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBIdGotTy13OXBmUWEyN3ZpTUh6S2JzbXU5NWdlNGZSR3laMkY1MFBhcHMtc0kxU2ZWN2xhaS11dzB1UUhPT2xJNmR6MzhXTkFwS3ZEdGlSNVdYdVc0ck9rSktqYw?oc=5",
-        "id": 12
-    },
-    {
-        "title": "SBS 인기가요 : Angel Bite - 투모로우바이투게더 | SBS 261122 방송 - programs.sbs.co.kr",
-        "date": "2026-11-22",
-        "category": "News",
-        "desc": "メディア(KR): programs.sbs.co.kr",
-        "importance": "medium",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE80QlpSdlVQcmx1NDh2d0xLV1lPUjkwbHRfeWZwNTNCaUxQTXhadG4xYTNuNXRNVldQSV9takN2THE4S2c3T0loenRWeHhIQ0FCTnA0a0M3Uy1WTTlNZk5WNjdzQ3M3UjloV0lQTU0ydjR1RGlyWGZqcnBIM1Y3QQ?oc=5",
-        "id": 13
-    },
-    {
-        "title": "TXT 日 오리콘 데일리 앨범 랭킹 1위 탈환,역시 일본에 강했다! - 뉴스엔",
-        "date": "2026-11-22",
-        "category": "Comeback",
-        "desc": "メディア(KR): 뉴스엔",
-        "importance": "high",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE43RXM4TGktb3hzT3dsUS1pcU5qdDVPUkVIRDdVTXVMRVhjQVNxa3VsRGNXTGtnZ1dmRUlReF9ibUNSRm1CdmFScUphZmtUVC1rNzExc2JtVzlYNmczZnNjQU1oR0Y4QjFKUDBXVjhjZFI3bk1LTzdFVTNhYw?oc=5",
-        "id": 14
-    },
-    {
-        "title": "[공식]투모로우바이투게더, 日 오리콘 '데일리 앨범 랭킹' 1위 - 스타뉴스",
-        "date": "2026-11-22",
-        "category": "Comeback",
-        "desc": "メディア(KR): 스타뉴스",
-        "importance": "high",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1wNTBWOGVvRW9VVzM3MExzWC1UOTJBeUtTR090QlpvcTZwWWNwQ0pzMUtlUjVERnFISnp1a2RMREFna0JzMUphX2o1MkotZlh1cW1ab182ZDhpMGU1X3EzajB1dnVkVEE1dUd3ck5VVFhPR3l6?oc=5",
-        "id": 15
-    },
-    {
-        "title": "Google blocks 41 AI crawlers from Maps in its own robots.txt - PPC Land",
-        "date": "2026-11-22",
-        "category": "News",
-        "desc": "メディア(US): PPC Land",
-        "importance": "medium",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZ0h2UWhqeE1CbTNXRmVvN2Q5OXdwR2hPYkYyaVNhY20ybEtWdWtGWmwyWVphZVp5UHhjUVJXemxGMzdGbjI1UmlqOVJXSWhnOVV0WnBzM0kzaWJ0ay1pSHdoT0lSVEZWdmFnWVdfZXhFZ2RkR0loSEg5LTVxdTZtY2IzQ1Y?oc=5",
-        "id": 16
-    },
-    {
-        "title": "TXT’s Yeonjun Breaks Genre Boundaries With ‘No Labels: Part 02’ And “Ice Cream” - That Eric Alper",
-        "date": "2026-11-22",
-        "category": "News",
-        "desc": "メディア(US): That Eric Alper",
-        "importance": "medium",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUTRBN3NOcmlIZlJhd2NqMl80aTh2OVdpWjhEM3VyRzNuV2ozTUdfVzcxeER3MFVkY3J6SEFvd0tyNnhHTmpGR3M5VEl2X29zc293WnEwQXdVSzlsUUVEMWNvdWh4a3NaazRJLXVFMlRVZ3FuMEtTSk9lVGVaalN1bkZENjlodmxucFgzbWtPWlpiUU9xZm1MbXBXbVNKSHZvdnBMcVF5aDhhTVBpVzdIemh1Y0s0dw?oc=5",
-        "id": 17
-    },
-    {
-        "title": "Mark Williams-Cook's joke cats.txt passed four tests used to sell llms.txt - PPC Land",
-        "date": "2026-11-22",
-        "category": "News",
-        "desc": "メディア(US): PPC Land",
-        "importance": "medium",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQTE5IQ1dMczExVmdwNk9peWJjTG5FdjRlbkNGa1pWVzYyQTBFUzJMLW1UZXhHSVlOUlNUOHFVMlZiM1MyMlItQV9lVGJIWV9rd0dZZ2RiSzRxTVZsS1BLR3pZekxwMEFFd0wwaVN0WE1BNUZIR0V2THdjaExsdkNZU1FjR3JFSml1VU5QdXRPdF9OQWlxSHc?oc=5",
-        "id": 18
-    },
-    {
-        "title": "TXT 연준, 아이돌 멤버인데 \"롤모델이 구성환\"…무슨 사연? (나혼자산다) - Chosunbiz",
-        "date": "2026-11-21",
-        "category": "News",
-        "desc": "メディア(KR): Chosunbiz",
-        "importance": "medium",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZEp2Uk8xNGQ0bUJDZm56ZE5MbTlLbUpXT3JKSU14azBTaDAtcTRJN2NpZXB6YTZubXhLZHNQZGVUdERpOExTWjZBVVNoOThDN0JPTko5UFhuZU14Yy1iZnNOVUd1ek4ySlRJYmtneG1YaEFRVGZPaHY5S0FPMFgwTGlzODjSAZgBQVVfeXFMT0k2Z3VwMDludFJIa2l6S25EdzFwS2NGZWU1aDc5bVdRbWt6ZHRJSGgwVkllczdwbUlnTVhKUEZlRTVkY283RlI2cllCdEljNjk4NUtiODdXbnBPeFlvaU5SWWQ0dlJiRHkxem1KT2tEdWVWbzF4cVZzWnpqb1ZDOEZHWXJ4MGd3VzhlT2hpNWZrSWFKUlFsMmk?oc=5",
-        "id": 19
-    },
-    {
-        "title": "막내 기자의 ‘텍스트팀’ 네줄 요약 [.txt] - 한겨레",
-        "date": "2026-11-21",
-        "category": "News",
-        "desc": "メディア(KR): 한겨레",
-        "importance": "medium",
-        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9LODJQUE44Z1c2NUZ3c2ZSZVJBb2NGSktjRzhHOGtVNEthU0J3SEdseGh1a3I1dGpPdHU2cE5FUE90VnAtaFE2alpUNGVkYi05UUhYLTI4bmc0R1RQVjRaRE5rVQ?oc=5",
-        "id": 20
-    },
-    {
-        "title": "TOMORROW X TOGETHER — Reclaims No. 1 on Oricon Daily Album Ranking - The Korea Daily",
-        "date": "2026-11-21",
-        "category": "News",
-        "desc": "メディア(US): The Korea Daily",
-        "importance": "medium",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1tcDEtdTg3Y2hVOGtYdjFETVJJeHNyamZfZC1tRHFIWXpUekxXM25lZmdfd25LVFBYaGRlQXFGT0UxeXV0RGhKTEJhR0pfMHBuemp0NDFHMWhXX2liMXlDRVdtMlUtNnp0MFowSkhmQnZyUTVxajkwTVZtdTVCUQ?oc=5",
-        "id": 21
-    },
-    {
-        "title": "Tomorrow X Together Reclaims Oricon Chart Top with 9th Mini Album - 조선일보",
-        "date": "2026-11-21",
-        "category": "News",
-        "desc": "メディア(US): 조선일보",
-        "importance": "medium",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNkZUN3hMV3dSY1IwUGNER0tlbFRORFgxaEo5THI0SkZzRkcwellFdGF2VHBjSjZqbHMtMlRqM2NJNHN6UXZRbWJrYkxJd1hvd3hMSVU5ZVZVaHRtckFrRktDT3BSNlQyMnhtbkJrTmp1aVQ1SkZwS2JEWGU5M3VLalBmSnVvRFpjdU1FTjdB?oc=5",
-        "id": 22
-    },
-    {
-        "title": "TOMORROW X TOGETHER、感情や物語を伝える「Angel Bite」パフォーマンス映像を公開 - Billboard JAPAN",
+        "title": "TOMORROW X TOGETHER、9th Mini Album『PERFECT STORM』タイトル曲「Angel Bite」のミュージックビデオを公開！ - UNIVERSAL MUSIC JAPAN",
         "date": "2026-11-20",
         "category": "News",
-        "desc": "メディア(JP): Billboard JAPAN",
+        "desc": "メディア(JP): UNIVERSAL MUSIC JAPAN",
         "importance": "medium",
-        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9Ec25tbEpKYUdDaDFCT1VHM3NfTzNmdG5tcGdhVUNrVW5RdVJ4bjd6TkNhRVpuTWxqRVAyM1EwU09OellVeEJmWllTOEpzZGV1clJqc0tuY0g2Y0dTU0E5YVR3?oc=5",
-        "id": 23
-    },
-    {
-        "title": "TOMORROW X TOGETHER、感情や物語を伝える「Angel Bite」パフォーマンス映像を公開 - Yahoo!ニュース",
-        "date": "2026-11-20",
-        "category": "News",
-        "desc": "メディア(JP): Yahoo!ニュース",
-        "importance": "medium",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5FMWJYSWRXT3g2V3pNdGFUN252ZW96SEFaZ0d0UmRvNlk0WUYtVXZ0Z3ZLUDZxdDJpYTIzMTdrQmJHa1A5VEw4S1hKR3NHRFZmbnY2WkVobkxxZnppS1hFNjFUaFBNYWRPZ0x4ekZtMEFSaEh1c29NREREWlJYdWM?oc=5",
-        "id": 24
-    },
-    {
-        "title": "투모로우바이투게더, 도시 감성 품은 새 콘셉트 사진 공개…성숙미 물씬 - 진일보 | 전남일보",
-        "date": "2026-11-20",
-        "category": "News",
-        "desc": "メディア(KR): 진일보 | 전남일보",
-        "importance": "medium",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAwZzRGdDh3Wm1pUzFRc3hFMVpqLTVrZjBRQVdaUVluX3JTZkgydG92UExXdHhueWN0YkJjQTE4VHZMbWFpY3Y0WDRVRTRUZUNhUEJpc01SaFZNTkJzXzZ1NFVFX2lGeEdxZFlYNHdFcw?oc=5",
-        "id": 25
-    },
-    {
-        "title": "TXT’s PERFECT STORM Is The ‘Sweetest Escape’ We Needed - The Honey POP",
-        "date": "2026-11-20",
-        "category": "News",
-        "desc": "メディア(US): The Honey POP",
-        "importance": "medium",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOdllkV2lTVXpNbUxicTNLZ3lIZlJZQ2dab3k3WnV3YlRTajYwanpBUkdJREhtUEhidzhnc2FMYks4NzN2U3lNUE8wR2NQMG80RmNQbmUyYy1Oc19RZ1lWMF9kbVkyMEhFSDlLNVMxV05RRTB3d2p2Rm9INEFWTkZSOGxVY0w4aUY1T0FUODVydw?oc=5",
-        "id": 26
-    },
-    {
-        "title": "‘Grand Theft Auto VI’ Soundtrack, Gracie Abrams, LISA, Tomorrow x Together & More: New Music Friday Guide - Billboard",
-        "date": "2026-11-20",
-        "category": "News",
-        "desc": "メディア(US): Billboard",
-        "importance": "medium",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOY0tsR19lNElBVktObFZsVGJzSk1BY3FLdTNmWjZBOHp2U05JM0tQbU9fUUlhRUtrQkZ5c2tqU05fX3JONGlTN0dFQWVidWd0OWNROGFISU1NVWhEYWdIQ0toRGxZb2Q1a1hUay0tUjFoZ0MyVW1HeVU1bnozUEkweFI4RktQeVF2VnY1RDQtX1NzQmFXckVYQ2Z1bV9ibEVrdDRGVFlVeWh0cTA0YWpPTQ?oc=5",
-        "id": 27
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE51bVFzdHhNeDlYSU5lazlPTF85TWxoZEI1WjhnekFWRXJuVVJhaWhONF96SmNSdHdCTS1OY2dXbmZZRjRmM2tzczg1WVVUMzRJLVRCb2tzQWd1d0RyU2s3OUxncGo?oc=5",
+        "id": 45
     },
     {
         "title": "【公式】MOA Membership (JP)会員限定『TOMORROW X TOGETHER WORLD TOUR ＜STEAL THE WIND＞ IN JAPAN』公演会場でのサウンドチェックイベントへのご招待決定！",
@@ -251,7 +416,7 @@
         "importance": "medium",
         "url": "https://txt-official.jp/news/01c1e2ef035a",
         "badge": "OFFICIAL",
-        "id": 28
+        "id": 46
     },
     {
         "title": "【公式】[HYBE INSIGHT] TOMORROW X TOGETHER Exhibition 『LAYERS OF US』in TOKYO 日本展示会 ハッシュタグ投稿キャンペーンのお知らせ",
@@ -261,52 +426,7 @@
         "importance": "high",
         "url": "https://txt-official.jp/news/395e0b9c93c3",
         "badge": "OFFICIAL",
-        "id": 29
-    },
-    {
-        "title": "【先ヨミ】TOMORROW X TOGETHER『PERFECT STORM』23.1万枚で現在アルバム首位独走中 - Yahoo!ニュース",
-        "date": "2026-11-19",
-        "category": "Comeback",
-        "desc": "メディア(JP): Yahoo!ニュース",
-        "importance": "high",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9rRTIxVG9pUU01UkJsaGllZnNiTk5sTUZ0RW1uREJOWWFTRC1MbjRuWjluNHB3dlloYnNQaHE2WVNXX2RqcHVkQnBIc2JzQmg5UUs1SXN6Qk1pOVk0QW1STkZqWGxhMWRoaVRyYk5RTTJtZ0JlLTkyUGI1cEdzTHc?oc=5",
-        "id": 30
-    },
-    {
-        "title": "【先ヨミ】TOMORROW X TOGETHER『PERFECT STORM』23.1万枚で現在アルバム首位独走中 - Billboard JAPAN",
-        "date": "2026-11-19",
-        "category": "Comeback",
-        "desc": "メディア(JP): Billboard JAPAN",
-        "importance": "high",
-        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBoLUwwNmdWTzN0Ni15MEt0VkFIaS1WbUIzNnhMUHd5QmVUYnhKdGgxeXA5d0hVSlZrX2I5cUZNSWNVckNNcHlZc2dWU2VqQVZmSG1oakhLZksycUlHaExyaF9R?oc=5",
-        "id": 31
-    },
-    {
-        "title": "GS25, 아이돌 투모로우바이투게더 협업 '맵달반반샌드' 출시 - 전자신문",
-        "date": "2026-11-19",
-        "category": "News",
-        "desc": "メディア(KR): 전자신문",
-        "importance": "medium",
-        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5ZTjFSS0g3SElDYW1rdkVoV1Q1RU5QNGJGVUxSNGRuc0JOVFM2WG1lTk4wSXAtVzBjZ3ZYRE5SZjFJYXFvUkVuOEl2VWYydw?oc=5",
-        "id": 32
-    },
-    {
-        "title": "GS25, TXT 컴백 맞춰 협업 샌드위치 출시...앨범도 판매 - 머니투데이 - 머니투데이",
-        "date": "2026-11-19",
-        "category": "Comeback",
-        "desc": "メディア(KR): 머니투데이",
-        "importance": "high",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA0eEJMUHNPYTdHaWZtci11NEhpQXROQ2ZzanE3bWYzcVpmRHlYdEtQX1FldmJlam93X19qQWkzeHhpTkFidkZWVUFCVjdOWThnU2ZCcVE5V2pTejZ5Wl9jU29SQWhvaTh4U3fSAW9BVV95cUxPM2FDLVFCNkNhSHJIblBWOHkwd0x4Zm9Hc1ExTVdtZWNLaGtReGZ1dFFpaF9WVlFUZ0xQZTVLVUtXbHlRcUU0dFlheGJHVFljMDFHZmIwUVAtVFNxZHpKRjI5WGhVXy1sUjluRHlOOEk?oc=5",
-        "id": 33
-    },
-    {
-        "title": "[NOTICE] TOMORROW X TOGETHER “PERFECT STORM” Fan Signing Event Details (MUSICPLANT) - Weverse",
-        "date": "2026-11-19",
-        "category": "News",
-        "desc": "メディア(US): Weverse",
-        "importance": "medium",
-        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5LLVduQzZHUUkyY1BncmJvVlZ3WDlYQ3g0TGlZbnNjZVJYRExVNHl4c1BwMXJ3NVdFZWw3R3JUc01XQ2NnNTNSLVZDUQ?oc=5",
-        "id": 34
+        "id": 47
     },
     {
         "title": "【公式】TOMORROW X TOGETHER 2026 Black Friday販売決定！",
@@ -316,61 +436,7 @@
         "importance": "high",
         "url": "https://txt-official.jp/news/36ac99caddc4",
         "badge": "OFFICIAL",
-        "id": 35
-    },
-    {
-        "title": "TOMORROW X TOGETHER 韓国9枚目ミニアルバム『PERFECT STORM』2026年11月リリース〈シリアルナンバー&タワレコ特典対象外〉 - タワレコオンライン",
-        "date": "2026-11-18",
-        "category": "Comeback",
-        "desc": "メディア(JP): タワレコオンライン",
-        "importance": "high",
-        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBUWVhqamJ6V0xuaEFSTGlBM0YyNHR0UWJsMlNVX0RfY2M4dG1ySWl5RFJFRUlHVFZuZ0lod1hVSFRoUjRwUmFpX1lUZ1JjcU52TUkzcDVraUM5T0J5ZkcwWURvWQ?oc=5",
-        "id": 36
-    },
-    {
-        "title": "GS25, TXT 컴백 맞춰 협업 샌드위치 출시…앨범 판매도 - 연합뉴스",
-        "date": "2026-11-18",
-        "category": "Comeback",
-        "desc": "メディア(KR): 연합뉴스",
-        "importance": "high",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBmV195TjJ1bXgzQ3RpZnBHd1ZKN2pxZnRUZU82VGF0cGpkbGtRWWxmc05hSURJc3o2VzJRdVJGZkVDYl9qZ1huUFNHVlhmeXk5NEV6a1o3cjhlSjDSAWBBVV95cUxQM3pKRkh4dGR2YjZjZ0tJRVFkS3g2V0pVN2toRXQ4ZUZVYW1MMVpSZ1NLcTBOeTVXRDVESWd6X1dManMya2tlelpRTEtpUjhNMk1hcU9XTW84NHFxUHRyVjI?oc=5",
-        "id": 37
-    },
-    {
-        "title": "투모로우바이투게더, 8연속 초동 밀리언셀러 달성 - 문화일보",
-        "date": "2026-11-18",
-        "category": "News",
-        "desc": "メディア(KR): 문화일보",
-        "importance": "medium",
-        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBBNFVneWJhNjN2QU1rSEo0LXRvZXJSZkY4MC1STm13Q3hsQ3JMV2JYLXBQazVJUk52WVZDX3BUMFJBQ1dxWkxGel93TVN6RzU2?oc=5",
-        "id": 38
-    },
-    {
-        "title": "투모로우바이투게더 수빈, 시크한 포즈 - 뉴스핌",
-        "date": "2026-11-18",
-        "category": "News",
-        "desc": "メディア(KR): 뉴스핌",
-        "importance": "medium",
-        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5GdjhJMkFzMnJpSm4zNVd4YWN6ODZVdXFONHBZM011R2s2OG8xODY5MTIzVFozYkRNeGRxMkE2ZzA4V05BeUV2Z21ycTBLQk05dmplVWFWZ1JFVXJF?oc=5",
-        "id": 39
-    },
-    {
-        "title": "TOMORROW X TOGETHER – PERFECT STORM - The Hype Magazine",
-        "date": "2026-11-18",
-        "category": "News",
-        "desc": "メディア(US): The Hype Magazine",
-        "importance": "medium",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQWld2OHhKbjBBSFFxcENWWWtrNmZsMENiUVhuN096Q2oxZTBtU25iV292QjZaT3JsOU82V2YydExOMUppSTdKUmltS2o4Ym8xbHpUV2IyeHgzTUZxX0VhWUg3UndqWGxlT1lwR1FtRmxVdGtCVEZ1d2tkbkY2NlVTbndWQQ?oc=5",
-        "id": 40
-    },
-    {
-        "title": "ELLE Exclusive: TOMORROW X TOGETHER On Growing Up, Finding Love In Uncertain Times And Their Upcoming India Debut - ELLE India",
-        "date": "2026-11-18",
-        "category": "News",
-        "desc": "メディア(US): ELLE India",
-        "importance": "medium",
-        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5ENEZnb1BwMTcxNll6VEZEYTB5eG1TRFl0dmVLSTI2REREN2V4VE12eHhta0kxODRkcDltUnFVM1FFOFhyc0tqdGQ5WGF5TUZpZWxvdTNpLWY0NE9WTWhQQmNzM1FCbWZ0TC1aSTQ5dE5pWXh6QksxQWF3?oc=5",
-        "id": 41
+        "id": 48
     },
     {
         "title": "【公式】TOMORROW X TOGETHER ‘PERFECT STORM’ OFFICIAL MERCHANDISE販売価格訂正のお詫び",
@@ -380,16 +446,7 @@
         "importance": "high",
         "url": "https://txt-official.jp/news/701057155b81",
         "badge": "OFFICIAL",
-        "id": 42
-    },
-    {
-        "title": "TOMORROW X TOGETHER、9thミニ・アルバムのタイトル曲「Angel Bite」MV公開 - CDJournal.com",
-        "date": "2026-11-17",
-        "category": "Comeback",
-        "desc": "メディア(JP): CDJournal.com",
-        "importance": "high",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA5NURXYmhORHVqVjdPeVhBUWl2em9GWnVSNEhmU2liTWNNOEVBUUxQcS1tWjFLR0IyOGl4alNNRDhnMlFpUnR6OTBYY3lscUxLY2E2ekh0SXBMNTJYdmxXNjhuUUNXVDZtaEcxSTFqcw?oc=5",
-        "id": 43
+        "id": 49
     },
     {
         "title": "「tenki.jp」でTOMORROW X TOGETHER 9th Mini Album『PERFECT STORM』の発売を記念した背景ジャックを実施！ - 一般財団法人 日本気象協会",
@@ -398,25 +455,7 @@
         "desc": "メディア(JP): 一般財団法人 日本気象協会",
         "importance": "medium",
         "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBpcDRMYmdhRnBCeFFpSUtxc280NVJmb1hqM3NTZVA0dUQyTUFoX3l5emNrYVhsSHg4M3BtMVpLMWZqSldvUDduZGFxWEVrMEtpakdF?oc=5",
-        "id": 44
-    },
-    {
-        "title": "TOMORROW X TOGETHER 9th Mini Album ‘PERFECT STORM’ デジタルキャンペーン実施決定！ - UNIVERSAL MUSIC JAPAN",
-        "date": "2026-11-16",
-        "category": "News",
-        "desc": "メディア(JP): UNIVERSAL MUSIC JAPAN",
-        "importance": "medium",
-        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE95OUI0dmhyc3ZkOVBxTHVZeGFGS19PdjRXRjFycXV0TklLNGxxUm9TUUU1TlpRVWdCaVplOXhEVVhSQUtTWmh6ekFEblVFQlI5Q012bHYwblUwMk1JQnNCR3RiNU1FUXM?oc=5",
-        "id": 45
-    },
-    {
-        "title": "Song Review: TXT – Angel Bite - https://thebiaslist.com/",
-        "date": "2026-11-16",
-        "category": "News",
-        "desc": "メディア(US): https://thebiaslist.com/",
-        "importance": "medium",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE83b3BTbEtCNTZlek9yOEFOSUxyLXVNV2djZlZzd2E2RXZhNVROUHFVc1cyRjFYX3VUUERzWGJ2NWVBR29LVUY4X1pKczJhcnNHZDZfVUdNYUdsckx4TUxGdnNrUjZPbDc4Sy13Q29Jdw?oc=5",
-        "id": 46
+        "id": 50
     },
     {
         "title": "TOMORROW X TOGETHER On Their New EP, ‘PERFECT STORM,’ And World Tour - Forbes",
@@ -425,7 +464,16 @@
         "desc": "メディア(US): Forbes",
         "importance": "medium",
         "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQaTBYLXd0ZFU1cWhYcWMxai1fOTRPa0xGRUF3VU1fWTNvRldTQkZ0NkpPYkE0cWl1dzJIN1BhbEN1ZE5rcFBvS0N3S3hSSE9NaXZtdERVNWtWSV82UWFBMWZBU2FqMExHa0tXeVlSTnEzLXloV3djN1licGMzSWtJUWM5SkRFeXlERkZWOE1SQjBKU0dkNzZZakFNbHBtV0hQM2F5Zi1tQkkybFlOSnZpeXJNV2tEWU0xclE?oc=5",
-        "id": 47
+        "id": 51
+    },
+    {
+        "title": "Song Review: TXT – Angel Bite - https://thebiaslist.com/",
+        "date": "2026-11-16",
+        "category": "News",
+        "desc": "メディア(US): https://thebiaslist.com/",
+        "importance": "medium",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE83b3BTbEtCNTZlek9yOEFOSUxyLXVNV2djZlZzd2E2RXZhNVROUHFVc1cyRjFYX3VUUERzWGJ2NWVBR29LVUY4X1pKczJhcnNHZDZfVUdNYUdsckx4TUxGdnNrUjZPbDc4Sy13Q29Jdw?oc=5",
+        "id": 52
     },
     {
         "title": "TOMORROW X TOGETHER Are Ready for the Perfect Storm - vman.com",
@@ -434,7 +482,7 @@
         "desc": "メディア(US): vman.com",
         "importance": "medium",
         "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPNkJUa3lXWEszdG5Wd3JUVzF5Q1M5aTduYVFZTnVOTm82clhIN2x4ekhGbnhuemtvVTFtNGNnLUtxN2doUUlOM0pfbGNrV0luYk02UGFtT2ZFam5ZN1ZrRHpIVXBQTnV3LUhnNUhfQzMyd195UlJVMXhXSHpJNGYtZzFsYw?oc=5",
-        "id": 48
+        "id": 53
     },
     {
         "title": "【公式】TOMORROW X TOGETHER ‘PERFECT STORM’ 配信スタート&デジタルキャンペーン実施決定！",
@@ -444,7 +492,7 @@
         "importance": "high",
         "url": "https://txt-official.jp/news/878e1e995cc8",
         "badge": "OFFICIAL",
-        "id": 49
+        "id": 54
     },
     {
         "title": "【公式】TOMORROW X TOGETHER ‘PERFECT STORM’ 発売記念ストアラッキードローイベント&店頭企画開催決定！",
@@ -454,54 +502,6 @@
         "importance": "high",
         "url": "https://txt-official.jp/news/727a8bedc5d0",
         "badge": "OFFICIAL",
-        "id": 50
-    },
-    {
-        "title": "【公式】TOMORROW X TOGETHER ‘PERFECT STORM’ OFFICIAL MERCHANDISE予約販売決定！",
-        "date": "2026-11-16",
-        "category": "Comeback",
-        "desc": "公式カテゴリ: [RELEASE]",
-        "importance": "high",
-        "url": "https://txt-official.jp/news/1cbd81913e95",
-        "badge": "OFFICIAL",
-        "id": 51
-    },
-    {
-        "title": "TOMORROW X TOGETHER、5度目のワールドツアー＆カムバックへの意気込みを明かす（Kstyle） - Yahoo!ニュース",
-        "date": "2026-11-15",
-        "category": "Comeback",
-        "desc": "メディア(JP): Yahoo!ニュース",
-        "importance": "high",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5Ic3YwNmhvUW9mUGUybWw5d2RCOUplc2x4OWpMRV9fSG1saGJFMTNoWUhRcU5XY3F5U21JeHRFYVB2aXZNdFlKb1FhTlF0SWVZYkp5X2lkTjdhb3pzeXBHS2h4emlVOWVDYU84UVpVNkRRMFZpcWpneWdoWGVrU0k?oc=5",
-        "id": 52
-    },
-    {
-        "title": "【公式】TOMORROW X TOGETHER ‘PERFECT STORM’収録曲「Angel Bite」の応援方法公開！",
-        "date": "2026-11-14",
-        "category": "News",
-        "desc": "公式カテゴリ: [OTHER]",
-        "importance": "medium",
-        "url": "https://txt-official.jp/news/a79cdeb345cd",
-        "badge": "OFFICIAL",
-        "id": 53
-    },
-    {
-        "title": "【公式】TOMORROW X TOGETHER ‘PERFECT STORM’ シリアルナンバー特典詳細発表！",
-        "date": "2026-11-13",
-        "category": "Live",
-        "desc": "公式カテゴリ: [EVENT & LIVE]",
-        "importance": "high",
-        "url": "https://txt-official.jp/news/45388fd1312c",
-        "badge": "OFFICIAL",
-        "id": 54
-    },
-    {
-        "title": "TOMORROW X TOGETHER ‘PERFECT STORM’ 2026年11月17日(火)限定特典付きで発売！「応募抽選用シリアルナンバー」&タワレコ特典「フォトカード1枚 (全5種のうちランダム1枚/形態別)」 - TOWER RECORDS ONLINE - タワレコオンライン",
-        "date": "2026-10-20",
-        "category": "News",
-        "desc": "メディア(JP): タワレコオンライン",
-        "importance": "medium",
-        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1LZDBnV1BFay1CRkRVdzFNOFV2Uk1VOXpzeHJOOGtFRjFfcTVaQW9fT2lpZWZoVlZWcm1BRnFUSERuV1VWVXBOQjBDcmd2Rkg2UEltSHk0dDI1S2lmSndKTGQzaw?oc=5",
         "id": 55
     }
 ]
